@@ -1,4 +1,4 @@
-# API Abierta de KO'OX Campeche
+# API Abierta de las paradas KO'OX Campeche
 
 API REST desarrollada con **Flask** para gestionar paradas de transporte público y encontrar la parada más cercana a una ubicación específica.
 
