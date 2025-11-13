@@ -21,10 +21,7 @@
       href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css"
       rel="stylesheet"
     />
-    <link
-      rel="stylesheet"
-      href="{{ url_for('static', filename='css/main.css') }}"
-    />
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
   </head>
   <body>
     <!-- Navigation Bar -->
@@ -44,24 +41,10 @@
         </button>
         <div class="collapse navbar-collapse" id="navbarNav">
           <ul class="navbar-nav ms-auto">
-            <li class="nav-item">
-              <a class="nav-link" href="#about">Descripción</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="#requirements">Requisitos</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="#installation">Instalación</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="#endpoints">Endpoints</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="#notes">Notas</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="#contact">Contacto</a>
-            </li>
+            <li class="nav-item"><a class="nav-link" href="#about">Descripción</a></li>
+            <li class="nav-item"><a class="nav-link" href="#endpoints">Endpoints</a></li>
+            <li class="nav-item"><a class="nav-link" href="#notes">Notas</a></li>
+            <li class="nav-item"><a class="nav-link" href="#contact">Contacto</a></li>
           </ul>
         </div>
       </div>
@@ -69,7 +52,6 @@
 
     <!-- Hero Section -->
     <header class="hero text-center">
-      <!-- Imagen del banner principal de Ko'ox -->
       <img
         class="img-fluid w-100"
         src="https://campeche.gob.mx/wp-content/uploads/informes/baner-koox-02.svg"
@@ -80,72 +62,37 @@
     <!-- Main Content -->
     <main class="container">
       <section id="about">
-        <!-- Título y descripción principal -->
-        <h1 class="display-4 fw-bold mb-2 text-koox">
-          Ko'ox API (Open source)
-        </h1>
-        <p class="lead">
-          Nuevo transporte público de Campeche - consulta, administra y explora
-          las paradas y rutas.
+        <h1 class="display-4 fw-bold mb-2 text-koox">Ko'ox API (Open source)</h1>
+        <p class="fst-italic">
+          Nuevo transporte público de Campeche - consulta, administra y explora las paradas y rutas.
         </p>
         <h2 class="section-title">Descripción del Proyecto</h2>
         <p>
-          La API de Ko'ox es una API REST desarrollada con Flask que permite
-          gestionar las paradas de transporte público en Campeche y encontrar la
-          parada más cercana a una ubicación específica. Esta página ofrece una
-          visión general de la API, sus requisitos y cómo utilizar sus
-          endpoints.
+          Ko'ox API es una solución innovadora y de código abierto desarrollada con **Flask** para gestionar las paradas de transporte público de la ciudad de Campeche. Esta API permite consultar y administrar las paradas y rutas de los autobuses de Ko'ox de forma sencilla y accesible, proporcionando datos como la ubicación de las paradas, las rutas asociadas y la posibilidad de encontrar la parada más cercana a una ubicación geográfica específica.
         </p>
 
-        <p class="fw-bold">
-          Nota: La API es de código abierto y está destinada a fines educativos
-          y de desarrollo. Los datos se almacenan en memoria y no se persisten
-          en el archivo JSON original.
+        <h2 class="section-title">Contexto y Origen del Proyecto</h2>
+        <p>
+          Este proyecto nació como una propuesta para contribuir al bienestar y desarrollo de la comunidad de Campeche. Como usuario habitual del transporte público, me di cuenta de la problemática relacionada con las paradas de Ko'ox, así como la dispersión y falta de accesibilidad de la información en internet. 
         </p>
-      </section>
-
-      <section id="requirements">
-        <h2 class="section-title">Requisitos</h2>
-        <ul>
-          <li>Python&nbsp;3.7&nbsp;o superior</li>
-          <li>Flask</li>
-          <li>
-            python-dotenv (opcional, para manejar variables de entorno en
-            desarrollo)
-          </li>
-        </ul>
-      </section>
-
-      <section id="installation">
-        <h2 class="section-title">Instalación y Ejecución</h2>
-        <p>Para iniciar el proyecto localmente sigue estos pasos:</p>
-        <ol>
-          <li>
-            Clona el repositorio desde GitHub:
-            <pre><code>git clone https://github.com/CastilloDevX/koox_api.git</code></pre>
-          </li>
-          <li>
-            Activa el entorno virtual y instala las dependencias:
-            <pre><code>
-# Windows
-venv\Scripts\activate
-# Linux/Mac 
-source venv/bin/activate 
-# Descargar las dependencias
-pip install -r requirements.txt 
-</code></pre>
-          </li>
-          <li>
-            Ejecuta la aplicación:
-            <pre><code>python main.py</code></pre>
-          </li>
-        </ol>
+        <p>
+          Fue entonces cuando decidí, <span class="fw-bold">Jose Manuel Castillo Queh</span>, de 20 años, emprender el desarrollo de una solución que pudiera ser aprovechada por la comunidad: una API que centralice la información sobre las paradas de Ko'ox. Este trabajo es el resultado de un esfuerzo de investigación, durante el cual logré recopilar datos dispersos y no expuestos de diversas fuentes disponibles en internet. La tarea no fue fácil, pero con dedicación y esfuerzo, creé una base de datos que sirve de apoyo para esta solución.
+        </p>
+        <p>
+          El propósito principal de la <span class="fw-bold">Ko'ox API</span> es empoderar a la sociedad campechana, proporcionando un recurso accesible y confiable para consultar la información sobre las paradas y rutas del transporte público. Esta API busca que cualquier persona pueda beneficiarse de ella para facilitar su vida diaria al momento de usar el servicio de Ko'ox.
+        </p>
+        <p>
+          Además, en el futuro cercano, estamos trabajando en el desarrollo de una aplicación móvil basada en esta API, que se podrá descargar de manera gratuita como un archivo APK, sin ningún riesgo ni costo. Esta aplicación permitirá a los usuarios acceder a la información de manera más cómoda y sencilla desde sus teléfonos, mejorando aún más la experiencia del usuario.
+        </p>
+        <p>
+          Este proyecto tiene un fuerte componente social, ya que la finalidad es mejorar la calidad de vida de los habitantes de Campeche, fomentar el uso del transporte público y mantenerlos informados sobre las actualizaciones impulsadas por el gobierno de <span class="fw-bold">Layda Sansores San Román</span>, presidenta de Campeche.
+        </p>
       </section>
 
       <section id="endpoints">
         <h2 class="section-title">Endpoints</h2>
         <div class="accordion" id="endpointsAccordion">
-          <!-- GET /stops -->
+          <!-- GET /paradas -->
           <div class="accordion-item">
             <h2 class="accordion-header" id="headingOne">
               <button
@@ -156,19 +103,13 @@ pip install -r requirements.txt
                 aria-expanded="true"
                 aria-controls="collapseOne"
               >
-                <span class="badge bg-primary me-2">GET</span>Obtener todas las
-                paradas <code>/stops</code>
+                <span class="badge bg-primary me-2">GET</span>Obtener todas las paradas <code>/paradas</code>
               </button>
             </h2>
-            <div
-              id="collapseOne"
-              class="accordion-collapse collapse show"
-              aria-labelledby="headingOne"
-              data-bs-parent="#endpointsAccordion"
-            >
+            <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#endpointsAccordion">
               <div class="accordion-body">
                 <p>Devuelve la lista completa de paradas.</p>
-                <pre><code>GET /stops</code></pre>
+                <pre><code>GET /paradas</code></pre>
                 <p><strong>Respuesta exitosa:</strong></p>
                 <pre><code>
 { "ok": true, 
@@ -176,23 +117,40 @@ pip install -r requirements.txt
   "body": 
   [ 
     {
-    "id": 9,
-    "stop_name": "Calle 105-A",
-    "latitude": 19.842192,
-    "longitude": -90.508463,
+    "id": 1,
+    "stop_name": "Alameda",
+    "latitude": 19.841517,
+    "longitude": -90.534564,
     "routes": [
-      "Koox 01 Troncal Eje Principal",
-      "Koox 06 Amp. Bellavista - Revolución Circ. 1",
-      "Koox 08 Carmelo-Esperanza"
-    ]
-  } 
+        "Koox 01 Troncal Eje Principal",
+        "Koox 27 Troncal Eje Central",
+        "Koox 28 Troncal Eje Oriente",
+        "Koox 29 Troncal Eje Norte"
+      ]
+    },
+    {
+    "id": 2,
+    "stop_name": "Chihuahua",
+    "latitude": 19.843134,
+    "longitude": -90.530806,
+    "routes": [
+        "Koox 01 Troncal Eje Principal",
+        "Koox 15 Jardines",
+        "Koox 16 Polvorín - Paso de las Águilas",
+        "Koox 18 San Francisco",
+        "Koox 28 Troncal Eje Oriente",
+        "Koox 29 Troncal Eje Norte"
+      ]
+    },
+    ... (+568 paradas más)
   ] 
 }
                 </code></pre>
               </div>
             </div>
           </div>
-          <!-- GET /stops/<id> -->
+
+          <!-- GET /paradas/<id> -->
           <div class="accordion-item">
             <h2 class="accordion-header" id="headingTwo">
               <button
@@ -203,21 +161,13 @@ pip install -r requirements.txt
                 aria-expanded="false"
                 aria-controls="collapseTwo"
               >
-                <span class="badge bg-primary me-2">GET</span>Obtener una parada
-                específica <code>/stops/&lt;id&gt;</code>
+                <span class="badge bg-primary me-2">GET</span>Obtener una parada específica <code>/paradas/&lt;id&gt;</code>
               </button>
             </h2>
-            <div
-              id="collapseTwo"
-              class="accordion-collapse collapse"
-              aria-labelledby="headingTwo"
-              data-bs-parent="#endpointsAccordion"
-            >
+            <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#endpointsAccordion">
               <div class="accordion-body">
-                <p>
-                  Devuelve los detalles de una parada específica por su ID.
-                </p>
-                <pre><code>GET /stops/9</code></pre>
+                <p>Devuelve los detalles de una parada específica por su ID.</p>
+                <pre><code>GET /paradas/9</code></pre>
                 <p><strong>Respuesta exitosa:</strong></p>
                 <pre><code>
 { 
@@ -239,7 +189,8 @@ pip install -r requirements.txt
               </div>
             </div>
           </div>
-          <!-- POST /stops -->
+
+          <!-- GET /paradas/cercana -->
           <div class="accordion-item">
             <h2 class="accordion-header" id="headingThree">
               <button
@@ -250,46 +201,27 @@ pip install -r requirements.txt
                 aria-expanded="false"
                 aria-controls="collapseThree"
               >
-                <span class="badge bg-success me-2">POST</span>Crear una nueva
-                parada <code>/stops</code>
+                <span class="badge bg-primary me-2">GET</span>Encontrar la parada más cercana <code>/paradas/cercana</code>
               </button>
             </h2>
-            <div
-              id="collapseThree"
-              class="accordion-collapse collapse"
-              aria-labelledby="headingThree"
-              data-bs-parent="#endpointsAccordion"
-            >
+            <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#endpointsAccordion">
               <div class="accordion-body">
-                <p>Crea una nueva parada en el sistema.</p>
-                <pre><code>POST /stops</code></pre>
-                <p><strong>Body (JSON):</strong></p>
-                <pre><code>
-{
-    "stop_name": "Calle 105-A",
-    "latitude": 19.842192,
-    "longitude": -90.508463,
-    "routes": [
-    "Koox 01 Troncal Eje Principal",
-    "Koox 06 Amp. Bellavista - Revolución Circ. 1",
-    "Koox 08 Carmelo-Esperanza"
-    ]
-}
-                </code></pre>
+                <p>Encuentra la parada más cercana a una ubicación geográfica específica utilizando la fórmula Haversine.</p>
+                <pre><code>GET /paradas/cercana?latitude=18.6470&longitude=-91.8240</code></pre>
                 <p><strong>Respuesta exitosa:</strong></p>
                 <pre><code>
 { 
   "ok": true, 
-  "code_http": 200, 
+  "code_http": 200,  
   "body": {
-    "id": 100,
+    "id": 9,
     "stop_name": "Calle 105-A",
     "latitude": 19.842192,
     "longitude": -90.508463,
     "routes": [
-    "Koox 01 Troncal Eje Principal",
-    "Koox 06 Amp. Bellavista - Revolución Circ. 1",
-    "Koox 08 Carmelo-Esperanza"
+      "Koox 01 Troncal Eje Principal",
+      "Koox 06 Amp. Bellavista - Revolución Circ. 1",
+      "Koox 08 Carmelo-Esperanza"
     ]
   }
 }
@@ -297,7 +229,8 @@ pip install -r requirements.txt
               </div>
             </div>
           </div>
-          <!-- PUT /stops/<id> -->
+
+          <!-- GET /paradas/cercana/ruta -->
           <div class="accordion-item">
             <h2 class="accordion-header" id="headingFour">
               <button
@@ -308,186 +241,79 @@ pip install -r requirements.txt
                 aria-expanded="false"
                 aria-controls="collapseFour"
               >
-                <span class="badge bg-warning text-dark me-2">PUT</span
-                >Actualizar una parada <code>/stops/&lt;id&gt;</code>
+                <span class="badge bg-primary me-2">GET</span>Encontrar la parada más cercana con ruta <code>/paradas/cercana/ruta</code>
               </button>
             </h2>
-            <div
-              id="collapseFour"
-              class="accordion-collapse collapse"
-              aria-labelledby="headingFour"
-              data-bs-parent="#endpointsAccordion"
-            >
+            <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#endpointsAccordion">
               <div class="accordion-body">
-                <p>Actualiza la información de una parada existente.</p>
-                <pre><code>PUT /stops/9</code></pre>
-                <p><strong>Body (JSON):</strong></p>
-                <pre><code>
-{ 
-  "latitude": 18.6550, 
-  "longitude": -91.8350, 
-  "routes": [
-    "Koox 01 Troncal Eje Principal",
-    "Koox 06 Amp. Bellavista - Revolución Circ. 1",
-    "Koox 08 Carmelo-Esperanza"
-  ] 
-}
-</code></pre>
+                <p>Encuentra la parada más cercana que tenga una ruta específica.</p>
+                <pre><code>GET /paradas/cercana/ruta?latitude=18.6470&longitude=-91.8240&ruta=eje%20norte</code></pre>
                 <p><strong>Respuesta exitosa:</strong></p>
                 <pre><code>
-{ 
-  "ok": true, 
-  "code_http": 200, 
+{
   "body": {
-    "id": 9,
-    "stop_name": "Calle 105-A",
-    "latitude": 19.842192,
-    "longitude": -90.508463,
-    "routes": [
-    "Koox 01 Troncal Eje Principal",
-    "Koox 06 Amp. Bellavista - Revolución Circ. 1",
-    "Koox 08 Carmelo-Esperanza"
-    ]
-  }
-}                 
-                </code></pre>
-              </div>
-            </div>
-          </div>
-          <!-- DELETE /stops/<id> -->
-          <div class="accordion-item">
-            <h2 class="accordion-header" id="headingFive">
-              <button
-                class="accordion-button collapsed"
-                type="button"
-                data-bs-toggle="collapse"
-                data-bs-target="#collapseFive"
-                aria-expanded="false"
-                aria-controls="collapseFive"
-              >
-                <span class="badge bg-danger me-2">DELETE</span>Eliminar una
-                parada <code>/stops/&lt;id&gt;</code>
-              </button>
-            </h2>
-            <div
-              id="collapseFive"
-              class="accordion-collapse collapse"
-              aria-labelledby="headingFive"
-              data-bs-parent="#endpointsAccordion"
-            >
-              <div class="accordion-body">
-                <p>Elimina una parada del sistema.</p>
-                <pre><code>DELETE /stops/9</code></pre>
-                <p><strong>Respuesta exitosa:</strong></p>
-                <pre><code>
-{ 
-  "ok": true, 
-  "code_http": 200,  
-  "body": {
-    "id": 9,
-    "stop_name": "Calle 105-A",
-    "latitude": 19.842192,
-    "longitude": -90.508463,
+    "id": 22,
+    "latitude": 19.838979,
+    "longitude": -90.538881,
     "routes": [
       "Koox 01 Troncal Eje Principal",
-      "Koox 06 Amp. Bellavista - Revolución Circ. 1",
-      "Koox 08 Carmelo-Esperanza"
-    ]
-  }
-} 
-</code></pre>
-              </div>
-            </div>
-          </div>
-          <!-- GET /stops/closest -->
-          <div class="accordion-item">
-            <h2 class="accordion-header" id="headingSix">
-              <button
-                class="accordion-button collapsed"
-                type="button"
-                data-bs-toggle="collapse"
-                data-bs-target="#collapseSix"
-                aria-expanded="false"
-                aria-controls="collapseSix"
-              >
-                <span class="badge bg-primary me-2">GET</span>Encontrar la
-                parada más cercana <code>/stops/closest</code>
-              </button>
-            </h2>
-            <div
-              id="collapseSix"
-              class="accordion-collapse collapse"
-              aria-labelledby="headingSix"
-              data-bs-parent="#endpointsAccordion"
-            >
-              <div class="accordion-body">
-                <p>
-                  Encuentra la parada más cercana a una ubicación geográfica
-                  específica utilizando la fórmula Haversine.
-                </p>
-                <pre><code>GET /stops/closest?latitude=18.6470&longitude=-91.8240</code></pre>
-                <p><strong>Respuesta exitosa:</strong></p>
-                <pre><code>
-{ 
-  "ok": true, 
-  "code_http": 200,  
-  "body": {
-    "id": 9,
-    "stop_name": "Calle 105-A",
-    "latitude": 19.842192,
-    "longitude": -90.508463,
-    "routes": [
-      "Koox 01 Troncal Eje Principal",
-      "Koox 06 Amp. Bellavista - Revolución Circ. 1",
-      "Koox 08 Carmelo-Esperanza"
-    ]
-  }
+      "Koox 28 Troncal Eje Oriente",
+      "Koox 29 Troncal Eje Norte"
+    ],
+    "stop_name": "Pedro Moreno"
+  },
+  "code_http": 200,
+  "distance_km": 189.13,
+  "num_stops_with_route": 59,
+  "ok": true,
+  "search_route": "eje norte"
 }
                 </code></pre>
               </div>
             </div>
           </div>
+
         </div>
       </section>
+
       <section id="notes">
         <h2 class="section-title">Notas Importantes</h2>
         <ul>
-          <li>
-            La API busca paradas por nombre sin distinguir mayúsculas y
-            minúsculas.
-          </li>
-          <li>
-            La distancia se calcula en kilómetros usando la fórmula de
-            Haversine.
-          </li>
+          <li>La API ahora permite encontrar la parada más cercana tanto con o sin especificar una ruta.</li>
+          <li>La API busca paradas por nombre sin distinguir mayúsculas y minúsculas.</li>
+          <li>Los datos se almacenan en memoria durante la ejecución del servidor, y no se persisten en el archivo JSON original.</li>
+          <li>La distancia se calcula en kilómetros usando la fórmula de Haversine.</li>
         </ul>
       </section>
+
       <section id="contact">
         <h2 class="section-title">Sobre el Desarrollo</h2>
         <p>
-          Este proyecto fue desarrollado por (ITS)
-          <strong>Jose&nbsp;Manuel&nbsp;Castillo&nbsp;Queh</strong> de la
-          Universidad Autónoma de Campeche Facultad de ingeniería. La página
-          está en modo experimental y se mejorará poco a poco.
+          Este proyecto fue desarrollado por <strong>Jose Manuel Castillo Queh</strong>, de 20 años, como una aportación significativa para la sociedad de Campeche. A través de un trabajo de investigación profunda y dedicada sobre la problemática de las paradas de Ko'ox y su dispersión por internet, logré crear esta API, que ahora facilita el acceso a la información centralizada de las paradas y rutas del sistema de transporte público.
+        </p>
+        <p>
+          La Ko'ox API fue desarrollada con el objetivo de proporcionar una solución accesible y útil para los campechanos, al mismo tiempo que fomenta el uso del transporte público y contribuye a la mejora de la movilidad en la ciudad. Además, estamos trabajando en una aplicación móvil que estará disponible en breve como un archivo APK, para que los usuarios puedan aprovechar aún más esta API desde sus dispositivos.
+        </p>
+        <p>
+          Este proyecto fue inspirado por mi deseo personal de ayudar a la comunidad de Campeche a tener acceso a la información de manera rápida, sencilla y efectiva. Con el apoyo de este proyecto, espero que más personas puedan sumarse al impulso de la modernización y desarrollo de Campeche.
+        </p>
+
+        <p>
+          Creador: <a href="https://github.com/CastilloDevX" target="_blank"><strong>Jose Manuel Castillo Queh</strong></a>
         </p>
       </section>
     </main>
+
     <!-- Footer -->
     <footer class="text-center">
       <div class="container">
         <a href="https://campeche.gob.mx/koox/" target="_blank">
-          <img
-            class="img-fluid w-50"
-            src="https://campeche.gob.mx/wp-content/uploads/informes/Logo.png"
-            alt="Banner Ko'ox"
-          />
+          <img class="img-fluid w-50" src="https://campeche.gob.mx/wp-content/uploads/informes/Logo.png" alt="Logo Ko'ox" />
         </a>
-        <p class="fw-bold mb-0">
-          &copy; {{ year }} Ko'ox API. Todos los derechos
-          reservados.
-        </p>
+        <p class="fw-bold mb-0">&copy; {{ year }} Ko'ox API. Todos los derechos reservados.</p>
       </div>
     </footer>
+
     <!-- Bootstrap JS Bundle -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
   </body>

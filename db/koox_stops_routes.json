@@ -19,7 +19,7 @@
     "routes": [
       "Koox 01 Troncal Eje Principal",
       "Koox 15 Jardines",
-      "Koox 16 Polvor\u00edn - Paso de las \u00c1guilas",
+      "Koox 16 Polvorín - Paso de las Águilas",
       "Koox 18 San Francisco",
       "Koox 28 Troncal Eje Oriente",
       "Koox 29 Troncal Eje Norte"
@@ -31,10 +31,10 @@
     "latitude": 19.843159,
     "longitude": -90.527426,
     "routes": [
-      "KO'OX 17 Leovigildo G\u00f3mez - Solidaridad Urbana",
+      "KO'OX 17 Leovigildo Gómez - Solidaridad Urbana",
       "Koox 01 Troncal Eje Principal",
       "Koox 15 Jardines",
-      "Koox 16 Polvor\u00edn - Paso de las \u00c1guilas"
+      "Koox 16 Polvorín - Paso de las Águilas"
     ]
   },
   {
@@ -43,8 +43,9 @@
     "latitude": 19.843017,
     "longitude": -90.524029,
     "routes": [
-      "KO'OX 17 Leovigildo G\u00f3mez - Solidaridad Urbana",
-      "Koox 16 Polvor\u00edn - Paso de las \u00c1guilas"
+      "KO'OX 17 Leovigildo Gómez - Solidaridad Urbana",
+      "Koox 01 Troncal Eje Principal",
+      "Koox 16 Polvorín - Paso de las Águilas"
     ]
   },
   {
@@ -53,28 +54,31 @@
     "latitude": 19.842931,
     "longitude": -90.521759,
     "routes": [
-      "KO'OX 17 Leovigildo G\u00f3mez - Solidaridad Urbana",
-      "Koox 16 Polvor\u00edn - Paso de las \u00c1guilas"
+      "KO'OX 17 Leovigildo Gómez - Solidaridad Urbana",
+      "Koox 01 Troncal Eje Principal",
+      "Koox 16 Polvorín - Paso de las Águilas"
     ]
   },
   {
     "id": 6,
-    "stop_name": "Ej\u00e9rcito Mexicano",
+    "stop_name": "Ejército Mexicano",
     "latitude": 19.842793,
     "longitude": -90.518059,
     "routes": [
       "Koox 01 Troncal Eje Principal",
-      "Koox 09 Bellavista-San Jos\u00e9 el Alto",
+      "Koox 09 Bellavista-San José el Alto",
       "Koox 28 Troncal Eje Oriente"
     ]
   },
   {
     "id": 7,
-    "stop_name": "H\u00e9roe de Nacozari",
+    "stop_name": "Héroe de Nacozari",
     "latitude": 19.8427,
     "longitude": -90.51615,
     "routes": [
-      "Koox 09 Bellavista-San Jos\u00e9 el Alto"
+      "Koox 01 Troncal Eje Principal",
+      "Koox 09 Bellavista-San José el Alto",
+      "Koox 28 Troncal Eje Oriente"
     ]
   },
   {
@@ -94,7 +98,7 @@
     "longitude": -90.508463,
     "routes": [
       "Koox 01 Troncal Eje Principal",
-      "Koox 06 Amp. Bellavista - Revoluci\u00f3n Circ. 1",
+      "Koox 06 Amp. Bellavista - Revolución Circ. 1",
       "Koox 08 Carmelo-Esperanza"
     ]
   },
@@ -105,8 +109,5691 @@
     "longitude": -90.506114,
     "routes": [
       "Koox 01 Troncal Eje Principal",
-      "Koox 06 Amp. Bellavista - Revoluci\u00f3n Circ. 1",
+      "Koox 06 Amp. Bellavista - Revolución Circ. 1",
       "Koox 08 Carmelo-Esperanza"
+    ]
+  },
+  {
+    "id": 11,
+    "stop_name": "Pablo García",
+    "latitude": 19.843452,
+    "longitude": -90.503114,
+    "routes": [
+      "Koox 01 Troncal Eje Principal",
+      "Koox 02 Colonial Campeche - Exhacienda Kala",
+      "Koox 03 Exhacienda Kala - Colonial Campeche",
+      "Koox 04 Tula - Presidentes - Plan Chac",
+      "Koox 05 Plan Chac - Presidentes - Tula",
+      "Koox 06 Amp. Bellavista - Revolución Circ. 1",
+      "Koox 07 Amp. Bellavista - Revolución Circ. 2",
+      "Koox 08 Carmelo-Esperanza"
+    ]
+  },
+  {
+    "id": 12,
+    "stop_name": "Álvaro Obregón",
+    "latitude": 19.843619,
+    "longitude": -90.503215,
+    "routes": [
+      "Koox 01 Troncal Eje Principal",
+      "Koox 02 Colonial Campeche - Exhacienda Kala",
+      "Koox 03 Exhacienda Kala - Colonial Campeche",
+      "Koox 04 Tula - Presidentes - Plan Chac",
+      "Koox 05 Plan Chac - Presidentes - Tula",
+      "Koox 06 Amp. Bellavista - Revolución Circ. 1",
+      "Koox 07 Amp. Bellavista - Revolución Circ. 2",
+      "Koox 08 Carmelo-Esperanza"
+    ]
+  },
+  {
+    "id": 13,
+    "stop_name": "Calle 116",
+    "latitude": 19.842351,
+    "longitude": -90.507829,
+    "routes": [
+      "Koox 01 Troncal Eje Principal",
+      "Koox 06 Amp. Bellavista - Revolución Circ. 1",
+      "Koox 08 Carmelo-Esperanza"
+    ]
+  },
+  {
+    "id": 14,
+    "stop_name": "Calle 114",
+    "latitude": 19.842569,
+    "longitude": -90.51069,
+    "routes": [
+      "Koox 01 Troncal Eje Principal"
+    ]
+  },
+  {
+    "id": 15,
+    "stop_name": "Cuauhtémoc",
+    "latitude": 19.842912,
+    "longitude": -90.516175,
+    "routes": [
+      "Koox 01 Troncal Eje Principal",
+      "Koox 09 Bellavista-San José el Alto",
+      "Koox 28 Troncal Eje Oriente"
+    ]
+  },
+  {
+    "id": 16,
+    "stop_name": "Uruguay",
+    "latitude": 19.843124,
+    "longitude": -90.521817,
+    "routes": [
+      "KO'OX 17 Leovigildo Gómez - Solidaridad Urbana",
+      "Koox 01 Troncal Eje Principal",
+      "Koox 16 Polvorín - Paso de las Águilas"
+    ]
+  },
+  {
+    "id": 17,
+    "stop_name": "Argentina",
+    "latitude": 19.84326,
+    "longitude": -90.524368,
+    "routes": [
+      "KO'OX 17 Leovigildo Gómez - Solidaridad Urbana",
+      "Koox 01 Troncal Eje Principal",
+      "Koox 16 Polvorín - Paso de las Águilas"
+    ]
+  },
+  {
+    "id": 18,
+    "stop_name": "Brasil",
+    "latitude": 19.843368,
+    "longitude": -90.527729,
+    "routes": [
+      "KO'OX 17 Leovigildo Gómez - Solidaridad Urbana",
+      "Koox 01 Troncal Eje Principal",
+      "Koox 15 Jardines",
+      "Koox 16 Polvorín - Paso de las Águilas"
+    ]
+  },
+  {
+    "id": 19,
+    "stop_name": "Circuito Baluartes",
+    "latitude": 19.843275,
+    "longitude": -90.531607,
+    "routes": [
+      "Koox 01 Troncal Eje Principal",
+      "Koox 15 Jardines",
+      "Koox 16 Polvorín - Paso de las Águilas",
+      "Koox 18 San Francisco",
+      "Koox 28 Troncal Eje Oriente",
+      "Koox 29 Troncal Eje Norte"
+    ]
+  },
+  {
+    "id": 20,
+    "stop_name": "Mercado",
+    "latitude": 19.842447,
+    "longitude": -90.534081,
+    "routes": [
+      "Koox 01 Troncal Eje Principal",
+      "Koox 15 Jardines",
+      "Koox 16 Polvorín - Paso de las Águilas",
+      "Koox 18 San Francisco",
+      "Koox 27 Troncal Eje Central",
+      "Koox 28 Troncal Eje Oriente",
+      "Koox 29 Troncal Eje Norte"
+    ]
+  },
+  {
+    "id": 21,
+    "stop_name": "Paso de Ronda",
+    "latitude": 19.840434,
+    "longitude": -90.537266,
+    "routes": [
+      "Koox 01 Troncal Eje Principal",
+      "Koox 27 Troncal Eje Central",
+      "Koox 28 Troncal Eje Oriente",
+      "Koox 29 Troncal Eje Norte"
+    ]
+  },
+  {
+    "id": 22,
+    "stop_name": "Pedro Moreno",
+    "latitude": 19.838979,
+    "longitude": -90.538881,
+    "routes": [
+      "Koox 01 Troncal Eje Principal",
+      "Koox 28 Troncal Eje Oriente",
+      "Koox 29 Troncal Eje Norte"
+    ]
+  },
+  {
+    "id": 23,
+    "stop_name": "Galena Norte",
+    "latitude": 19.836959,
+    "longitude": -90.54104,
+    "routes": [
+      "Koox 01 Troncal Eje Principal"
+    ]
+  },
+  {
+    "id": 24,
+    "stop_name": "Allende Norte",
+    "latitude": 19.835742,
+    "longitude": -90.543221,
+    "routes": [
+      "Koox 01 Troncal Eje Principal"
+    ]
+  },
+  {
+    "id": 25,
+    "stop_name": "Victoria Norte",
+    "latitude": 19.834664,
+    "longitude": -90.545157,
+    "routes": [
+      "Koox 01 Troncal Eje Principal"
+    ]
+  },
+  {
+    "id": 26,
+    "stop_name": "Justo Sierra",
+    "latitude": 19.833362,
+    "longitude": -90.547505,
+    "routes": [
+      "Koox 01 Troncal Eje Principal"
+    ]
+  },
+  {
+    "id": 27,
+    "stop_name": "Manguitos Norte",
+    "latitude": 19.832597,
+    "longitude": -90.549553,
+    "routes": [
+      "Koox 01 Troncal Eje Principal"
+    ]
+  },
+  {
+    "id": 28,
+    "stop_name": "Lazareto Norte",
+    "latitude": 19.832085,
+    "longitude": -90.553905,
+    "routes": [
+      "Koox 01 Troncal Eje Principal"
+    ]
+  },
+  {
+    "id": 29,
+    "stop_name": "Universidad Norte",
+    "latitude": 19.829429,
+    "longitude": -90.555421,
+    "routes": [
+      "Koox 01 Troncal Eje Principal",
+      "Koox 21 Kanisté - Samula - Zaragoza",
+      "Koox 25 Samulá - Zaragoza - Kanisté",
+      "Koox 26 Troncal Eje Hospitales"
+    ]
+  },
+  {
+    "id": 30,
+    "stop_name": "Juan Escutia",
+    "latitude": 19.829889,
+    "longitude": -90.559664,
+    "routes": [
+      "Koox 01 Troncal Eje Principal",
+      "Koox 22 Lerma - Tec",
+      "Koox 23 Kila - Marañón",
+      "Koox 26 Troncal Eje Hospitales"
+    ]
+  },
+  {
+    "id": 31,
+    "stop_name": "Fovi",
+    "latitude": 19.828642,
+    "longitude": -90.561883,
+    "routes": [
+      "Koox 01 Troncal Eje Principal",
+      "Koox 22 Lerma - Tec",
+      "Koox 23 Kila - Marañón"
+    ]
+  },
+  {
+    "id": 32,
+    "stop_name": "ISSSTE",
+    "latitude": 19.826034,
+    "longitude": -90.563819,
+    "routes": [
+      "Koox 01 Troncal Eje Principal",
+      "Koox 22 Lerma - Tec",
+      "Koox 23 Kila - Marañón"
+    ]
+  },
+  {
+    "id": 33,
+    "stop_name": "Cendi Fovi",
+    "latitude": 19.826208,
+    "longitude": -90.56235,
+    "routes": [
+      "Koox 01 Troncal Eje Principal",
+      "Koox 22 Lerma - Tec",
+      "Koox 23 Kila - Marañón"
+    ]
+  },
+  {
+    "id": 34,
+    "stop_name": "Prevo",
+    "latitude": 19.827619,
+    "longitude": -90.55987,
+    "routes": [
+      "Koox 01 Troncal Eje Principal",
+      "Koox 22 Lerma - Tec",
+      "Koox 23 Kila - Marañón",
+      "Koox 26 Troncal Eje Hospitales"
+    ]
+  },
+  {
+    "id": 35,
+    "stop_name": "Facultad de Humanidades",
+    "latitude": 19.829035,
+    "longitude": -90.557408,
+    "routes": [
+      "Koox 01 Troncal Eje Principal",
+      "Koox 21 Kanisté - Samula - Zaragoza",
+      "Koox 25 Samulá - Zaragoza - Kanisté",
+      "Koox 26 Troncal Eje Hospitales"
+    ]
+  },
+  {
+    "id": 36,
+    "stop_name": "Universidad Sur",
+    "latitude": 19.82934,
+    "longitude": -90.555204,
+    "routes": [
+      "Koox 01 Troncal Eje Principal",
+      "Koox 21 Kanisté - Samula - Zaragoza",
+      "Koox 25 Samulá - Zaragoza - Kanisté",
+      "Koox 26 Troncal Eje Hospitales"
+    ]
+  },
+  {
+    "id": 37,
+    "stop_name": "Lazareto Sur",
+    "latitude": 19.831998,
+    "longitude": -90.553712,
+    "routes": [
+      "Koox 01 Troncal Eje Principal"
+    ]
+  },
+  {
+    "id": 38,
+    "stop_name": "Manguitos Sur",
+    "latitude": 19.832602,
+    "longitude": -90.549011,
+    "routes": [
+      "Koox 01 Troncal Eje Principal"
+    ]
+  },
+  {
+    "id": 39,
+    "stop_name": "Abasolo",
+    "latitude": 19.833459,
+    "longitude": -90.546983,
+    "routes": [
+      "Koox 01 Troncal Eje Principal"
+    ]
+  },
+  {
+    "id": 40,
+    "stop_name": "Victoria Sur",
+    "latitude": 19.834627,
+    "longitude": -90.544917,
+    "routes": [
+      "Koox 01 Troncal Eje Principal"
+    ]
+  },
+  {
+    "id": 41,
+    "stop_name": "Allende Sur",
+    "latitude": 19.835618,
+    "longitude": -90.543116,
+    "routes": [
+      "Koox 01 Troncal Eje Principal"
+    ]
+  },
+  {
+    "id": 42,
+    "stop_name": "Galeana Sur",
+    "latitude": 19.83717,
+    "longitude": -90.540312,
+    "routes": [
+      "Koox 01 Troncal Eje Principal"
+    ]
+  },
+  {
+    "id": 43,
+    "stop_name": "IMSS Centro",
+    "latitude": 19.840041,
+    "longitude": -90.537332,
+    "routes": [
+      "Koox 01 Troncal Eje Principal",
+      "Koox 27 Troncal Eje Central",
+      "Koox 28 Troncal Eje Oriente",
+      "Koox 29 Troncal Eje Norte"
+    ]
+  },
+  {
+    "id": 44,
+    "stop_name": "Glorieta Pablo García Sur",
+    "latitude": 19.843716,
+    "longitude": -90.502728,
+    "routes": [
+      "Koox 01 Troncal Eje Principal",
+      "Koox 02 Colonial Campeche - Exhacienda Kala",
+      "Koox 03 Exhacienda Kala - Colonial Campeche",
+      "Koox 04 Tula - Presidentes - Plan Chac",
+      "Koox 05 Plan Chac - Presidentes - Tula",
+      "Koox 06 Amp. Bellavista - Revolución Circ. 1",
+      "Koox 07 Amp. Bellavista - Revolución Circ. 2",
+      "Koox 08 Carmelo-Esperanza"
+    ]
+  },
+  {
+    "id": 45,
+    "stop_name": "Vigésima sur",
+    "latitude": 19.835322,
+    "longitude": -90.483097,
+    "routes": [
+      "Koox 02 Colonial Campeche - Exhacienda Kala",
+      "Koox 03 Exhacienda Kala - Colonial Campeche",
+      "Koox 13 Ampliación Concordia"
+    ]
+  },
+  {
+    "id": 46,
+    "stop_name": "Oxxo Central sur",
+    "latitude": 19.839521,
+    "longitude": -90.536253,
+    "routes": [
+      "Koox 01 Troncal Eje Principal",
+      "Koox 27 Troncal Eje Central",
+      "Koox 28 Troncal Eje Oriente",
+      "Koox 29 Troncal Eje Norte"
+    ]
+  },
+  {
+    "id": 47,
+    "stop_name": "Oxxo Central norte",
+    "latitude": 19.839157,
+    "longitude": -90.53626,
+    "routes": [
+      "Koox 01 Troncal Eje Principal",
+      "Koox 27 Troncal Eje Central",
+      "Koox 28 Troncal Eje Oriente",
+      "Koox 29 Troncal Eje Norte"
+    ]
+  },
+  {
+    "id": 48,
+    "stop_name": "Supermercado Central Sur",
+    "latitude": 19.837503,
+    "longitude": -90.535529,
+    "routes": [
+      "Koox 27 Troncal Eje Central"
+    ]
+  },
+  {
+    "id": 49,
+    "stop_name": "Pescadería Ángel Sur",
+    "latitude": 19.833404,
+    "longitude": -90.534801,
+    "routes": [
+      "Koox 27 Troncal Eje Central"
+    ]
+  },
+  {
+    "id": 50,
+    "stop_name": "Fracciorama Sur",
+    "latitude": 19.829664,
+    "longitude": -90.534886,
+    "routes": [
+      "Koox 27 Troncal Eje Central"
+    ]
+  },
+  {
+    "id": 51,
+    "stop_name": "Supermercado Patricio Trueba Sur",
+    "latitude": 19.826134,
+    "longitude": -90.534562,
+    "routes": [
+      "Koox 19 San Antonio - Sascalum",
+      "Koox 27 Troncal Eje Central"
+    ]
+  },
+  {
+    "id": 52,
+    "stop_name": "Casa de Justicia Sur",
+    "latitude": 19.824197,
+    "longitude": -90.533348,
+    "routes": [
+      "Koox 19 San Antonio - Sascalum",
+      "Koox 26 Troncal Eje Hospitales",
+      "Koox 27 Troncal Eje Central"
+    ]
+  },
+  {
+    "id": 53,
+    "stop_name": "Av.Patricio Trueba con Pedro Moreno",
+    "latitude": 19.820202,
+    "longitude": -90.530761,
+    "routes": [
+      "Koox 27 Troncal Eje Central"
+    ]
+  },
+  {
+    "id": 54,
+    "stop_name": "Fac Medicina Sur",
+    "latitude": 19.818239,
+    "longitude": -90.529659,
+    "routes": [
+      "Koox 27 Troncal Eje Central"
+    ]
+  },
+  {
+    "id": 55,
+    "stop_name": "Fiscalìa norte",
+    "latitude": 19.814708,
+    "longitude": -90.530616,
+    "routes": [
+      "Koox 20 Chiná",
+      "Koox 24 Miguel hidalgo",
+      "Koox 26 Troncal Eje Hospitales",
+      "Koox 27 Troncal Eje Central"
+    ]
+  },
+  {
+    "id": 56,
+    "stop_name": "Paralímpico sur",
+    "latitude": 19.837627,
+    "longitude": -90.480638,
+    "routes": [
+      "Koox 02 Colonial Campeche - Exhacienda Kala",
+      "Koox 03 Exhacienda Kala - Colonial Campeche"
+    ]
+  },
+  {
+    "id": 57,
+    "stop_name": "Lopez Portillo por Tepeyac",
+    "latitude": 19.814809,
+    "longitude": -90.533169,
+    "routes": [
+      "Koox 19 San Antonio - Sascalum",
+      "Koox 24 Miguel hidalgo",
+      "Koox 26 Troncal Eje Hospitales"
+    ]
+  },
+  {
+    "id": 58,
+    "stop_name": "Calle Puente",
+    "latitude": 19.815772,
+    "longitude": -90.536895,
+    "routes": [
+      "Koox 19 San Antonio - Sascalum",
+      "Koox 24 Miguel hidalgo",
+      "Koox 26 Troncal Eje Hospitales"
+    ]
+  },
+  {
+    "id": 59,
+    "stop_name": "Calle Libertad",
+    "latitude": 19.814474,
+    "longitude": -90.537766,
+    "routes": [
+      "Koox 21 Kanisté - Samula - Zaragoza",
+      "Koox 24 Miguel hidalgo",
+      "Koox 25 Samulá - Zaragoza - Kanisté",
+      "Koox 26 Troncal Eje Hospitales"
+    ]
+  },
+  {
+    "id": 60,
+    "stop_name": "Calle Juan de la Barrera",
+    "latitude": 19.812317,
+    "longitude": -90.537876,
+    "routes": [
+      "Koox 24 Miguel hidalgo"
+    ]
+  },
+  {
+    "id": 61,
+    "stop_name": "Calle 18",
+    "latitude": 19.809651,
+    "longitude": -90.537869,
+    "routes": [
+      "Koox 24 Miguel hidalgo"
+    ]
+  },
+  {
+    "id": 62,
+    "stop_name": "Residencial San Fco",
+    "latitude": 19.806217,
+    "longitude": -90.539503,
+    "routes": [
+      "Koox 24 Miguel hidalgo"
+    ]
+  },
+  {
+    "id": 63,
+    "stop_name": "Calle 22 por 5",
+    "latitude": 19.809541,
+    "longitude": -90.539664,
+    "routes": [
+      "Koox 24 Miguel hidalgo"
+    ]
+  },
+  {
+    "id": 64,
+    "stop_name": "Calle 5 por 14",
+    "latitude": 19.808805,
+    "longitude": -90.536775,
+    "routes": [
+      "Koox 24 Miguel hidalgo"
+    ]
+  },
+  {
+    "id": 65,
+    "stop_name": "San Valentín",
+    "latitude": 19.811733,
+    "longitude": -90.535644,
+    "routes": [
+      "Koox 24 Miguel hidalgo"
+    ]
+  },
+  {
+    "id": 66,
+    "stop_name": "Calle Guadalupe Víctoria",
+    "latitude": 19.81443,
+    "longitude": -90.534488,
+    "routes": [
+      "Koox 19 San Antonio - Sascalum",
+      "Koox 24 Miguel hidalgo",
+      "Koox 26 Troncal Eje Hospitales"
+    ]
+  },
+  {
+    "id": 67,
+    "stop_name": "Glorieta exhacienda sur",
+    "latitude": 19.838612,
+    "longitude": -90.481103,
+    "routes": [
+      "Koox 02 Colonial Campeche - Exhacienda Kala",
+      "Koox 03 Exhacienda Kala - Colonial Campeche"
+    ]
+  },
+  {
+    "id": 68,
+    "stop_name": "Fiscalia sur",
+    "latitude": 19.814483,
+    "longitude": -90.530217,
+    "routes": [
+      "Koox 20 Chiná",
+      "Koox 24 Miguel hidalgo",
+      "Koox 26 Troncal Eje Hospitales",
+      "Koox 27 Troncal Eje Central"
+    ]
+  },
+  {
+    "id": 69,
+    "stop_name": "Fac de Medicina Norte",
+    "latitude": 19.81831,
+    "longitude": -90.529515,
+    "routes": [
+      "Koox 27 Troncal Eje Central"
+    ]
+  },
+  {
+    "id": 70,
+    "stop_name": "Bancos Patricio Trueba",
+    "latitude": 19.821707,
+    "longitude": -90.531554,
+    "routes": [
+      "Koox 27 Troncal Eje Central"
+    ]
+  },
+  {
+    "id": 71,
+    "stop_name": "Casa de justicia sur",
+    "latitude": 19.824751,
+    "longitude": -90.533581,
+    "routes": [
+      "Koox 19 San Antonio - Sascalum",
+      "Koox 26 Troncal Eje Hospitales",
+      "Koox 27 Troncal Eje Central"
+    ]
+  },
+  {
+    "id": 72,
+    "stop_name": "Supermercado Patricio Trueba",
+    "latitude": 19.826254,
+    "longitude": -90.534436,
+    "routes": [
+      "Koox 19 San Antonio - Sascalum",
+      "Koox 27 Troncal Eje Central"
+    ]
+  },
+  {
+    "id": 73,
+    "stop_name": "Fracciorama norte",
+    "latitude": 19.829446,
+    "longitude": -90.534736,
+    "routes": [
+      "Koox 27 Troncal Eje Central"
+    ]
+  },
+  {
+    "id": 74,
+    "stop_name": "CDC Kanisté sur",
+    "latitude": 19.820756,
+    "longitude": -90.553797,
+    "routes": [
+      "Koox 21 Kanisté - Samula - Zaragoza",
+      "Koox 25 Samulá - Zaragoza - Kanisté"
+    ]
+  },
+  {
+    "id": 75,
+    "stop_name": "Parque Kanisté sur",
+    "latitude": 19.816724,
+    "longitude": -90.555048,
+    "routes": [
+      "Koox 21 Kanisté - Samula - Zaragoza",
+      "Koox 25 Samulá - Zaragoza - Kanisté"
+    ]
+  },
+  {
+    "id": 76,
+    "stop_name": "Calle 23",
+    "latitude": 19.81532,
+    "longitude": -90.551821,
+    "routes": [
+      "Koox 21 Kanisté - Samula - Zaragoza",
+      "Koox 25 Samulá - Zaragoza - Kanisté"
+    ]
+  },
+  {
+    "id": 77,
+    "stop_name": "Cancha Samulá",
+    "latitude": 19.815348,
+    "longitude": -90.548233,
+    "routes": [
+      "Koox 21 Kanisté - Samula - Zaragoza",
+      "Koox 25 Samulá - Zaragoza - Kanisté"
+    ]
+  },
+  {
+    "id": 78,
+    "stop_name": "Décima primera sur",
+    "latitude": 19.840908,
+    "longitude": -90.479667,
+    "routes": [
+      "Koox 02 Colonial Campeche - Exhacienda Kala",
+      "Koox 03 Exhacienda Kala - Colonial Campeche"
+    ]
+  },
+  {
+    "id": 79,
+    "stop_name": "El Tamarindo",
+    "latitude": 19.814009,
+    "longitude": -90.547221,
+    "routes": [
+      "Koox 21 Kanisté - Samula - Zaragoza"
+    ]
+  },
+  {
+    "id": 80,
+    "stop_name": "El Zapote",
+    "latitude": 19.811866,
+    "longitude": -90.545491,
+    "routes": [
+      "Koox 21 Kanisté - Samula - Zaragoza"
+    ]
+  },
+  {
+    "id": 81,
+    "stop_name": "Calle 21 por 2A",
+    "latitude": 19.813544,
+    "longitude": -90.543949,
+    "routes": [
+      "Koox 21 Kanisté - Samula - Zaragoza",
+      "Koox 25 Samulá - Zaragoza - Kanisté"
+    ]
+  },
+  {
+    "id": 82,
+    "stop_name": "Justo Sierra norte",
+    "latitude": 19.813606,
+    "longitude": -90.539656,
+    "routes": [
+      "Koox 21 Kanisté - Samula - Zaragoza",
+      "Koox 25 Samulá - Zaragoza - Kanisté"
+    ]
+  },
+  {
+    "id": 83,
+    "stop_name": "Venustiano Carranza",
+    "latitude": 19.815282,
+    "longitude": -90.540687,
+    "routes": [
+      "Koox 21 Kanisté - Samula - Zaragoza",
+      "Koox 25 Samulá - Zaragoza - Kanisté"
+    ]
+  },
+  {
+    "id": 84,
+    "stop_name": "Morelos",
+    "latitude": 19.817932,
+    "longitude": -90.540856,
+    "routes": [
+      "Koox 21 Kanisté - Samula - Zaragoza",
+      "Koox 25 Samulá - Zaragoza - Kanisté"
+    ]
+  },
+  {
+    "id": 85,
+    "stop_name": "Calle 11 por 2 norte",
+    "latitude": 19.819012,
+    "longitude": -90.543492,
+    "routes": [
+      "Koox 21 Kanisté - Samula - Zaragoza",
+      "Koox 25 Samulá - Zaragoza - Kanisté"
+    ]
+  },
+  {
+    "id": 86,
+    "stop_name": "Panadería norte",
+    "latitude": 19.820864,
+    "longitude": -90.545118,
+    "routes": [
+      "Koox 21 Kanisté - Samula - Zaragoza",
+      "Koox 25 Samulá - Zaragoza - Kanisté"
+    ]
+  },
+  {
+    "id": 87,
+    "stop_name": "Subestación Samulá sur",
+    "latitude": 19.822114,
+    "longitude": -90.541982,
+    "routes": [
+      "Koox 19 San Antonio - Sascalum",
+      "Koox 21 Kanisté - Samula - Zaragoza",
+      "Koox 25 Samulá - Zaragoza - Kanisté",
+      "Koox 26 Troncal Eje Hospitales"
+    ]
+  },
+  {
+    "id": 88,
+    "stop_name": "Panadería sur",
+    "latitude": 19.820784,
+    "longitude": -90.54511,
+    "routes": [
+      "Koox 21 Kanisté - Samula - Zaragoza",
+      "Koox 25 Samulá - Zaragoza - Kanisté"
+    ]
+  },
+  {
+    "id": 89,
+    "stop_name": "Fac Ingenieria sur",
+    "latitude": 19.844893,
+    "longitude": -90.477138,
+    "routes": [
+      "Koox 02 Colonial Campeche - Exhacienda Kala",
+      "Koox 03 Exhacienda Kala - Colonial Campeche"
+    ]
+  },
+  {
+    "id": 90,
+    "stop_name": "Calle 9 Jardín de niños Eva",
+    "latitude": 19.821891,
+    "longitude": -90.548526,
+    "routes": [
+      "Koox 21 Kanisté - Samula - Zaragoza",
+      "Koox 25 Samulá - Zaragoza - Kanisté"
+    ]
+  },
+  {
+    "id": 91,
+    "stop_name": "Calle 12 con Agustín Melgar",
+    "latitude": 19.825209,
+    "longitude": -90.550504,
+    "routes": [
+      "Koox 21 Kanisté - Samula - Zaragoza",
+      "Koox 25 Samulá - Zaragoza - Kanisté",
+      "Koox 26 Troncal Eje Hospitales"
+    ]
+  },
+  {
+    "id": 92,
+    "stop_name": "Supermercado norte",
+    "latitude": 19.826667,
+    "longitude": -90.552255,
+    "routes": [
+      "Koox 21 Kanisté - Samula - Zaragoza",
+      "Koox 25 Samulá - Zaragoza - Kanisté",
+      "Koox 26 Troncal Eje Hospitales"
+    ]
+  },
+  {
+    "id": 93,
+    "stop_name": "Campus VI sur",
+    "latitude": 19.803487,
+    "longitude": -90.50441,
+    "routes": [
+      "Koox 20 Chiná"
+    ]
+  },
+  {
+    "id": 94,
+    "stop_name": "Juan Escutia por Montes de Oca",
+    "latitude": 19.829536,
+    "longitude": -90.559713,
+    "routes": [
+      "Koox 01 Troncal Eje Principal",
+      "Koox 22 Lerma - Tec",
+      "Koox 23 Kila - Marañón",
+      "Koox 26 Troncal Eje Hospitales"
+    ]
+  },
+  {
+    "id": 95,
+    "stop_name": "Costera de Golfo esq. Calle 7",
+    "latitude": 19.828427,
+    "longitude": -90.564857,
+    "routes": [
+      "Koox 01 Troncal Eje Principal",
+      "Koox 22 Lerma - Tec",
+      "Koox 23 Kila - Marañón"
+    ]
+  },
+  {
+    "id": 96,
+    "stop_name": "Escénica norte",
+    "latitude": 19.826897,
+    "longitude": -90.567378,
+    "routes": [
+      "Koox 22 Lerma - Tec",
+      "Koox 23 Kila - Marañón"
+    ]
+  },
+  {
+    "id": 97,
+    "stop_name": "Resurgimiento norte",
+    "latitude": 19.825013,
+    "longitude": -90.570702,
+    "routes": [
+      "Koox 22 Lerma - Tec",
+      "Koox 23 Kila - Marañón"
+    ]
+  },
+  {
+    "id": 98,
+    "stop_name": "Refaccionaria norte",
+    "latitude": 19.822438,
+    "longitude": -90.575816,
+    "routes": [
+      "Koox 22 Lerma - Tec",
+      "Koox 23 Kila - Marañón"
+    ]
+  },
+  {
+    "id": 99,
+    "stop_name": "Pemex norte",
+    "latitude": 19.815892,
+    "longitude": -90.586603,
+    "routes": [
+      "Koox 22 Lerma - Tec",
+      "Koox 23 Kila - Marañón"
+    ]
+  },
+  {
+    "id": 100,
+    "stop_name": "Fac Quimica sur",
+    "latitude": 19.849028,
+    "longitude": -90.474497,
+    "routes": [
+      "Koox 02 Colonial Campeche - Exhacienda Kala",
+      "Koox 03 Exhacienda Kala - Colonial Campeche"
+    ]
+  },
+  {
+    "id": 101,
+    "stop_name": "Marina norte",
+    "latitude": 19.813026,
+    "longitude": -90.590797,
+    "routes": [
+      "Koox 22 Lerma - Tec",
+      "Koox 23 Kila - Marañón"
+    ]
+  },
+  {
+    "id": 102,
+    "stop_name": "Muelle Lerma norte",
+    "latitude": 19.81115,
+    "longitude": -90.593886,
+    "routes": [
+      "Koox 22 Lerma - Tec",
+      "Koox 23 Kila - Marañón"
+    ]
+  },
+  {
+    "id": 103,
+    "stop_name": "Becán 2",
+    "latitude": 19.808317,
+    "longitude": -90.594746,
+    "routes": [
+      "Koox 22 Lerma - Tec",
+      "Koox 23 Kila - Marañón"
+    ]
+  },
+  {
+    "id": 104,
+    "stop_name": "Campo Marañón",
+    "latitude": 19.806262,
+    "longitude": -90.59691,
+    "routes": [
+      "Koox 23 Kila - Marañón"
+    ]
+  },
+  {
+    "id": 105,
+    "stop_name": "Calle 26 con Espíritu Santo",
+    "latitude": 19.802508,
+    "longitude": -90.599024,
+    "routes": [
+      "Koox 23 Kila - Marañón"
+    ]
+  },
+  {
+    "id": 106,
+    "stop_name": "Deportivo Las Brisas",
+    "latitude": 19.799208,
+    "longitude": -90.603816,
+    "routes": [
+      "Koox 23 Kila - Marañón"
+    ]
+  },
+  {
+    "id": 107,
+    "stop_name": "Calle 20A por Del Petróleo",
+    "latitude": 19.797852,
+    "longitude": -90.603823,
+    "routes": [
+      "Koox 23 Kila - Marañón"
+    ]
+  },
+  {
+    "id": 108,
+    "stop_name": "Calle 20A",
+    "latitude": 19.796456,
+    "longitude": -90.604758,
+    "routes": [
+      "Koox 23 Kila - Marañón"
+    ]
+  },
+  {
+    "id": 109,
+    "stop_name": "Refugio Pesquero 2",
+    "latitude": 19.799464,
+    "longitude": -90.611029,
+    "routes": [
+      "Koox 22 Lerma - Tec",
+      "Koox 23 Kila - Marañón"
+    ]
+  },
+  {
+    "id": 110,
+    "stop_name": "Calle 26 por 24",
+    "latitude": 19.798099,
+    "longitude": -90.608326,
+    "routes": [
+      "Koox 23 Kila - Marañón"
+    ]
+  },
+  {
+    "id": 111,
+    "stop_name": "Abarrotes Kikab norte",
+    "latitude": 19.851282,
+    "longitude": -90.482027,
+    "routes": [
+      "Koox 02 Colonial Campeche - Exhacienda Kala",
+      "Koox 03 Exhacienda Kala - Colonial Campeche",
+      "Koox 04 Tula - Presidentes - Plan Chac",
+      "Koox 05 Plan Chac - Presidentes - Tula"
+    ]
+  },
+  {
+    "id": 112,
+    "stop_name": "Calle 26 con 22A Termoeléctrica",
+    "latitude": 19.796427,
+    "longitude": -90.610895,
+    "routes": [
+      "Koox 23 Kila - Marañón"
+    ]
+  },
+  {
+    "id": 113,
+    "stop_name": "La Caleta",
+    "latitude": 19.797931,
+    "longitude": -90.611912,
+    "routes": [
+      "Koox 22 Lerma - Tec",
+      "Koox 23 Kila - Marañón"
+    ]
+  },
+  {
+    "id": 114,
+    "stop_name": "Refugio Pesquero",
+    "latitude": 19.799479,
+    "longitude": -90.610915,
+    "routes": [
+      "Koox 22 Lerma - Tec",
+      "Koox 23 Kila - Marañón"
+    ]
+  },
+  {
+    "id": 115,
+    "stop_name": "Supermercado Turquesa Antigua",
+    "latitude": 19.84909,
+    "longitude": -90.495902,
+    "routes": [
+      "Koox 03 Exhacienda Kala - Colonial Campeche",
+      "Koox 04 Tula - Presidentes - Plan Chac",
+      "Koox 05 Plan Chac - Presidentes - Tula",
+      "Koox 06 Amp. Bellavista - Revolución Circ. 1",
+      "Koox 07 Amp. Bellavista - Revolución Circ. 2"
+    ]
+  },
+  {
+    "id": 116,
+    "stop_name": "Kalá-Jaina",
+    "latitude": 19.851242,
+    "longitude": -90.494122,
+    "routes": [
+      "Koox 04 Tula - Presidentes - Plan Chac",
+      "Koox 05 Plan Chac - Presidentes - Tula",
+      "Koox 06 Amp. Bellavista - Revolución Circ. 1"
+    ]
+  },
+  {
+    "id": 117,
+    "stop_name": "Camarón",
+    "latitude": 19.851334,
+    "longitude": -90.493731,
+    "routes": [
+      "Koox 04 Tula - Presidentes - Plan Chac",
+      "Koox 05 Plan Chac - Presidentes - Tula"
+    ]
+  },
+  {
+    "id": 118,
+    "stop_name": "Terranova norte",
+    "latitude": 19.852637,
+    "longitude": -90.49126,
+    "routes": [
+      "Koox 02 Colonial Campeche - Exhacienda Kala",
+      "Koox 03 Exhacienda Kala - Colonial Campeche",
+      "Koox 04 Tula - Presidentes - Plan Chac",
+      "Koox 05 Plan Chac - Presidentes - Tula"
+    ]
+  },
+  {
+    "id": 119,
+    "stop_name": "Antigua Kalá",
+    "latitude": 19.85311,
+    "longitude": -90.490595,
+    "routes": [
+      "Koox 04 Tula - Presidentes - Plan Chac",
+      "Koox 05 Plan Chac - Presidentes - Tula"
+    ]
+  },
+  {
+    "id": 120,
+    "stop_name": "Dragones norte",
+    "latitude": 19.853923,
+    "longitude": -90.487583,
+    "routes": [
+      "Koox 04 Tula - Presidentes - Plan Chac",
+      "Koox 05 Plan Chac - Presidentes - Tula"
+    ]
+  },
+  {
+    "id": 121,
+    "stop_name": "Dragones sur",
+    "latitude": 19.854072,
+    "longitude": -90.487888,
+    "routes": [
+      "Koox 04 Tula - Presidentes - Plan Chac",
+      "Koox 05 Plan Chac - Presidentes - Tula"
+    ]
+  },
+  {
+    "id": 122,
+    "stop_name": "Xmabén",
+    "latitude": 19.849655,
+    "longitude": -90.483347,
+    "routes": [
+      "Koox 02 Colonial Campeche - Exhacienda Kala",
+      "Koox 03 Exhacienda Kala - Colonial Campeche"
+    ]
+  },
+  {
+    "id": 123,
+    "stop_name": "Parque San Antonio norte",
+    "latitude": 19.853427,
+    "longitude": -90.485353,
+    "routes": [
+      "Koox 04 Tula - Presidentes - Plan Chac",
+      "Koox 05 Plan Chac - Presidentes - Tula"
+    ]
+  },
+  {
+    "id": 124,
+    "stop_name": "Calle 1",
+    "latitude": 19.852648,
+    "longitude": -90.481847,
+    "routes": [
+      "Koox 02 Colonial Campeche - Exhacienda Kala",
+      "Koox 03 Exhacienda Kala - Colonial Campeche",
+      "Koox 04 Tula - Presidentes - Plan Chac",
+      "Koox 05 Plan Chac - Presidentes - Tula"
+    ]
+  },
+  {
+    "id": 125,
+    "stop_name": "Calle ah kim pech - C 1",
+    "latitude": 19.852705,
+    "longitude": -90.481543,
+    "routes": [
+      "Koox 02 Colonial Campeche - Exhacienda Kala",
+      "Koox 03 Exhacienda Kala - Colonial Campeche",
+      "Koox 04 Tula - Presidentes - Plan Chac",
+      "Koox 05 Plan Chac - Presidentes - Tula"
+    ]
+  },
+  {
+    "id": 126,
+    "stop_name": "Parque los Cedros norte",
+    "latitude": 19.85562,
+    "longitude": -90.480343,
+    "routes": [
+      "Koox 04 Tula - Presidentes - Plan Chac",
+      "Koox 05 Plan Chac - Presidentes - Tula"
+    ]
+  },
+  {
+    "id": 127,
+    "stop_name": "Mango",
+    "latitude": 19.854992,
+    "longitude": -90.48066,
+    "routes": [
+      "Koox 04 Tula - Presidentes - Plan Chac",
+      "Koox 05 Plan Chac - Presidentes - Tula"
+    ]
+  },
+  {
+    "id": 128,
+    "stop_name": "Portales San Martín norte",
+    "latitude": 19.847372,
+    "longitude": -90.532923,
+    "routes": [
+      "Koox 18 San Francisco",
+      "Koox 28 Troncal Eje Oriente",
+      "Koox 29 Troncal Eje Norte"
+    ]
+  },
+  {
+    "id": 129,
+    "stop_name": "Los Alamos norte",
+    "latitude": 19.857985,
+    "longitude": -90.479418,
+    "routes": [
+      "Koox 04 Tula - Presidentes - Plan Chac",
+      "Koox 05 Plan Chac - Presidentes - Tula"
+    ]
+  },
+  {
+    "id": 130,
+    "stop_name": "Los Alamos sur",
+    "latitude": 19.858422,
+    "longitude": -90.479298,
+    "routes": [
+      "Koox 04 Tula - Presidentes - Plan Chac",
+      "Koox 05 Plan Chac - Presidentes - Tula"
+    ]
+  },
+  {
+    "id": 131,
+    "stop_name": "Av. Porfirio Diaz norte",
+    "latitude": 19.860212,
+    "longitude": -90.479698,
+    "routes": [
+      "Koox 04 Tula - Presidentes - Plan Chac",
+      "Koox 05 Plan Chac - Presidentes - Tula"
+    ]
+  },
+  {
+    "id": 132,
+    "stop_name": "Av. Porfirio Díaz sur",
+    "latitude": 19.860005,
+    "longitude": -90.479512,
+    "routes": [
+      "Koox 04 Tula - Presidentes - Plan Chac",
+      "Koox 05 Plan Chac - Presidentes - Tula"
+    ]
+  },
+  {
+    "id": 133,
+    "stop_name": "Chuc-say norte",
+    "latitude": 19.848242,
+    "longitude": -90.484532,
+    "routes": [
+      "Koox 02 Colonial Campeche - Exhacienda Kala",
+      "Koox 03 Exhacienda Kala - Colonial Campeche"
+    ]
+  },
+  {
+    "id": 134,
+    "stop_name": "Primaria Fidencio Poot Chablé",
+    "latitude": 19.861018,
+    "longitude": -90.483617,
+    "routes": [
+      "Koox 04 Tula - Presidentes - Plan Chac",
+      "Koox 05 Plan Chac - Presidentes - Tula"
+    ]
+  },
+  {
+    "id": 135,
+    "stop_name": "Primaria Fidencio Poot Chablé sur",
+    "latitude": 19.860777,
+    "longitude": -90.483142,
+    "routes": [
+      "Koox 04 Tula - Presidentes - Plan Chac",
+      "Koox 05 Plan Chac - Presidentes - Tula"
+    ]
+  },
+  {
+    "id": 136,
+    "stop_name": "Av. Guadalupe Victoria",
+    "latitude": 19.859958,
+    "longitude": -90.484878,
+    "routes": [
+      "Koox 04 Tula - Presidentes - Plan Chac",
+      "Koox 05 Plan Chac - Presidentes - Tula"
+    ]
+  },
+  {
+    "id": 137,
+    "stop_name": "Glorieta de las Bombas sur",
+    "latitude": 19.860508,
+    "longitude": -90.488568,
+    "routes": [
+      "Koox 04 Tula - Presidentes - Plan Chac",
+      "Koox 05 Plan Chac - Presidentes - Tula"
+    ]
+  },
+  {
+    "id": 138,
+    "stop_name": "Av. Aviación",
+    "latitude": 19.842738,
+    "longitude": -90.506872,
+    "routes": [
+      "Koox 01 Troncal Eje Principal",
+      "Koox 06 Amp. Bellavista - Revolución Circ. 1",
+      "Koox 08 Carmelo-Esperanza"
+    ]
+  },
+  {
+    "id": 139,
+    "stop_name": "Calle 14 por Ría",
+    "latitude": 19.84785,
+    "longitude": -90.51959,
+    "routes": [
+      "Koox 08 Carmelo-Esperanza",
+      "Koox 09 Bellavista-San José el Alto",
+      "Koox 10 Morelos Minas",
+      "Koox 18 San Francisco",
+      "Koox 28 Troncal Eje Oriente"
+    ]
+  },
+  {
+    "id": 140,
+    "stop_name": "Manuel Campos",
+    "latitude": 19.844189,
+    "longitude": -90.5322,
+    "routes": [
+      "Koox 01 Troncal Eje Principal",
+      "Koox 15 Jardines",
+      "Koox 16 Polvorín - Paso de las Águilas",
+      "Koox 18 San Francisco",
+      "Koox 28 Troncal Eje Oriente",
+      "Koox 29 Troncal Eje Norte"
+    ]
+  },
+  {
+    "id": 141,
+    "stop_name": "Solidaridad con San Luis sur",
+    "latitude": 19.866753,
+    "longitude": -90.489413,
+    "routes": [
+      "Koox 11 Fidel Velazquez"
+    ]
+  },
+  {
+    "id": 142,
+    "stop_name": "Glorieta CTM",
+    "latitude": 19.862942,
+    "longitude": -90.492228,
+    "routes": [
+      "Koox 04 Tula - Presidentes - Plan Chac",
+      "Koox 05 Plan Chac - Presidentes - Tula",
+      "Koox 10 Morelos Minas",
+      "Koox 11 Fidel Velazquez"
+    ]
+  },
+  {
+    "id": 143,
+    "stop_name": "Técnica 27",
+    "latitude": 19.863433,
+    "longitude": -90.491615,
+    "routes": [
+      "Koox 04 Tula - Presidentes - Plan Chac",
+      "Koox 05 Plan Chac - Presidentes - Tula",
+      "Koox 10 Morelos Minas",
+      "Koox 11 Fidel Velazquez"
+    ]
+  },
+  {
+    "id": 144,
+    "stop_name": "Parque Carrillo Puerto norte",
+    "latitude": 19.854764,
+    "longitude": -90.518504,
+    "routes": [
+      "Koox 29 Troncal Eje Norte"
+    ]
+  },
+  {
+    "id": 145,
+    "stop_name": "Iglesia de Sta Lucía",
+    "latitude": 19.847955,
+    "longitude": -90.514617,
+    "routes": [
+      "Koox 08 Carmelo-Esperanza",
+      "Koox 09 Bellavista-San José el Alto",
+      "Koox 10 Morelos Minas"
+    ]
+  },
+  {
+    "id": 146,
+    "stop_name": "Secundaria General 3 sur",
+    "latitude": 19.860817,
+    "longitude": -90.514507,
+    "routes": [
+      "Koox 29 Troncal Eje Norte"
+    ]
+  },
+  {
+    "id": 147,
+    "stop_name": "Calle 108 por 105",
+    "latitude": 19.855217,
+    "longitude": -90.50954,
+    "routes": [
+      "Koox 06 Amp. Bellavista - Revolución Circ. 1",
+      "Koox 07 Amp. Bellavista - Revolución Circ. 2",
+      "Koox 09 Bellavista-San José el Alto"
+    ]
+  },
+  {
+    "id": 148,
+    "stop_name": "El Molino",
+    "latitude": 19.849668,
+    "longitude": -90.516085,
+    "routes": [
+      "Koox 09 Bellavista-San José el Alto"
+    ]
+  },
+  {
+    "id": 149,
+    "stop_name": "Calle 108 con Calle 105 sur",
+    "latitude": 19.855219,
+    "longitude": -90.509443,
+    "routes": [
+      "Koox 06 Amp. Bellavista - Revolución Circ. 1",
+      "Koox 07 Amp. Bellavista - Revolución Circ. 2",
+      "Koox 09 Bellavista-San José el Alto"
+    ]
+  },
+  {
+    "id": 150,
+    "stop_name": "Calle 16 de septiembre",
+    "latitude": 19.857388,
+    "longitude": -90.508043,
+    "routes": [
+      "Koox 06 Amp. Bellavista - Revolución Circ. 1",
+      "Koox 07 Amp. Bellavista - Revolución Circ. 2",
+      "Koox 09 Bellavista-San José el Alto"
+    ]
+  },
+  {
+    "id": 151,
+    "stop_name": "Calle 6",
+    "latitude": 19.858098,
+    "longitude": -90.509777,
+    "routes": [
+      "Koox 06 Amp. Bellavista - Revolución Circ. 1",
+      "Koox 07 Amp. Bellavista - Revolución Circ. 2",
+      "Koox 09 Bellavista-San José el Alto"
+    ]
+  },
+  {
+    "id": 152,
+    "stop_name": "Cancha San José el Alto",
+    "latitude": 19.859283,
+    "longitude": -90.509953,
+    "routes": [
+      "Koox 06 Amp. Bellavista - Revolución Circ. 1",
+      "Koox 07 Amp. Bellavista - Revolución Circ. 2",
+      "Koox 09 Bellavista-San José el Alto"
+    ]
+  },
+  {
+    "id": 153,
+    "stop_name": "Calle 10 con Calle 27",
+    "latitude": 19.846252,
+    "longitude": -90.504228,
+    "routes": [
+      "Koox 06 Amp. Bellavista - Revolución Circ. 1",
+      "Koox 07 Amp. Bellavista - Revolución Circ. 2"
+    ]
+  },
+  {
+    "id": 154,
+    "stop_name": "San Julián",
+    "latitude": 19.846287,
+    "longitude": -90.49885,
+    "routes": [
+      "Koox 02 Colonial Campeche - Exhacienda Kala",
+      "Koox 03 Exhacienda Kala - Colonial Campeche",
+      "Koox 04 Tula - Presidentes - Plan Chac",
+      "Koox 05 Plan Chac - Presidentes - Tula",
+      "Koox 06 Amp. Bellavista - Revolución Circ. 1",
+      "Koox 07 Amp. Bellavista - Revolución Circ. 2",
+      "Koox 08 Carmelo-Esperanza"
+    ]
+  },
+  {
+    "id": 155,
+    "stop_name": "Parque de las Banderas",
+    "latitude": 19.848516,
+    "longitude": -90.489454,
+    "routes": [
+      "Koox 02 Colonial Campeche - Exhacienda Kala",
+      "Koox 03 Exhacienda Kala - Colonial Campeche"
+    ]
+  },
+  {
+    "id": 156,
+    "stop_name": "Escuela Primaria Venustiano Carranza",
+    "latitude": 19.846453,
+    "longitude": -90.504383,
+    "routes": [
+      "Koox 06 Amp. Bellavista - Revolución Circ. 1",
+      "Koox 07 Amp. Bellavista - Revolución Circ. 2"
+    ]
+  },
+  {
+    "id": 157,
+    "stop_name": "Calle 10 con 23",
+    "latitude": 19.848333,
+    "longitude": -90.50533,
+    "routes": [
+      "Koox 06 Amp. Bellavista - Revolución Circ. 1",
+      "Koox 07 Amp. Bellavista - Revolución Circ. 2"
+    ]
+  },
+  {
+    "id": 158,
+    "stop_name": "Calle 49",
+    "latitude": 19.84464,
+    "longitude": -90.53069,
+    "routes": [
+      "Koox 01 Troncal Eje Principal",
+      "Koox 15 Jardines",
+      "Koox 16 Polvorín - Paso de las Águilas",
+      "Koox 18 San Francisco",
+      "Koox 29 Troncal Eje Norte"
+    ]
+  },
+  {
+    "id": 159,
+    "stop_name": "Esquina del Águila",
+    "latitude": 19.845556,
+    "longitude": -90.527222,
+    "routes": [
+      "Koox 18 San Francisco"
+    ]
+  },
+  {
+    "id": 160,
+    "stop_name": "Esquina del Combate",
+    "latitude": 19.845942,
+    "longitude": -90.523633,
+    "routes": [
+      "Koox 18 San Francisco"
+    ]
+  },
+  {
+    "id": 161,
+    "stop_name": "Esquina de Repollo",
+    "latitude": 19.846176,
+    "longitude": -90.521479,
+    "routes": [
+      "Koox 18 San Francisco"
+    ]
+  },
+  {
+    "id": 162,
+    "stop_name": "Supermercado por 16",
+    "latitude": 19.846337,
+    "longitude": -90.518582,
+    "routes": [
+      "Koox 08 Carmelo-Esperanza",
+      "Koox 09 Bellavista-San José el Alto",
+      "Koox 10 Morelos Minas",
+      "Koox 18 San Francisco",
+      "Koox 28 Troncal Eje Oriente"
+    ]
+  },
+  {
+    "id": 163,
+    "stop_name": "Calle 16 por 110",
+    "latitude": 19.846392,
+    "longitude": -90.512295,
+    "routes": [
+      "Koox 08 Carmelo-Esperanza",
+      "Koox 10 Morelos Minas"
+    ]
+  },
+  {
+    "id": 164,
+    "stop_name": "Calle 116 con Niños Héroes",
+    "latitude": 19.848,
+    "longitude": -90.507837,
+    "routes": [
+      "Koox 10 Morelos Minas"
+    ]
+  },
+  {
+    "id": 165,
+    "stop_name": "Calle 116 con Calle 17",
+    "latitude": 19.850592,
+    "longitude": -90.506298,
+    "routes": [
+      "Koox 06 Amp. Bellavista - Revolución Circ. 1",
+      "Koox 07 Amp. Bellavista - Revolución Circ. 2",
+      "Koox 10 Morelos Minas"
+    ]
+  },
+  {
+    "id": 166,
+    "stop_name": "Supermercado Kalá norte",
+    "latitude": 19.851053,
+    "longitude": -90.490813,
+    "routes": [
+      "Koox 02 Colonial Campeche - Exhacienda Kala",
+      "Koox 03 Exhacienda Kala - Colonial Campeche",
+      "Koox 04 Tula - Presidentes - Plan Chac",
+      "Koox 05 Plan Chac - Presidentes - Tula"
+    ]
+  },
+  {
+    "id": 167,
+    "stop_name": "Mercado Morelos",
+    "latitude": 19.850838,
+    "longitude": -90.50412,
+    "routes": [
+      "Koox 06 Amp. Bellavista - Revolución Circ. 1",
+      "Koox 07 Amp. Bellavista - Revolución Circ. 2",
+      "Koox 10 Morelos Minas"
+    ]
+  },
+  {
+    "id": 168,
+    "stop_name": "Unidad Deportiva Morelos",
+    "latitude": 19.850662,
+    "longitude": -90.50182,
+    "routes": [
+      "Koox 06 Amp. Bellavista - Revolución Circ. 1",
+      "Koox 07 Amp. Bellavista - Revolución Circ. 2",
+      "Koox 10 Morelos Minas"
+    ]
+  },
+  {
+    "id": 169,
+    "stop_name": "Calle Jazmín",
+    "latitude": 19.85161,
+    "longitude": -90.498427,
+    "routes": [
+      "Koox 06 Amp. Bellavista - Revolución Circ. 1",
+      "Koox 07 Amp. Bellavista - Revolución Circ. 2",
+      "Koox 10 Morelos Minas"
+    ]
+  },
+  {
+    "id": 170,
+    "stop_name": "Renovación Moral",
+    "latitude": 19.852834,
+    "longitude": -90.497964,
+    "routes": [
+      "Koox 06 Amp. Bellavista - Revolución Circ. 1",
+      "Koox 07 Amp. Bellavista - Revolución Circ. 2",
+      "Koox 10 Morelos Minas"
+    ]
+  },
+  {
+    "id": 171,
+    "stop_name": "Héctor de la Peña Pavón",
+    "latitude": 19.85729,
+    "longitude": -90.497608,
+    "routes": [
+      "Koox 10 Morelos Minas"
+    ]
+  },
+  {
+    "id": 172,
+    "stop_name": "Corregidora",
+    "latitude": 19.859483,
+    "longitude": -90.498057,
+    "routes": [
+      "Koox 10 Morelos Minas"
+    ]
+  },
+  {
+    "id": 173,
+    "stop_name": "Abarrotes Minas",
+    "latitude": 19.861985,
+    "longitude": -90.498425,
+    "routes": [
+      "Koox 10 Morelos Minas"
+    ]
+  },
+  {
+    "id": 174,
+    "stop_name": "Plata",
+    "latitude": 19.862157,
+    "longitude": -90.496297,
+    "routes": [
+      "Koox 10 Morelos Minas"
+    ]
+  },
+  {
+    "id": 175,
+    "stop_name": "Cuarzo por Plata",
+    "latitude": 19.861714,
+    "longitude": -90.494067,
+    "routes": [
+      "Koox 10 Morelos Minas",
+      "Koox 11 Fidel Velazquez"
+    ]
+  },
+  {
+    "id": 176,
+    "stop_name": "Cuarzo con Topacio (Campo)",
+    "latitude": 19.863368,
+    "longitude": -90.49363,
+    "routes": [
+      "Koox 10 Morelos Minas",
+      "Koox 11 Fidel Velazquez"
+    ]
+  },
+  {
+    "id": 177,
+    "stop_name": "Supermercado Turquesa norte",
+    "latitude": 19.84813,
+    "longitude": -90.494048,
+    "routes": [
+      "Koox 02 Colonial Campeche - Exhacienda Kala",
+      "Koox 03 Exhacienda Kala - Colonial Campeche"
+    ]
+  },
+  {
+    "id": 178,
+    "stop_name": "Alejandrina por Granate",
+    "latitude": 19.865812,
+    "longitude": -90.498158,
+    "routes": [
+      "Koox 10 Morelos Minas"
+    ]
+  },
+  {
+    "id": 179,
+    "stop_name": "Rubí con Topacio",
+    "latitude": 19.866153,
+    "longitude": -90.49561,
+    "routes": [
+      "Koox 10 Morelos Minas"
+    ]
+  },
+  {
+    "id": 180,
+    "stop_name": "San Salvador",
+    "latitude": 19.863728,
+    "longitude": -90.500213,
+    "routes": [
+      "Koox 10 Morelos Minas"
+    ]
+  },
+  {
+    "id": 181,
+    "stop_name": "Abarrotes Donaldo Colosio",
+    "latitude": 19.861413,
+    "longitude": -90.50002,
+    "routes": [
+      "Koox 10 Morelos Minas"
+    ]
+  },
+  {
+    "id": 182,
+    "stop_name": "Las Flores",
+    "latitude": 19.859512,
+    "longitude": -90.500373,
+    "routes": [
+      "Koox 10 Morelos Minas"
+    ]
+  },
+  {
+    "id": 183,
+    "stop_name": "3 hermano con Malagón",
+    "latitude": 19.856347,
+    "longitude": -90.502695,
+    "routes": [
+      "Koox 06 Amp. Bellavista - Revolución Circ. 1",
+      "Koox 07 Amp. Bellavista - Revolución Circ. 2",
+      "Koox 10 Morelos Minas"
+    ]
+  },
+  {
+    "id": 184,
+    "stop_name": "Depósito San José",
+    "latitude": 19.847405,
+    "longitude": -90.509348,
+    "routes": [
+      "Koox 10 Morelos Minas"
+    ]
+  },
+  {
+    "id": 185,
+    "stop_name": "Esquina del Parroquiano 3",
+    "latitude": 19.852885,
+    "longitude": -90.505513,
+    "routes": [
+      "Koox 06 Amp. Bellavista - Revolución Circ. 1",
+      "Koox 07 Amp. Bellavista - Revolución Circ. 2",
+      "Koox 10 Morelos Minas"
+    ]
+  },
+  {
+    "id": 186,
+    "stop_name": "Parque del Joloch",
+    "latitude": 19.854907,
+    "longitude": -90.503638,
+    "routes": [
+      "Koox 06 Amp. Bellavista - Revolución Circ. 1",
+      "Koox 07 Amp. Bellavista - Revolución Circ. 2",
+      "Koox 10 Morelos Minas"
+    ]
+  },
+  {
+    "id": 187,
+    "stop_name": "El pez volador 1",
+    "latitude": 19.856197,
+    "longitude": -90.502413,
+    "routes": [
+      "Koox 06 Amp. Bellavista - Revolución Circ. 1",
+      "Koox 07 Amp. Bellavista - Revolución Circ. 2",
+      "Koox 10 Morelos Minas"
+    ]
+  },
+  {
+    "id": 188,
+    "stop_name": "Gasolinera Sta Lucia",
+    "latitude": 19.84639,
+    "longitude": -90.498722,
+    "routes": [
+      "Koox 02 Colonial Campeche - Exhacienda Kala",
+      "Koox 03 Exhacienda Kala - Colonial Campeche",
+      "Koox 04 Tula - Presidentes - Plan Chac",
+      "Koox 05 Plan Chac - Presidentes - Tula",
+      "Koox 06 Amp. Bellavista - Revolución Circ. 1",
+      "Koox 07 Amp. Bellavista - Revolución Circ. 2",
+      "Koox 08 Carmelo-Esperanza"
+    ]
+  },
+  {
+    "id": 189,
+    "stop_name": "IC. Turismo sur",
+    "latitude": 19.816237,
+    "longitude": -90.536976,
+    "routes": [
+      "Koox 19 San Antonio - Sascalum",
+      "Koox 24 Miguel hidalgo",
+      "Koox 26 Troncal Eje Hospitales"
+    ]
+  },
+  {
+    "id": 190,
+    "stop_name": "Unidad Deportiva Morelos",
+    "latitude": 19.850474,
+    "longitude": -90.501902,
+    "routes": [
+      "Koox 06 Amp. Bellavista - Revolución Circ. 1",
+      "Koox 07 Amp. Bellavista - Revolución Circ. 2",
+      "Koox 10 Morelos Minas"
+    ]
+  },
+  {
+    "id": 191,
+    "stop_name": "Antigua Hampolol norte",
+    "latitude": 19.868383,
+    "longitude": -90.4987,
+    "routes": [
+      "Koox 29 Troncal Eje Norte"
+    ]
+  },
+  {
+    "id": 192,
+    "stop_name": "Deshuesadero sur",
+    "latitude": 19.787193,
+    "longitude": -90.500142,
+    "routes": [
+      "Koox 20 Chiná"
+    ]
+  },
+  {
+    "id": 193,
+    "stop_name": "Portales San Martín sur",
+    "latitude": 19.849408,
+    "longitude": -90.531146,
+    "routes": [
+      "Koox 28 Troncal Eje Oriente",
+      "Koox 29 Troncal Eje Norte"
+    ]
+  },
+  {
+    "id": 194,
+    "stop_name": "Parque de Guadalupe",
+    "latitude": 19.848487,
+    "longitude": -90.530575,
+    "routes": [
+      "Koox 28 Troncal Eje Oriente",
+      "Koox 29 Troncal Eje Norte"
+    ]
+  },
+  {
+    "id": 195,
+    "stop_name": "Calle 12 con calle 45-A",
+    "latitude": 19.850446,
+    "longitude": -90.529077,
+    "routes": [
+      "Koox 29 Troncal Eje Norte"
+    ]
+  },
+  {
+    "id": 196,
+    "stop_name": "Iglesia de San Francisco",
+    "latitude": 19.852854,
+    "longitude": -90.525029,
+    "routes": [
+      "Koox 28 Troncal Eje Oriente",
+      "Koox 29 Troncal Eje Norte"
+    ]
+  },
+  {
+    "id": 197,
+    "stop_name": "Parque Sta Lucía",
+    "latitude": 19.847623,
+    "longitude": -90.514797,
+    "routes": [
+      "Koox 08 Carmelo-Esperanza",
+      "Koox 09 Bellavista-San José el Alto",
+      "Koox 10 Morelos Minas",
+      "Koox 18 San Francisco"
+    ]
+  },
+  {
+    "id": 198,
+    "stop_name": "Ah-Kim-Pech sur",
+    "latitude": 19.851033,
+    "longitude": -90.520691,
+    "routes": [
+      "Koox 08 Carmelo-Esperanza",
+      "Koox 28 Troncal Eje Oriente",
+      "Koox 29 Troncal Eje Norte"
+    ]
+  },
+  {
+    "id": 199,
+    "stop_name": "IMSS Santa Lucía",
+    "latitude": 19.844981,
+    "longitude": -90.500989,
+    "routes": [
+      "Koox 01 Troncal Eje Principal",
+      "Koox 02 Colonial Campeche - Exhacienda Kala",
+      "Koox 03 Exhacienda Kala - Colonial Campeche",
+      "Koox 04 Tula - Presidentes - Plan Chac",
+      "Koox 05 Plan Chac - Presidentes - Tula",
+      "Koox 06 Amp. Bellavista - Revolución Circ. 1",
+      "Koox 07 Amp. Bellavista - Revolución Circ. 2",
+      "Koox 08 Carmelo-Esperanza"
+    ]
+  },
+  {
+    "id": 200,
+    "stop_name": "Ah-Kim-Pech norte",
+    "latitude": 19.851197,
+    "longitude": -90.520463,
+    "routes": [
+      "Koox 08 Carmelo-Esperanza",
+      "Koox 28 Troncal Eje Oriente",
+      "Koox 29 Troncal Eje Norte"
+    ]
+  },
+  {
+    "id": 201,
+    "stop_name": "Fco. I. Madero",
+    "latitude": 19.851303,
+    "longitude": -90.52194,
+    "routes": [
+      "Koox 08 Carmelo-Esperanza",
+      "Koox 28 Troncal Eje Oriente",
+      "Koox 29 Troncal Eje Norte"
+    ]
+  },
+  {
+    "id": 202,
+    "stop_name": "Parque de San Fco.",
+    "latitude": 19.851862,
+    "longitude": -90.524763,
+    "routes": [
+      "Koox 29 Troncal Eje Norte"
+    ]
+  },
+  {
+    "id": 203,
+    "stop_name": "Cruz Roja sur",
+    "latitude": 19.85925,
+    "longitude": -90.516448,
+    "routes": [
+      "Koox 29 Troncal Eje Norte"
+    ]
+  },
+  {
+    "id": 204,
+    "stop_name": "Av. Jaina con Calle Calakmul",
+    "latitude": 19.851755,
+    "longitude": -90.494078,
+    "routes": [
+      "Koox 04 Tula - Presidentes - Plan Chac",
+      "Koox 05 Plan Chac - Presidentes - Tula"
+    ]
+  },
+  {
+    "id": 205,
+    "stop_name": "Nelson Barrera norte",
+    "latitude": 19.862167,
+    "longitude": -90.511408,
+    "routes": [
+      "Koox 29 Troncal Eje Norte"
+    ]
+  },
+  {
+    "id": 206,
+    "stop_name": "La  Escondida",
+    "latitude": 19.845824,
+    "longitude": -90.530953,
+    "routes": [
+      "Koox 18 San Francisco"
+    ]
+  },
+  {
+    "id": 207,
+    "stop_name": "Nelson Barrera sur",
+    "latitude": 19.862535,
+    "longitude": -90.512267,
+    "routes": [
+      "Koox 29 Troncal Eje Norte"
+    ]
+  },
+  {
+    "id": 208,
+    "stop_name": "Gilberto",
+    "latitude": 19.847621,
+    "longitude": -90.484926,
+    "routes": [
+      "Koox 02 Colonial Campeche - Exhacienda Kala",
+      "Koox 03 Exhacienda Kala - Colonial Campeche"
+    ]
+  },
+  {
+    "id": 209,
+    "stop_name": "Calle 45-B",
+    "latitude": 19.846702,
+    "longitude": -90.529142,
+    "routes": [
+      "Koox 18 San Francisco"
+    ]
+  },
+  {
+    "id": 210,
+    "stop_name": "Sixto Pérez Cuevas",
+    "latitude": 19.86346,
+    "longitude": -90.507577,
+    "routes": [
+      "Koox 29 Troncal Eje Norte"
+    ]
+  },
+  {
+    "id": 211,
+    "stop_name": "CETMAR",
+    "latitude": 19.863715,
+    "longitude": -90.508428,
+    "routes": [
+      "Koox 29 Troncal Eje Norte"
+    ]
+  },
+  {
+    "id": 212,
+    "stop_name": "Villa Mercedes norte",
+    "latitude": 19.864676,
+    "longitude": -90.504915,
+    "routes": [
+      "Koox 29 Troncal Eje Norte"
+    ]
+  },
+  {
+    "id": 213,
+    "stop_name": "Villamercedes sur",
+    "latitude": 19.864935,
+    "longitude": -90.504688,
+    "routes": [
+      "Koox 29 Troncal Eje Norte"
+    ]
+  },
+  {
+    "id": 214,
+    "stop_name": "Palmas III sur",
+    "latitude": 19.866052,
+    "longitude": -90.502508,
+    "routes": [
+      "Koox 29 Troncal Eje Norte"
+    ]
+  },
+  {
+    "id": 215,
+    "stop_name": "Solidaridad con San Luis Norte",
+    "latitude": 19.866442,
+    "longitude": -90.48938,
+    "routes": [
+      "Koox 11 Fidel Velazquez"
+    ]
+  },
+  {
+    "id": 216,
+    "stop_name": "Antigua Hampolol sur",
+    "latitude": 19.868198,
+    "longitude": -90.499207,
+    "routes": [
+      "Koox 29 Troncal Eje Norte"
+    ]
+  },
+  {
+    "id": 217,
+    "stop_name": "Oaxaca",
+    "latitude": 19.86938,
+    "longitude": -90.490463,
+    "routes": [
+      "Koox 11 Fidel Velazquez"
+    ]
+  },
+  {
+    "id": 218,
+    "stop_name": "Maquiladora norte",
+    "latitude": 19.871125,
+    "longitude": -90.493952,
+    "routes": [
+      "Koox 11 Fidel Velazquez",
+      "Koox 29 Troncal Eje Norte"
+    ]
+  },
+  {
+    "id": 219,
+    "stop_name": "Yacasay",
+    "latitude": 19.849814,
+    "longitude": -90.483149,
+    "routes": [
+      "Koox 02 Colonial Campeche - Exhacienda Kala",
+      "Koox 03 Exhacienda Kala - Colonial Campeche"
+    ]
+  },
+  {
+    "id": 220,
+    "stop_name": "Solidaridad Nacional",
+    "latitude": 19.871944,
+    "longitude": -90.494275,
+    "routes": [
+      "Koox 11 Fidel Velazquez",
+      "Koox 29 Troncal Eje Norte"
+    ]
+  },
+  {
+    "id": 221,
+    "stop_name": "Calle 10 por calle 19",
+    "latitude": 19.849882,
+    "longitude": -90.505235,
+    "routes": [
+      "Koox 06 Amp. Bellavista - Revolución Circ. 1",
+      "Koox 07 Amp. Bellavista - Revolución Circ. 2",
+      "Koox 10 Morelos Minas"
+    ]
+  },
+  {
+    "id": 222,
+    "stop_name": "Calle Castellot con 17",
+    "latitude": 19.851213,
+    "longitude": -90.502933,
+    "routes": [
+      "Koox 06 Amp. Bellavista - Revolución Circ. 1",
+      "Koox 07 Amp. Bellavista - Revolución Circ. 2",
+      "Koox 10 Morelos Minas"
+    ]
+  },
+  {
+    "id": 223,
+    "stop_name": "Ría con 14",
+    "latitude": 19.847565,
+    "longitude": -90.519741,
+    "routes": [
+      "Koox 08 Carmelo-Esperanza",
+      "Koox 09 Bellavista-San José el Alto",
+      "Koox 10 Morelos Minas",
+      "Koox 18 San Francisco",
+      "Koox 28 Troncal Eje Oriente"
+    ]
+  },
+  {
+    "id": 224,
+    "stop_name": "Ría Supermercador sur",
+    "latitude": 19.845943,
+    "longitude": -90.519351,
+    "routes": [
+      "Koox 09 Bellavista-San José el Alto",
+      "Koox 10 Morelos Minas",
+      "Koox 18 San Francisco",
+      "Koox 28 Troncal Eje Oriente"
+    ]
+  },
+  {
+    "id": 225,
+    "stop_name": "Av. Hidalgo 1 sur",
+    "latitude": 19.842284,
+    "longitude": -90.513409,
+    "routes": [
+      "Koox 01 Troncal Eje Principal",
+      "Koox 28 Troncal Eje Oriente"
+    ]
+  },
+  {
+    "id": 226,
+    "stop_name": "Av. Hidalgo 2 sur",
+    "latitude": 19.83991,
+    "longitude": -90.51189,
+    "routes": [
+      "Koox 28 Troncal Eje Oriente"
+    ]
+  },
+  {
+    "id": 227,
+    "stop_name": "Hidalgo Aviacion sur",
+    "latitude": 19.837554,
+    "longitude": -90.509032,
+    "routes": [
+      "Koox 28 Troncal Eje Oriente"
+    ]
+  },
+  {
+    "id": 228,
+    "stop_name": "Palmas III norte",
+    "latitude": 19.86579,
+    "longitude": -90.5026,
+    "routes": [
+      "Koox 29 Troncal Eje Norte"
+    ]
+  },
+  {
+    "id": 229,
+    "stop_name": "Abarrotes Kikab Sur",
+    "latitude": 19.851193,
+    "longitude": -90.481987,
+    "routes": [
+      "Koox 02 Colonial Campeche - Exhacienda Kala",
+      "Koox 03 Exhacienda Kala - Colonial Campeche",
+      "Koox 04 Tula - Presidentes - Plan Chac",
+      "Koox 05 Plan Chac - Presidentes - Tula"
+    ]
+  },
+  {
+    "id": 230,
+    "stop_name": "Quinta de los españoles sur",
+    "latitude": 19.834553,
+    "longitude": -90.501132,
+    "routes": [
+      "Koox 28 Troncal Eje Oriente"
+    ]
+  },
+  {
+    "id": 231,
+    "stop_name": "Tienda de materiales Concordia sur",
+    "latitude": 19.83325,
+    "longitude": -90.498827,
+    "routes": [
+      "Koox 12 Siglo XXI",
+      "Koox 13 Ampliación Concordia",
+      "Koox 14 Kalá",
+      "Koox 28 Troncal Eje Oriente"
+    ]
+  },
+  {
+    "id": 232,
+    "stop_name": "Glorieta kin-ha",
+    "latitude": 19.830661,
+    "longitude": -90.495999,
+    "routes": [
+      "Koox 12 Siglo XXI",
+      "Koox 13 Ampliación Concordia",
+      "Koox 14 Kalá",
+      "Koox 28 Troncal Eje Oriente"
+    ]
+  },
+  {
+    "id": 233,
+    "stop_name": "Glorieta Concordia IMSS 13",
+    "latitude": 19.83336,
+    "longitude": -90.494587,
+    "routes": [
+      "Koox 12 Siglo XXI",
+      "Koox 13 Ampliación Concordia",
+      "Koox 14 Kalá"
+    ]
+  },
+  {
+    "id": 234,
+    "stop_name": "Abarrotes Siglo XXI",
+    "latitude": 19.814457,
+    "longitude": -90.493666,
+    "routes": [
+      "Koox 12 Siglo XXI"
+    ]
+  },
+  {
+    "id": 235,
+    "stop_name": "Calle décima sur",
+    "latitude": 19.809892,
+    "longitude": -90.493295,
+    "routes": [
+      "Koox 12 Siglo XXI"
+    ]
+  },
+  {
+    "id": 236,
+    "stop_name": "Vigésima cuarta",
+    "latitude": 19.801525,
+    "longitude": -90.491139,
+    "routes": [
+      "Koox 12 Siglo XXI"
+    ]
+  },
+  {
+    "id": 237,
+    "stop_name": "Segunda Glorieta",
+    "latitude": 19.802494,
+    "longitude": -90.489487,
+    "routes": [
+      "Koox 12 Siglo XXI"
+    ]
+  },
+  {
+    "id": 238,
+    "stop_name": "Unidad Deportiva siglo XXI",
+    "latitude": 19.806561,
+    "longitude": -90.490571,
+    "routes": [
+      "Koox 12 Siglo XXI"
+    ]
+  },
+  {
+    "id": 239,
+    "stop_name": "Calle décima norte",
+    "latitude": 19.810152,
+    "longitude": -90.492387,
+    "routes": [
+      "Koox 12 Siglo XXI"
+    ]
+  },
+  {
+    "id": 240,
+    "stop_name": "Fac Quimica norte",
+    "latitude": 19.848878,
+    "longitude": -90.47468,
+    "routes": [
+      "Koox 02 Colonial Campeche - Exhacienda Kala",
+      "Koox 03 Exhacienda Kala - Colonial Campeche"
+    ]
+  },
+  {
+    "id": 241,
+    "stop_name": "Glorieta siglo XXI norte",
+    "latitude": 19.814136,
+    "longitude": -90.493415,
+    "routes": [
+      "Koox 12 Siglo XXI"
+    ]
+  },
+  {
+    "id": 242,
+    "stop_name": "Cruz Roja norte",
+    "latitude": 19.858812,
+    "longitude": -90.51682,
+    "routes": [
+      "Koox 29 Troncal Eje Norte"
+    ]
+  },
+  {
+    "id": 243,
+    "stop_name": "San Caralampio",
+    "latitude": 19.852463,
+    "longitude": -90.512035,
+    "routes": [
+      "Koox 09 Bellavista-San José el Alto"
+    ]
+  },
+  {
+    "id": 244,
+    "stop_name": "Calle 10 por Rosales",
+    "latitude": 19.850182,
+    "longitude": -90.527119,
+    "routes": [
+      "Koox 29 Troncal Eje Norte"
+    ]
+  },
+  {
+    "id": 245,
+    "stop_name": "Secundaria General 3",
+    "latitude": 19.860682,
+    "longitude": -90.514498,
+    "routes": [
+      "Koox 29 Troncal Eje Norte"
+    ]
+  },
+  {
+    "id": 246,
+    "stop_name": "Fuerte San José",
+    "latitude": 19.859948,
+    "longitude": -90.511032,
+    "routes": [
+      "Koox 06 Amp. Bellavista - Revolución Circ. 1",
+      "Koox 07 Amp. Bellavista - Revolución Circ. 2",
+      "Koox 09 Bellavista-San José el Alto"
+    ]
+  },
+  {
+    "id": 247,
+    "stop_name": "Vicente Guerrero",
+    "latitude": 19.832208,
+    "longitude": -90.485576,
+    "routes": [
+      "Koox 13 Ampliación Concordia"
+    ]
+  },
+  {
+    "id": 248,
+    "stop_name": "Cecytec",
+    "latitude": 19.832537,
+    "longitude": -90.491185,
+    "routes": [
+      "Koox 13 Ampliación Concordia"
+    ]
+  },
+  {
+    "id": 249,
+    "stop_name": "Ría Supermercado norte",
+    "latitude": 19.845971,
+    "longitude": -90.519161,
+    "routes": [
+      "Koox 09 Bellavista-San José el Alto",
+      "Koox 10 Morelos Minas",
+      "Koox 18 San Francisco",
+      "Koox 28 Troncal Eje Oriente"
+    ]
+  },
+  {
+    "id": 250,
+    "stop_name": "Periférico sur",
+    "latitude": 19.791697,
+    "longitude": -90.502142,
+    "routes": [
+      "Koox 20 Chiná"
+    ]
+  },
+  {
+    "id": 251,
+    "stop_name": "Fac Ingenieria norte",
+    "latitude": 19.844762,
+    "longitude": -90.477492,
+    "routes": [
+      "Koox 02 Colonial Campeche - Exhacienda Kala",
+      "Koox 03 Exhacienda Kala - Colonial Campeche"
+    ]
+  },
+  {
+    "id": 252,
+    "stop_name": "Glorieta Concordia",
+    "latitude": 19.833415,
+    "longitude": -90.494938,
+    "routes": [
+      "Koox 12 Siglo XXI",
+      "Koox 13 Ampliación Concordia",
+      "Koox 14 Kalá"
+    ]
+  },
+  {
+    "id": 253,
+    "stop_name": "Tienda de Materiales Concordia norte",
+    "latitude": 19.833565,
+    "longitude": -90.498948,
+    "routes": [
+      "Koox 12 Siglo XXI",
+      "Koox 13 Ampliación Concordia",
+      "Koox 14 Kalá",
+      "Koox 28 Troncal Eje Oriente"
+    ]
+  },
+  {
+    "id": 254,
+    "stop_name": "IMSS Concordia sur",
+    "latitude": 19.833914,
+    "longitude": -90.49262,
+    "routes": [
+      "Koox 12 Siglo XXI",
+      "Koox 13 Ampliación Concordia",
+      "Koox 14 Kalá"
+    ]
+  },
+  {
+    "id": 255,
+    "stop_name": "Fco. I. Madero",
+    "latitude": 19.833757,
+    "longitude": -90.48734,
+    "routes": [
+      "Koox 13 Ampliación Concordia"
+    ]
+  },
+  {
+    "id": 256,
+    "stop_name": "IMSS Concordia norte",
+    "latitude": 19.834433,
+    "longitude": -90.492347,
+    "routes": [
+      "Koox 13 Ampliación Concordia",
+      "Koox 14 Kalá"
+    ]
+  },
+  {
+    "id": 257,
+    "stop_name": "Venustiano Carranza",
+    "latitude": 19.834933,
+    "longitude": -90.484081,
+    "routes": [
+      "Koox 02 Colonial Campeche - Exhacienda Kala",
+      "Koox 03 Exhacienda Kala - Colonial Campeche",
+      "Koox 13 Ampliación Concordia"
+    ]
+  },
+  {
+    "id": 258,
+    "stop_name": "Quinta españoles norte",
+    "latitude": 19.834604,
+    "longitude": -90.501022,
+    "routes": [
+      "Koox 28 Troncal Eje Oriente"
+    ]
+  },
+  {
+    "id": 259,
+    "stop_name": "Navales sur",
+    "latitude": 19.835853,
+    "longitude": -90.503966,
+    "routes": [
+      "Koox 28 Troncal Eje Oriente"
+    ]
+  },
+  {
+    "id": 260,
+    "stop_name": "Navales norte",
+    "latitude": 19.835767,
+    "longitude": -90.503442,
+    "routes": [
+      "Koox 28 Troncal Eje Oriente"
+    ]
+  },
+  {
+    "id": 261,
+    "stop_name": "Héctor Pérez Martinez",
+    "latitude": 19.836254,
+    "longitude": -90.487214,
+    "routes": [
+      "Koox 13 Ampliación Concordia"
+    ]
+  },
+  {
+    "id": 262,
+    "stop_name": "Supermercado Turquesa sur",
+    "latitude": 19.847983,
+    "longitude": -90.494057,
+    "routes": [
+      "Koox 02 Colonial Campeche - Exhacienda Kala",
+      "Koox 03 Exhacienda Kala - Colonial Campeche"
+    ]
+  },
+  {
+    "id": 263,
+    "stop_name": "Décima primera norte",
+    "latitude": 19.841283,
+    "longitude": -90.479678,
+    "routes": [
+      "Koox 02 Colonial Campeche - Exhacienda Kala",
+      "Koox 03 Exhacienda Kala - Colonial Campeche"
+    ]
+  },
+  {
+    "id": 264,
+    "stop_name": "Emiliano Zapata",
+    "latitude": 19.836514,
+    "longitude": -90.487155,
+    "routes": [
+      "Koox 13 Ampliación Concordia"
+    ]
+  },
+  {
+    "id": 265,
+    "stop_name": "Hidalgo Aviación norte",
+    "latitude": 19.837418,
+    "longitude": -90.508508,
+    "routes": [
+      "Koox 28 Troncal Eje Oriente"
+    ]
+  },
+  {
+    "id": 266,
+    "stop_name": "Unidad Deportiva Concordia norte",
+    "latitude": 19.837467,
+    "longitude": -90.490214,
+    "routes": [
+      "Koox 13 Ampliación Concordia",
+      "Koox 14 Kalá"
+    ]
+  },
+  {
+    "id": 267,
+    "stop_name": "Av. Hidalgo 1 norte",
+    "latitude": 19.842463,
+    "longitude": -90.513408,
+    "routes": [
+      "Koox 01 Troncal Eje Principal",
+      "Koox 28 Troncal Eje Oriente"
+    ]
+  },
+  {
+    "id": 268,
+    "stop_name": "Ría Tienda de materiales (Maritza Ruelas)",
+    "latitude": 19.843648,
+    "longitude": -90.518726,
+    "routes": [
+      "Koox 01 Troncal Eje Principal",
+      "Koox 09 Bellavista-San José el Alto",
+      "Koox 28 Troncal Eje Oriente"
+    ]
+  },
+  {
+    "id": 269,
+    "stop_name": "Calle 12 Mercadito Morelos",
+    "latitude": 19.851008,
+    "longitude": -90.503997,
+    "routes": [
+      "Koox 06 Amp. Bellavista - Revolución Circ. 1",
+      "Koox 07 Amp. Bellavista - Revolución Circ. 2",
+      "Koox 10 Morelos Minas"
+    ]
+  },
+  {
+    "id": 270,
+    "stop_name": "Castellot con 19",
+    "latitude": 19.850895,
+    "longitude": -90.502903,
+    "routes": [
+      "Koox 06 Amp. Bellavista - Revolución Circ. 1",
+      "Koox 07 Amp. Bellavista - Revolución Circ. 2",
+      "Koox 10 Morelos Minas"
+    ]
+  },
+  {
+    "id": 271,
+    "stop_name": "Av. Circuito Constitución norte",
+    "latitude": 19.852107,
+    "longitude": -90.500088,
+    "routes": [
+      "Koox 06 Amp. Bellavista - Revolución Circ. 1",
+      "Koox 07 Amp. Bellavista - Revolución Circ. 2",
+      "Koox 10 Morelos Minas"
+    ]
+  },
+  {
+    "id": 272,
+    "stop_name": "12 CON 114",
+    "latitude": 19.852518,
+    "longitude": -90.505698,
+    "routes": [
+      "Koox 06 Amp. Bellavista - Revolución Circ. 1",
+      "Koox 07 Amp. Bellavista - Revolución Circ. 2",
+      "Koox 10 Morelos Minas"
+    ]
+  },
+  {
+    "id": 273,
+    "stop_name": "Glorieta Exhacienda norte",
+    "latitude": 19.838682,
+    "longitude": -90.481322,
+    "routes": [
+      "Koox 02 Colonial Campeche - Exhacienda Kala",
+      "Koox 03 Exhacienda Kala - Colonial Campeche"
+    ]
+  },
+  {
+    "id": 274,
+    "stop_name": "Tepeyac",
+    "latitude": 19.814925,
+    "longitude": -90.533424,
+    "routes": [
+      "Koox 19 San Antonio - Sascalum",
+      "Koox 24 Miguel hidalgo",
+      "Koox 26 Troncal Eje Hospitales"
+    ]
+  },
+  {
+    "id": 275,
+    "stop_name": "Calle 12 jardín de Niños Eva Samano",
+    "latitude": 19.822203,
+    "longitude": -90.549025,
+    "routes": [
+      "Koox 21 Kanisté - Samula - Zaragoza",
+      "Koox 25 Samulá - Zaragoza - Kanisté"
+    ]
+  },
+  {
+    "id": 276,
+    "stop_name": "Ecuador",
+    "latitude": 19.842633,
+    "longitude": -90.522063,
+    "routes": [
+      "KO'OX 17 Leovigildo Gómez - Solidaridad Urbana",
+      "Koox 01 Troncal Eje Principal",
+      "Koox 16 Polvorín - Paso de las Águilas"
+    ]
+  },
+  {
+    "id": 277,
+    "stop_name": "Unidad Deportiva Concordia",
+    "latitude": 19.837176,
+    "longitude": -90.492523,
+    "routes": [
+      "Koox 13 Ampliación Concordia",
+      "Koox 14 Kalá"
+    ]
+  },
+  {
+    "id": 278,
+    "stop_name": "Supermercado Kalá",
+    "latitude": 19.839542,
+    "longitude": -90.490018,
+    "routes": [
+      "Koox 13 Ampliación Concordia",
+      "Koox 14 Kalá"
+    ]
+  },
+  {
+    "id": 279,
+    "stop_name": "Itzambanak",
+    "latitude": 19.840772,
+    "longitude": -90.488714,
+    "routes": [
+      "Koox 14 Kalá"
+    ]
+  },
+  {
+    "id": 280,
+    "stop_name": "Bonampak",
+    "latitude": 19.843177,
+    "longitude": -90.487156,
+    "routes": [
+      "Koox 14 Kalá"
+    ]
+  },
+  {
+    "id": 281,
+    "stop_name": "Bonampak por Campechén",
+    "latitude": 19.843779,
+    "longitude": -90.487965,
+    "routes": [
+      "Koox 14 Kalá"
+    ]
+  },
+  {
+    "id": 282,
+    "stop_name": "Campechén",
+    "latitude": 19.845082,
+    "longitude": -90.486993,
+    "routes": [
+      "Koox 02 Colonial Campeche - Exhacienda Kala",
+      "Koox 03 Exhacienda Kala - Colonial Campeche",
+      "Koox 14 Kalá"
+    ]
+  },
+  {
+    "id": 283,
+    "stop_name": "Dzilbalchén",
+    "latitude": 19.842922,
+    "longitude": -90.490087,
+    "routes": [
+      "Koox 14 Kalá"
+    ]
+  },
+  {
+    "id": 284,
+    "stop_name": "Paralimpico norte",
+    "latitude": 19.837472,
+    "longitude": -90.480847,
+    "routes": [
+      "Koox 02 Colonial Campeche - Exhacienda Kala",
+      "Koox 03 Exhacienda Kala - Colonial Campeche"
+    ]
+  },
+  {
+    "id": 285,
+    "stop_name": "Palenque",
+    "latitude": 19.841076,
+    "longitude": -90.492021,
+    "routes": [
+      "Koox 14 Kalá"
+    ]
+  },
+  {
+    "id": 286,
+    "stop_name": "Panadería",
+    "latitude": 19.839299,
+    "longitude": -90.490512,
+    "routes": [
+      "Koox 13 Ampliación Concordia",
+      "Koox 14 Kalá"
+    ]
+  },
+  {
+    "id": 287,
+    "stop_name": "Callejón",
+    "latitude": 19.839667,
+    "longitude": -90.492631,
+    "routes": [
+      "Koox 14 Kalá"
+    ]
+  },
+  {
+    "id": 288,
+    "stop_name": "Benjamín Romero",
+    "latitude": 19.837652,
+    "longitude": -90.495961,
+    "routes": [
+      "Koox 08 Carmelo-Esperanza",
+      "Koox 14 Kalá"
+    ]
+  },
+  {
+    "id": 289,
+    "stop_name": "Av. Hidalgo (La Verbena Norte)",
+    "latitude": 19.839932,
+    "longitude": -90.511781,
+    "routes": [
+      "Koox 28 Troncal Eje Oriente"
+    ]
+  },
+  {
+    "id": 290,
+    "stop_name": "14 Con 112",
+    "latitude": 19.847707,
+    "longitude": -90.5113,
+    "routes": [
+      "Koox 10 Morelos Minas"
+    ]
+  },
+  {
+    "id": 291,
+    "stop_name": "Primaria Año Internacional De La Paz",
+    "latitude": 19.850743,
+    "longitude": -90.507587,
+    "routes": [
+      "Koox 10 Morelos Minas"
+    ]
+  },
+  {
+    "id": 292,
+    "stop_name": "Deshuesadero Norte",
+    "latitude": 19.787693,
+    "longitude": -90.499918,
+    "routes": [
+      "Koox 20 Chiná"
+    ]
+  },
+  {
+    "id": 293,
+    "stop_name": "Casa Hogar Sur",
+    "latitude": 19.779267,
+    "longitude": -90.498162,
+    "routes": [
+      "Koox 20 Chiná"
+    ]
+  },
+  {
+    "id": 294,
+    "stop_name": "Calle 22 Por Calle 7 Norte",
+    "latitude": 19.774153,
+    "longitude": -90.496332,
+    "routes": [
+      "Koox 20 Chiná"
+    ]
+  },
+  {
+    "id": 295,
+    "stop_name": "Vigésima Norte",
+    "latitude": 19.835183,
+    "longitude": -90.482662,
+    "routes": [
+      "Koox 02 Colonial Campeche - Exhacienda Kala",
+      "Koox 03 Exhacienda Kala - Colonial Campeche",
+      "Koox 13 Ampliación Concordia"
+    ]
+  },
+  {
+    "id": 296,
+    "stop_name": "Calle 9 Con Calle 22",
+    "latitude": 19.771863,
+    "longitude": -90.495994,
+    "routes": [
+      "Koox 20 Chiná"
+    ]
+  },
+  {
+    "id": 297,
+    "stop_name": "Nochebuena",
+    "latitude": 19.830211,
+    "longitude": -90.515757,
+    "routes": [
+      "Koox 15 Jardines"
+    ]
+  },
+  {
+    "id": 298,
+    "stop_name": "Tec De Campeche",
+    "latitude": 19.794142,
+    "longitude": -90.616938,
+    "routes": [
+      "Koox 22 Lerma - Tec",
+      "Koox 23 Kila - Marañón"
+    ]
+  },
+  {
+    "id": 299,
+    "stop_name": "Parque Carrillo Puerto Sur",
+    "latitude": 19.854963,
+    "longitude": -90.51868,
+    "routes": [
+      "Koox 29 Troncal Eje Norte"
+    ]
+  },
+  {
+    "id": 300,
+    "stop_name": "Solidaridad Nacional",
+    "latitude": 19.868873,
+    "longitude": -90.492212,
+    "routes": [
+      "Koox 11 Fidel Velazquez"
+    ]
+  },
+  {
+    "id": 301,
+    "stop_name": "Calle 5 Con Calle 4",
+    "latitude": 19.853928,
+    "longitude": -90.515147,
+    "routes": [
+      "Koox 09 Bellavista-San José el Alto"
+    ]
+  },
+  {
+    "id": 302,
+    "stop_name": "Parque Morazán",
+    "latitude": 19.856702,
+    "longitude": -90.514052,
+    "routes": [
+      "Koox 06 Amp. Bellavista - Revolución Circ. 1",
+      "Koox 07 Amp. Bellavista - Revolución Circ. 2",
+      "Koox 09 Bellavista-San José el Alto"
+    ]
+  },
+  {
+    "id": 303,
+    "stop_name": "Cementerio Santa Lucía",
+    "latitude": 19.849152,
+    "longitude": -90.512912,
+    "routes": [
+      "Koox 09 Bellavista-San José el Alto",
+      "Koox 10 Morelos Minas"
+    ]
+  },
+  {
+    "id": 304,
+    "stop_name": "Vigesima Novena",
+    "latitude": 19.838419,
+    "longitude": -90.481769,
+    "routes": [
+      "Koox 02 Colonial Campeche - Exhacienda Kala",
+      "Koox 03 Exhacienda Kala - Colonial Campeche"
+    ]
+  },
+  {
+    "id": 305,
+    "stop_name": "Calle Girasol",
+    "latitude": 19.828224,
+    "longitude": -90.514796,
+    "routes": [
+      "Koox 15 Jardines"
+    ]
+  },
+  {
+    "id": 306,
+    "stop_name": "Abarrotes Jardines",
+    "latitude": 19.830195,
+    "longitude": -90.517648,
+    "routes": [
+      "Koox 15 Jardines"
+    ]
+  },
+  {
+    "id": 307,
+    "stop_name": "No Me Olvides",
+    "latitude": 19.825913,
+    "longitude": -90.518382,
+    "routes": [
+      "KO'OX 17 Leovigildo Gómez - Solidaridad Urbana",
+      "Koox 16 Polvorín - Paso de las Águilas"
+    ]
+  },
+  {
+    "id": 308,
+    "stop_name": "Parque Jardines",
+    "latitude": 19.832551,
+    "longitude": -90.514916,
+    "routes": [
+      "Koox 15 Jardines"
+    ]
+  },
+  {
+    "id": 309,
+    "stop_name": "Glorieta Colosio",
+    "latitude": 19.833307,
+    "longitude": -90.526343,
+    "routes": [
+      "Koox 15 Jardines"
+    ]
+  },
+  {
+    "id": 310,
+    "stop_name": "Bomba De Agua Jardines",
+    "latitude": 19.833611,
+    "longitude": -90.516104,
+    "routes": [
+      "Koox 15 Jardines"
+    ]
+  },
+  {
+    "id": 311,
+    "stop_name": "Parroquia El Sagrado Corazón",
+    "latitude": 19.834301,
+    "longitude": -90.51912,
+    "routes": [
+      "Koox 15 Jardines"
+    ]
+  },
+  {
+    "id": 312,
+    "stop_name": "Campo Los Tres Poderes",
+    "latitude": 19.83465,
+    "longitude": -90.523389,
+    "routes": [
+      "KO'OX 17 Leovigildo Gómez - Solidaridad Urbana",
+      "Koox 15 Jardines",
+      "Koox 16 Polvorín - Paso de las Águilas"
+    ]
+  },
+  {
+    "id": 313,
+    "stop_name": "Cbtis",
+    "latitude": 19.835172,
+    "longitude": -90.527538,
+    "routes": [
+      "Koox 15 Jardines"
+    ]
+  },
+  {
+    "id": 314,
+    "stop_name": "Villas De Kalá Norte",
+    "latitude": 19.840857,
+    "longitude": -90.481988,
+    "routes": [
+      "Koox 02 Colonial Campeche - Exhacienda Kala",
+      "Koox 03 Exhacienda Kala - Colonial Campeche"
+    ]
+  },
+  {
+    "id": 315,
+    "stop_name": "Tres Poderes",
+    "latitude": 19.836111,
+    "longitude": -90.522014,
+    "routes": [
+      "KO'OX 17 Leovigildo Gómez - Solidaridad Urbana",
+      "Koox 15 Jardines",
+      "Koox 16 Polvorín - Paso de las Águilas"
+    ]
+  },
+  {
+    "id": 316,
+    "stop_name": "Coahuila Sur",
+    "latitude": 19.838388,
+    "longitude": -90.523021,
+    "routes": [
+      "KO'OX 17 Leovigildo Gómez - Solidaridad Urbana",
+      "Koox 15 Jardines",
+      "Koox 16 Polvorín - Paso de las Águilas"
+    ]
+  },
+  {
+    "id": 317,
+    "stop_name": "Cam Santa Ana",
+    "latitude": 19.839475,
+    "longitude": -90.527923,
+    "routes": [
+      "KO'OX 17 Leovigildo Gómez - Solidaridad Urbana",
+      "Koox 15 Jardines",
+      "Koox 16 Polvorín - Paso de las Águilas"
+    ]
+  },
+  {
+    "id": 318,
+    "stop_name": "Esquina Del Parroquiano 1",
+    "latitude": 19.852647,
+    "longitude": -90.505942,
+    "routes": [
+      "Koox 06 Amp. Bellavista - Revolución Circ. 1",
+      "Koox 07 Amp. Bellavista - Revolución Circ. 2",
+      "Koox 10 Morelos Minas"
+    ]
+  },
+  {
+    "id": 319,
+    "stop_name": "Calle Dolores",
+    "latitude": 19.853445,
+    "longitude": -90.501888,
+    "routes": [
+      "Koox 06 Amp. Bellavista - Revolución Circ. 1",
+      "Koox 07 Amp. Bellavista - Revolución Circ. 2"
+    ]
+  },
+  {
+    "id": 320,
+    "stop_name": "Cam Presidentes Sur",
+    "latitude": 19.857683,
+    "longitude": -90.489788,
+    "routes": [
+      "Koox 04 Tula - Presidentes - Plan Chac",
+      "Koox 05 Plan Chac - Presidentes - Tula"
+    ]
+  },
+  {
+    "id": 321,
+    "stop_name": "Av. Ctm Sur",
+    "latitude": 19.85589,
+    "longitude": -90.493084,
+    "routes": [
+      "Koox 04 Tula - Presidentes - Plan Chac",
+      "Koox 05 Plan Chac - Presidentes - Tula",
+      "Koox 11 Fidel Velazquez"
+    ]
+  },
+  {
+    "id": 322,
+    "stop_name": "Balamkú",
+    "latitude": 19.853788,
+    "longitude": -90.493622,
+    "routes": [
+      "Koox 04 Tula - Presidentes - Plan Chac",
+      "Koox 05 Plan Chac - Presidentes - Tula"
+    ]
+  },
+  {
+    "id": 323,
+    "stop_name": "Av. Jaina",
+    "latitude": 19.851311,
+    "longitude": -90.494343,
+    "routes": [
+      "Koox 04 Tula - Presidentes - Plan Chac",
+      "Koox 05 Plan Chac - Presidentes - Tula",
+      "Koox 06 Amp. Bellavista - Revolución Circ. 1"
+    ]
+  },
+  {
+    "id": 324,
+    "stop_name": "Primaria Héctor Pérez",
+    "latitude": 19.847848,
+    "longitude": -90.526222,
+    "routes": [
+      "Koox 18 San Francisco"
+    ]
+  },
+  {
+    "id": 325,
+    "stop_name": "Abarrotes Ramón Espinola Norte",
+    "latitude": 19.843128,
+    "longitude": -90.483203,
+    "routes": [
+      "Koox 02 Colonial Campeche - Exhacienda Kala",
+      "Koox 03 Exhacienda Kala - Colonial Campeche"
+    ]
+  },
+  {
+    "id": 326,
+    "stop_name": "Parque Santa Ana",
+    "latitude": 19.838836,
+    "longitude": -90.52653,
+    "routes": [
+      "KO'OX 17 Leovigildo Gómez - Solidaridad Urbana",
+      "Koox 15 Jardines",
+      "Koox 16 Polvorín - Paso de las Águilas"
+    ]
+  },
+  {
+    "id": 327,
+    "stop_name": "Querétaro",
+    "latitude": 19.83508,
+    "longitude": -90.523354,
+    "routes": [
+      "KO'OX 17 Leovigildo Gómez - Solidaridad Urbana",
+      "Koox 15 Jardines",
+      "Koox 16 Polvorín - Paso de las Águilas"
+    ]
+  },
+  {
+    "id": 328,
+    "stop_name": "Paso De Las Águilas",
+    "latitude": 19.82771,
+    "longitude": -90.520128,
+    "routes": [
+      "KO'OX 17 Leovigildo Gómez - Solidaridad Urbana",
+      "Koox 16 Polvorín - Paso de las Águilas"
+    ]
+  },
+  {
+    "id": 329,
+    "stop_name": "Luz Alba Delgado",
+    "latitude": 19.825098,
+    "longitude": -90.515186,
+    "routes": [
+      "KO'OX 17 Leovigildo Gómez - Solidaridad Urbana",
+      "Koox 16 Polvorín - Paso de las Águilas"
+    ]
+  },
+  {
+    "id": 330,
+    "stop_name": "Niño Artillero Norte",
+    "latitude": 19.82435,
+    "longitude": -90.516737,
+    "routes": [
+      "KO'OX 17 Leovigildo Gómez - Solidaridad Urbana",
+      "Koox 16 Polvorín - Paso de las Águilas"
+    ]
+  },
+  {
+    "id": 331,
+    "stop_name": "Cancha Polvorín Norte",
+    "latitude": 19.824604,
+    "longitude": -90.519082,
+    "routes": [
+      "KO'OX 17 Leovigildo Gómez - Solidaridad Urbana",
+      "Koox 16 Polvorín - Paso de las Águilas"
+    ]
+  },
+  {
+    "id": 332,
+    "stop_name": "Centro De Salud Polvorín",
+    "latitude": 19.826341,
+    "longitude": -90.521181,
+    "routes": [
+      "KO'OX 17 Leovigildo Gómez - Solidaridad Urbana",
+      "Koox 16 Polvorín - Paso de las Águilas"
+    ]
+  },
+  {
+    "id": 333,
+    "stop_name": "Centro De Salud Polvorín",
+    "latitude": 19.826109,
+    "longitude": -90.521333,
+    "routes": [
+      "KO'OX 17 Leovigildo Gómez - Solidaridad Urbana",
+      "Koox 16 Polvorín - Paso de las Águilas"
+    ]
+  },
+  {
+    "id": 334,
+    "stop_name": "López Portillo Norte",
+    "latitude": 19.815492,
+    "longitude": -90.519152,
+    "routes": [
+      "Koox 20 Chiná"
+    ]
+  },
+  {
+    "id": 335,
+    "stop_name": "López Portillo Sur",
+    "latitude": 19.81553,
+    "longitude": -90.518742,
+    "routes": [
+      "Koox 20 Chiná"
+    ]
+  },
+  {
+    "id": 336,
+    "stop_name": "Av. Ramón Espinola Blanco Norte",
+    "latitude": 19.845792,
+    "longitude": -90.486845,
+    "routes": [
+      "Koox 02 Colonial Campeche - Exhacienda Kala",
+      "Koox 03 Exhacienda Kala - Colonial Campeche",
+      "Koox 14 Kalá"
+    ]
+  },
+  {
+    "id": 337,
+    "stop_name": "Parque Infantil Jardines",
+    "latitude": 19.832059,
+    "longitude": -90.51634,
+    "routes": [
+      "Koox 15 Jardines"
+    ]
+  },
+  {
+    "id": 338,
+    "stop_name": "Calle 20 Con Calle 19 Sur",
+    "latitude": 19.818919,
+    "longitude": -90.554451,
+    "routes": [
+      "Koox 21 Kanisté - Samula - Zaragoza",
+      "Koox 25 Samulá - Zaragoza - Kanisté"
+    ]
+  },
+  {
+    "id": 339,
+    "stop_name": "Almendra Sur",
+    "latitude": 19.813594,
+    "longitude": -90.542313,
+    "routes": [
+      "Koox 21 Kanisté - Samula - Zaragoza",
+      "Koox 25 Samulá - Zaragoza - Kanisté"
+    ]
+  },
+  {
+    "id": 340,
+    "stop_name": "Almendra Norte",
+    "latitude": 19.813604,
+    "longitude": -90.541925,
+    "routes": [
+      "Koox 21 Kanisté - Samula - Zaragoza",
+      "Koox 25 Samulá - Zaragoza - Kanisté"
+    ]
+  },
+  {
+    "id": 341,
+    "stop_name": "Calle Del Olvido Con Ecuador",
+    "latitude": 19.832287,
+    "longitude": -90.523568,
+    "routes": [
+      "KO'OX 17 Leovigildo Gómez - Solidaridad Urbana",
+      "Koox 16 Polvorín - Paso de las Águilas"
+    ]
+  },
+  {
+    "id": 342,
+    "stop_name": "Coahuila Norte",
+    "latitude": 19.838337,
+    "longitude": -90.522814,
+    "routes": [
+      "KO'OX 17 Leovigildo Gómez - Solidaridad Urbana",
+      "Koox 15 Jardines",
+      "Koox 16 Polvorín - Paso de las Águilas"
+    ]
+  },
+  {
+    "id": 343,
+    "stop_name": "La Libertad Sur",
+    "latitude": 19.8024,
+    "longitude": -90.606644,
+    "routes": [
+      "Koox 22 Lerma - Tec",
+      "Koox 23 Kila - Marañón"
+    ]
+  },
+  {
+    "id": 344,
+    "stop_name": "Calle 12 Prol. Calle 7",
+    "latitude": 19.823649,
+    "longitude": -90.549713,
+    "routes": [
+      "Koox 21 Kanisté - Samula - Zaragoza",
+      "Koox 25 Samulá - Zaragoza - Kanisté"
+    ]
+  },
+  {
+    "id": 345,
+    "stop_name": "Calle 26",
+    "latitude": 19.804313,
+    "longitude": -90.597617,
+    "routes": [
+      "Koox 23 Kila - Marañón"
+    ]
+  },
+  {
+    "id": 346,
+    "stop_name": "Calle 20 Con Calle 9 Sur",
+    "latitude": 19.823344,
+    "longitude": -90.553071,
+    "routes": [
+      "Koox 21 Kanisté - Samula - Zaragoza",
+      "Koox 25 Samulá - Zaragoza - Kanisté"
+    ]
+  },
+  {
+    "id": 347,
+    "stop_name": "Abarrotes Zaragoza Sur",
+    "latitude": 19.815926,
+    "longitude": -90.541327,
+    "routes": [
+      "Koox 21 Kanisté - Samula - Zaragoza",
+      "Koox 25 Samulá - Zaragoza - Kanisté"
+    ]
+  },
+  {
+    "id": 348,
+    "stop_name": "Abarrotes Zaragoza Norte",
+    "latitude": 19.815995,
+    "longitude": -90.54126,
+    "routes": [
+      "Koox 21 Kanisté - Samula - Zaragoza",
+      "Koox 25 Samulá - Zaragoza - Kanisté"
+    ]
+  },
+  {
+    "id": 349,
+    "stop_name": "Calle 4 Sur",
+    "latitude": 19.821286,
+    "longitude": -90.54375,
+    "routes": [
+      "Koox 21 Kanisté - Samula - Zaragoza",
+      "Koox 25 Samulá - Zaragoza - Kanisté",
+      "Koox 26 Troncal Eje Hospitales"
+    ]
+  },
+  {
+    "id": 350,
+    "stop_name": "Abarrotes Ecuador Sur",
+    "latitude": 19.832178,
+    "longitude": -90.523569,
+    "routes": [
+      "KO'OX 17 Leovigildo Gómez - Solidaridad Urbana",
+      "Koox 16 Polvorín - Paso de las Águilas"
+    ]
+  },
+  {
+    "id": 351,
+    "stop_name": "Parque Polvorín",
+    "latitude": 19.830066,
+    "longitude": -90.52288,
+    "routes": [
+      "KO'OX 17 Leovigildo Gómez - Solidaridad Urbana",
+      "Koox 16 Polvorín - Paso de las Águilas"
+    ]
+  },
+  {
+    "id": 352,
+    "stop_name": "Conscripto",
+    "latitude": 19.824589,
+    "longitude": -90.520977,
+    "routes": [
+      "KO'OX 17 Leovigildo Gómez - Solidaridad Urbana",
+      "Koox 16 Polvorín - Paso de las Águilas"
+    ]
+  },
+  {
+    "id": 353,
+    "stop_name": "Cancha Polvorín Sur",
+    "latitude": 19.824503,
+    "longitude": -90.519017,
+    "routes": [
+      "KO'OX 17 Leovigildo Gómez - Solidaridad Urbana",
+      "Koox 16 Polvorín - Paso de las Águilas"
+    ]
+  },
+  {
+    "id": 354,
+    "stop_name": "Niño Artillero Sur",
+    "latitude": 19.824323,
+    "longitude": -90.517046,
+    "routes": [
+      "KO'OX 17 Leovigildo Gómez - Solidaridad Urbana",
+      "Koox 16 Polvorín - Paso de las Águilas"
+    ]
+  },
+  {
+    "id": 355,
+    "stop_name": "Margarita",
+    "latitude": 19.822353,
+    "longitude": -90.517139,
+    "routes": [
+      "KO'OX 17 Leovigildo Gómez - Solidaridad Urbana"
+    ]
+  },
+  {
+    "id": 356,
+    "stop_name": "Concha Acústica",
+    "latitude": 19.843046,
+    "longitude": -90.540505,
+    "routes": [
+      "Koox 28 Troncal Eje Oriente",
+      "Koox 29 Troncal Eje Norte"
+    ]
+  },
+  {
+    "id": 357,
+    "stop_name": "Bethel",
+    "latitude": 19.821835,
+    "longitude": -90.514128,
+    "routes": [
+      "KO'OX 17 Leovigildo Gómez - Solidaridad Urbana"
+    ]
+  },
+  {
+    "id": 358,
+    "stop_name": "Sinaí",
+    "latitude": 19.820891,
+    "longitude": -90.513594,
+    "routes": [
+      "KO'OX 17 Leovigildo Gómez - Solidaridad Urbana"
+    ]
+  },
+  {
+    "id": 359,
+    "stop_name": "Tulipán",
+    "latitude": 19.82033,
+    "longitude": -90.515176,
+    "routes": [
+      "KO'OX 17 Leovigildo Gómez - Solidaridad Urbana"
+    ]
+  },
+  {
+    "id": 360,
+    "stop_name": "Galilea",
+    "latitude": 19.821264,
+    "longitude": -90.518574,
+    "routes": [
+      "KO'OX 17 Leovigildo Gómez - Solidaridad Urbana"
+    ]
+  },
+  {
+    "id": 361,
+    "stop_name": "Castamay",
+    "latitude": 19.8193,
+    "longitude": -90.520914,
+    "routes": [
+      "KO'OX 17 Leovigildo Gómez - Solidaridad Urbana"
+    ]
+  },
+  {
+    "id": 362,
+    "stop_name": "Maquiladora Cews",
+    "latitude": 19.820105,
+    "longitude": -90.522721,
+    "routes": [
+      "KO'OX 17 Leovigildo Gómez - Solidaridad Urbana"
+    ]
+  },
+  {
+    "id": 363,
+    "stop_name": "Punta Maxtún",
+    "latitude": 19.823959,
+    "longitude": -90.522032,
+    "routes": [
+      "KO'OX 17 Leovigildo Gómez - Solidaridad Urbana",
+      "Koox 16 Polvorín - Paso de las Águilas"
+    ]
+  },
+  {
+    "id": 364,
+    "stop_name": "Acción Nacional",
+    "latitude": 19.824686,
+    "longitude": -90.524575,
+    "routes": [
+      "KO'OX 17 Leovigildo Gómez - Solidaridad Urbana"
+    ]
+  },
+  {
+    "id": 365,
+    "stop_name": "Ecuador Con Chablé Norte",
+    "latitude": 19.827319,
+    "longitude": -90.522876,
+    "routes": [
+      "KO'OX 17 Leovigildo Gómez - Solidaridad Urbana",
+      "Koox 16 Polvorín - Paso de las Águilas"
+    ]
+  },
+  {
+    "id": 366,
+    "stop_name": "Parque Polvorín",
+    "latitude": 19.829507,
+    "longitude": -90.522816,
+    "routes": [
+      "KO'OX 17 Leovigildo Gómez - Solidaridad Urbana",
+      "Koox 16 Polvorín - Paso de las Águilas"
+    ]
+  },
+  {
+    "id": 367,
+    "stop_name": "Supermercado Kalá Sur",
+    "latitude": 19.850448,
+    "longitude": -90.490557,
+    "routes": [
+      "Koox 02 Colonial Campeche - Exhacienda Kala",
+      "Koox 03 Exhacienda Kala - Colonial Campeche"
+    ]
+  },
+  {
+    "id": 368,
+    "stop_name": "Parque De Las Banderas",
+    "latitude": 19.847255,
+    "longitude": -90.536688,
+    "routes": [
+      "Koox 18 San Francisco",
+      "Koox 28 Troncal Eje Oriente",
+      "Koox 29 Troncal Eje Norte"
+    ]
+  },
+  {
+    "id": 369,
+    "stop_name": "Calle 4 Norte",
+    "latitude": 19.821433,
+    "longitude": -90.543598,
+    "routes": [
+      "Koox 21 Kanisté - Samula - Zaragoza",
+      "Koox 25 Samulá - Zaragoza - Kanisté",
+      "Koox 26 Troncal Eje Hospitales"
+    ]
+  },
+  {
+    "id": 370,
+    "stop_name": "C. 12 Con Prolongación De La Calle 7 Sur",
+    "latitude": 19.823173,
+    "longitude": -90.549403,
+    "routes": [
+      "Koox 21 Kanisté - Samula - Zaragoza",
+      "Koox 25 Samulá - Zaragoza - Kanisté"
+    ]
+  },
+  {
+    "id": 371,
+    "stop_name": "Fovi - Juan Escutia",
+    "latitude": 19.828361,
+    "longitude": -90.559757,
+    "routes": [
+      "Koox 01 Troncal Eje Principal",
+      "Koox 22 Lerma - Tec",
+      "Koox 23 Kila - Marañón",
+      "Koox 26 Troncal Eje Hospitales"
+    ]
+  },
+  {
+    "id": 372,
+    "stop_name": "Supermercado Sur",
+    "latitude": 19.826453,
+    "longitude": -90.551425,
+    "routes": [
+      "Koox 21 Kanisté - Samula - Zaragoza",
+      "Koox 25 Samulá - Zaragoza - Kanisté",
+      "Koox 26 Troncal Eje Hospitales"
+    ]
+  },
+  {
+    "id": 373,
+    "stop_name": "Electricistas Sur",
+    "latitude": 19.826756,
+    "longitude": -90.548105,
+    "routes": [
+      "Koox 26 Troncal Eje Hospitales"
+    ]
+  },
+  {
+    "id": 374,
+    "stop_name": "Supermercado Electricistas Sur",
+    "latitude": 19.825255,
+    "longitude": -90.544985,
+    "routes": [
+      "Koox 26 Troncal Eje Hospitales"
+    ]
+  },
+  {
+    "id": 375,
+    "stop_name": "Uxulkah Sur",
+    "latitude": 19.819908,
+    "longitude": -90.539937,
+    "routes": [
+      "Koox 19 San Antonio - Sascalum",
+      "Koox 26 Troncal Eje Hospitales"
+    ]
+  },
+  {
+    "id": 376,
+    "stop_name": "Agencia De Autos",
+    "latitude": 19.81112,
+    "longitude": -90.529715,
+    "routes": [
+      "Koox 27 Troncal Eje Central"
+    ]
+  },
+  {
+    "id": 377,
+    "stop_name": "Villa Dalias Sur",
+    "latitude": 19.807064,
+    "longitude": -90.528845,
+    "routes": [
+      "Koox 27 Troncal Eje Central"
+    ]
+  },
+  {
+    "id": 378,
+    "stop_name": "Seduc",
+    "latitude": 19.80455,
+    "longitude": -90.527237,
+    "routes": [
+      "Koox 27 Troncal Eje Central"
+    ]
+  },
+  {
+    "id": 379,
+    "stop_name": "Jardín De Niños Florinda Batista",
+    "latitude": 19.847865,
+    "longitude": -90.533715,
+    "routes": [
+      "Koox 18 San Francisco",
+      "Koox 28 Troncal Eje Oriente",
+      "Koox 29 Troncal Eje Norte"
+    ]
+  },
+  {
+    "id": 380,
+    "stop_name": "Villa Dalias Norte",
+    "latitude": 19.807172,
+    "longitude": -90.528707,
+    "routes": [
+      "Koox 27 Troncal Eje Central"
+    ]
+  },
+  {
+    "id": 381,
+    "stop_name": "La Superior",
+    "latitude": 19.811186,
+    "longitude": -90.529533,
+    "routes": [
+      "Koox 27 Troncal Eje Central"
+    ]
+  },
+  {
+    "id": 382,
+    "stop_name": "Refresquera Norte",
+    "latitude": 19.814364,
+    "longitude": -90.527927,
+    "routes": [
+      "Koox 20 Chiná",
+      "Koox 24 Miguel hidalgo",
+      "Koox 26 Troncal Eje Hospitales",
+      "Koox 27 Troncal Eje Central"
+    ]
+  },
+  {
+    "id": 383,
+    "stop_name": "Especialidades Caseta 3 Norte",
+    "latitude": 19.814278,
+    "longitude": -90.525501,
+    "routes": [
+      "Koox 20 Chiná",
+      "Koox 26 Troncal Eje Hospitales"
+    ]
+  },
+  {
+    "id": 384,
+    "stop_name": "Policía Norte",
+    "latitude": 19.814292,
+    "longitude": -90.522135,
+    "routes": [
+      "Koox 20 Chiná",
+      "Koox 26 Troncal Eje Hospitales"
+    ]
+  },
+  {
+    "id": 385,
+    "stop_name": "Especialidades Caseta  1 Norte",
+    "latitude": 19.815549,
+    "longitude": -90.523579,
+    "routes": [
+      "Koox 20 Chiná",
+      "Koox 26 Troncal Eje Hospitales"
+    ]
+  },
+  {
+    "id": 386,
+    "stop_name": "Linda Vista Norte",
+    "latitude": 19.819067,
+    "longitude": -90.525566,
+    "routes": [
+      "Koox 26 Troncal Eje Hospitales"
+    ]
+  },
+  {
+    "id": 387,
+    "stop_name": "Umaa Lázaro Cárdenas Norte",
+    "latitude": 19.821773,
+    "longitude": -90.526089,
+    "routes": [
+      "Koox 26 Troncal Eje Hospitales"
+    ]
+  },
+  {
+    "id": 388,
+    "stop_name": "Bugambilias Norte",
+    "latitude": 19.824423,
+    "longitude": -90.526594,
+    "routes": [
+      "KO'OX 17 Leovigildo Gómez - Solidaridad Urbana",
+      "Koox 26 Troncal Eje Hospitales"
+    ]
+  },
+  {
+    "id": 389,
+    "stop_name": "Las Flores Norte",
+    "latitude": 19.824505,
+    "longitude": -90.52935,
+    "routes": [
+      "Koox 26 Troncal Eje Hospitales"
+    ]
+  },
+  {
+    "id": 390,
+    "stop_name": "Román Píña Chán Norte",
+    "latitude": 19.850146,
+    "longitude": -90.532151,
+    "routes": [
+      "Koox 28 Troncal Eje Oriente",
+      "Koox 29 Troncal Eje Norte"
+    ]
+  },
+  {
+    "id": 391,
+    "stop_name": "Las Flores Sur",
+    "latitude": 19.824196,
+    "longitude": -90.529779,
+    "routes": [
+      "Koox 26 Troncal Eje Hospitales"
+    ]
+  },
+  {
+    "id": 392,
+    "stop_name": "Bugambilias Sur",
+    "latitude": 19.824482,
+    "longitude": -90.527332,
+    "routes": [
+      "Koox 26 Troncal Eje Hospitales"
+    ]
+  },
+  {
+    "id": 393,
+    "stop_name": "Umaa Lázaro Cárdenas Sur",
+    "latitude": 19.821758,
+    "longitude": -90.526284,
+    "routes": [
+      "Koox 26 Troncal Eje Hospitales"
+    ]
+  },
+  {
+    "id": 394,
+    "stop_name": "Linda Vista Norte",
+    "latitude": 19.819011,
+    "longitude": -90.525719,
+    "routes": [
+      "Koox 26 Troncal Eje Hospitales"
+    ]
+  },
+  {
+    "id": 395,
+    "stop_name": "Especialidades Caseta 1 Sur",
+    "latitude": 19.815654,
+    "longitude": -90.5239,
+    "routes": [
+      "Koox 20 Chiná",
+      "Koox 26 Troncal Eje Hospitales"
+    ]
+  },
+  {
+    "id": 396,
+    "stop_name": "Subestación Samulá Norte",
+    "latitude": 19.822431,
+    "longitude": -90.54199,
+    "routes": [
+      "Koox 19 San Antonio - Sascalum",
+      "Koox 21 Kanisté - Samula - Zaragoza",
+      "Koox 25 Samulá - Zaragoza - Kanisté",
+      "Koox 26 Troncal Eje Hospitales"
+    ]
+  },
+  {
+    "id": 397,
+    "stop_name": "Supermercado Electricistas Norte",
+    "latitude": 19.82588,
+    "longitude": -90.545218,
+    "routes": [
+      "Koox 26 Troncal Eje Hospitales"
+    ]
+  },
+  {
+    "id": 398,
+    "stop_name": "Electricistas Norte",
+    "latitude": 19.826996,
+    "longitude": -90.547799,
+    "routes": [
+      "Koox 26 Troncal Eje Hospitales"
+    ]
+  },
+  {
+    "id": 399,
+    "stop_name": "Facultad De Ciencias Sociales",
+    "latitude": 19.829588,
+    "longitude": -90.556305,
+    "routes": [
+      "Koox 01 Troncal Eje Principal",
+      "Koox 21 Kanisté - Samula - Zaragoza",
+      "Koox 25 Samulá - Zaragoza - Kanisté",
+      "Koox 26 Troncal Eje Hospitales"
+    ]
+  },
+  {
+    "id": 400,
+    "stop_name": "22 Con 19",
+    "latitude": 19.766555,
+    "longitude": -90.494427,
+    "routes": [
+      "Koox 20 Chiná"
+    ]
+  },
+  {
+    "id": 401,
+    "stop_name": "Supermercado Ah-Kim-Pech Sur",
+    "latitude": 19.852957,
+    "longitude": -90.529485,
+    "routes": [
+      "Koox 28 Troncal Eje Oriente"
+    ]
+  },
+  {
+    "id": 402,
+    "stop_name": "Ciricote",
+    "latitude": 19.800607,
+    "longitude": -90.601645,
+    "routes": [
+      "Koox 23 Kila - Marañón"
+    ]
+  },
+  {
+    "id": 403,
+    "stop_name": "Ecuador Con Chablé Sur",
+    "latitude": 19.827502,
+    "longitude": -90.523036,
+    "routes": [
+      "KO'OX 17 Leovigildo Gómez - Solidaridad Urbana",
+      "Koox 16 Polvorín - Paso de las Águilas"
+    ]
+  },
+  {
+    "id": 404,
+    "stop_name": "Granada",
+    "latitude": 19.824921,
+    "longitude": -90.520823,
+    "routes": [
+      "KO'OX 17 Leovigildo Gómez - Solidaridad Urbana",
+      "Koox 16 Polvorín - Paso de las Águilas"
+    ]
+  },
+  {
+    "id": 405,
+    "stop_name": "Glorieta De Las Bombas Norte",
+    "latitude": 19.86047,
+    "longitude": -90.488297,
+    "routes": [
+      "Koox 04 Tula - Presidentes - Plan Chac",
+      "Koox 05 Plan Chac - Presidentes - Tula"
+    ]
+  },
+  {
+    "id": 406,
+    "stop_name": "Uxulkah Norte",
+    "latitude": 19.819985,
+    "longitude": -90.539734,
+    "routes": [
+      "Koox 19 San Antonio - Sascalum",
+      "Koox 26 Troncal Eje Hospitales"
+    ]
+  },
+  {
+    "id": 407,
+    "stop_name": "Reforma Con Tumbo",
+    "latitude": 19.857485,
+    "longitude": -90.503555,
+    "routes": [
+      "Koox 06 Amp. Bellavista - Revolución Circ. 1",
+      "Koox 07 Amp. Bellavista - Revolución Circ. 2",
+      "Koox 10 Morelos Minas"
+    ]
+  },
+  {
+    "id": 408,
+    "stop_name": "Calle Narciso",
+    "latitude": 19.829346,
+    "longitude": -90.516901,
+    "routes": [
+      "Koox 15 Jardines"
+    ]
+  },
+  {
+    "id": 409,
+    "stop_name": "Imss Novia Del Mar Sur",
+    "latitude": 19.85404,
+    "longitude": -90.526787,
+    "routes": [
+      "Koox 28 Troncal Eje Oriente",
+      "Koox 29 Troncal Eje Norte"
+    ]
+  },
+  {
+    "id": 410,
+    "stop_name": "Av. Pablo García Norte",
+    "latitude": 19.835506,
+    "longitude": -90.49379,
+    "routes": [
+      "Koox 12 Siglo XXI",
+      "Koox 13 Ampliación Concordia",
+      "Koox 14 Kalá"
+    ]
+  },
+  {
+    "id": 411,
+    "stop_name": "Calle 3 Hermanos",
+    "latitude": 19.855292,
+    "longitude": -90.501173,
+    "routes": [
+      "Koox 06 Amp. Bellavista - Revolución Circ. 1",
+      "Koox 07 Amp. Bellavista - Revolución Circ. 2",
+      "Koox 10 Morelos Minas"
+    ]
+  },
+  {
+    "id": 412,
+    "stop_name": "Miguel Hidalgo Con Rodríguez Barrera",
+    "latitude": 19.855082,
+    "longitude": -90.512108,
+    "routes": [
+      "Koox 06 Amp. Bellavista - Revolución Circ. 1",
+      "Koox 07 Amp. Bellavista - Revolución Circ. 2"
+    ]
+  },
+  {
+    "id": 413,
+    "stop_name": "Parque Bellavista Sur",
+    "latitude": 19.85562,
+    "longitude": -90.512627,
+    "routes": [
+      "Koox 06 Amp. Bellavista - Revolución Circ. 1",
+      "Koox 07 Amp. Bellavista - Revolución Circ. 2",
+      "Koox 09 Bellavista-San José el Alto"
+    ]
+  },
+  {
+    "id": 414,
+    "stop_name": "Justo Sierra Sur",
+    "latitude": 19.813653,
+    "longitude": -90.539767,
+    "routes": [
+      "Koox 21 Kanisté - Samula - Zaragoza",
+      "Koox 25 Samulá - Zaragoza - Kanisté"
+    ]
+  },
+  {
+    "id": 415,
+    "stop_name": "Calle 2-A Con Almendra",
+    "latitude": 19.814267,
+    "longitude": -90.543522,
+    "routes": [
+      "Koox 21 Kanisté - Samula - Zaragoza",
+      "Koox 25 Samulá - Zaragoza - Kanisté"
+    ]
+  },
+  {
+    "id": 416,
+    "stop_name": "Venustiano Carranza Sur",
+    "latitude": 19.815223,
+    "longitude": -90.540758,
+    "routes": [
+      "Koox 21 Kanisté - Samula - Zaragoza",
+      "Koox 25 Samulá - Zaragoza - Kanisté"
+    ]
+  },
+  {
+    "id": 417,
+    "stop_name": "Calle 14",
+    "latitude": 19.815927,
+    "longitude": -90.551579,
+    "routes": [
+      "Koox 21 Kanisté - Samula - Zaragoza",
+      "Koox 25 Samulá - Zaragoza - Kanisté"
+    ]
+  },
+  {
+    "id": 418,
+    "stop_name": "Parque De Kanisté Norte",
+    "latitude": 19.816788,
+    "longitude": -90.554969,
+    "routes": [
+      "Koox 21 Kanisté - Samula - Zaragoza",
+      "Koox 25 Samulá - Zaragoza - Kanisté"
+    ]
+  },
+  {
+    "id": 419,
+    "stop_name": "Calle Benito Juárez",
+    "latitude": 19.818028,
+    "longitude": -90.540991,
+    "routes": [
+      "Koox 21 Kanisté - Samula - Zaragoza",
+      "Koox 25 Samulá - Zaragoza - Kanisté"
+    ]
+  },
+  {
+    "id": 420,
+    "stop_name": "Parque Campeche",
+    "latitude": 19.854455,
+    "longitude": -90.523743,
+    "routes": [
+      "Koox 28 Troncal Eje Oriente",
+      "Koox 29 Troncal Eje Norte"
+    ]
+  },
+  {
+    "id": 421,
+    "stop_name": "Calle 20 Con Calle 9 Norte",
+    "latitude": 19.823347,
+    "longitude": -90.553031,
+    "routes": [
+      "Koox 21 Kanisté - Samula - Zaragoza",
+      "Koox 25 Samulá - Zaragoza - Kanisté"
+    ]
+  },
+  {
+    "id": 422,
+    "stop_name": "Biblioteca Uac Sur",
+    "latitude": 19.826362,
+    "longitude": -90.553514,
+    "routes": [
+      "Koox 21 Kanisté - Samula - Zaragoza",
+      "Koox 25 Samulá - Zaragoza - Kanisté",
+      "Koox 26 Troncal Eje Hospitales"
+    ]
+  },
+  {
+    "id": 423,
+    "stop_name": "Calle 19 Con Calle 2",
+    "latitude": 19.815144,
+    "longitude": -90.544321,
+    "routes": [
+      "Koox 21 Kanisté - Samula - Zaragoza",
+      "Koox 25 Samulá - Zaragoza - Kanisté"
+    ]
+  },
+  {
+    "id": 424,
+    "stop_name": "Parque De Samulá",
+    "latitude": 19.816761,
+    "longitude": -90.54873,
+    "routes": [
+      "Koox 21 Kanisté - Samula - Zaragoza",
+      "Koox 25 Samulá - Zaragoza - Kanisté"
+    ]
+  },
+  {
+    "id": 425,
+    "stop_name": "Calle 11 Con Calle 12 Sur",
+    "latitude": 19.81903,
+    "longitude": -90.543679,
+    "routes": [
+      "Koox 21 Kanisté - Samula - Zaragoza",
+      "Koox 25 Samulá - Zaragoza - Kanisté"
+    ]
+  },
+  {
+    "id": 426,
+    "stop_name": "Centro Comunitario Kanisté Norte",
+    "latitude": 19.820556,
+    "longitude": -90.553801,
+    "routes": [
+      "Koox 21 Kanisté - Samula - Zaragoza",
+      "Koox 25 Samulá - Zaragoza - Kanisté"
+    ]
+  },
+  {
+    "id": 427,
+    "stop_name": "Agustín Melgar",
+    "latitude": 19.825249,
+    "longitude": -90.550703,
+    "routes": [
+      "Koox 21 Kanisté - Samula - Zaragoza",
+      "Koox 25 Samulá - Zaragoza - Kanisté",
+      "Koox 26 Troncal Eje Hospitales"
+    ]
+  },
+  {
+    "id": 428,
+    "stop_name": "Calle 16 De Septiembre Norte",
+    "latitude": 19.857407,
+    "longitude": -90.507852,
+    "routes": [
+      "Koox 06 Amp. Bellavista - Revolución Circ. 1",
+      "Koox 07 Amp. Bellavista - Revolución Circ. 2",
+      "Koox 09 Bellavista-San José el Alto"
+    ]
+  },
+  {
+    "id": 429,
+    "stop_name": "El Pez Volador 3",
+    "latitude": 19.856065,
+    "longitude": -90.502618,
+    "routes": [
+      "Koox 06 Amp. Bellavista - Revolución Circ. 1",
+      "Koox 07 Amp. Bellavista - Revolución Circ. 2",
+      "Koox 10 Morelos Minas"
+    ]
+  },
+  {
+    "id": 430,
+    "stop_name": "Calle Unión Obrera Norte",
+    "latitude": 19.856555,
+    "longitude": -90.505983,
+    "routes": [
+      "Koox 06 Amp. Bellavista - Revolución Circ. 1",
+      "Koox 07 Amp. Bellavista - Revolución Circ. 2"
+    ]
+  },
+  {
+    "id": 431,
+    "stop_name": "Ría San Francisco",
+    "latitude": 19.851674,
+    "longitude": -90.521986,
+    "routes": [
+      "Koox 08 Carmelo-Esperanza",
+      "Koox 28 Troncal Eje Oriente",
+      "Koox 29 Troncal Eje Norte"
+    ]
+  },
+  {
+    "id": 432,
+    "stop_name": "Calle 104 Con Benito Juárez",
+    "latitude": 19.857086,
+    "longitude": -90.512551,
+    "routes": [
+      "Koox 06 Amp. Bellavista - Revolución Circ. 1",
+      "Koox 07 Amp. Bellavista - Revolución Circ. 2",
+      "Koox 09 Bellavista-San José el Alto"
+    ]
+  },
+  {
+    "id": 433,
+    "stop_name": "Alberto Trueba",
+    "latitude": 19.834978,
+    "longitude": -90.489215,
+    "routes": [
+      "Koox 13 Ampliación Concordia"
+    ]
+  },
+  {
+    "id": 434,
+    "stop_name": "La Curvita",
+    "latitude": 19.844659,
+    "longitude": -90.489324,
+    "routes": [
+      "Koox 14 Kalá"
+    ]
+  },
+  {
+    "id": 435,
+    "stop_name": "Escuela Primaria Septimio Pérez Palacios",
+    "latitude": 19.853983,
+    "longitude": -90.507635,
+    "routes": [
+      "Koox 06 Amp. Bellavista - Revolución Circ. 1",
+      "Koox 07 Amp. Bellavista - Revolución Circ. 2"
+    ]
+  },
+  {
+    "id": 436,
+    "stop_name": "Reforma",
+    "latitude": 19.85776,
+    "longitude": -90.504477,
+    "routes": [
+      "Koox 06 Amp. Bellavista - Revolución Circ. 1",
+      "Koox 07 Amp. Bellavista - Revolución Circ. 2"
+    ]
+  },
+  {
+    "id": 437,
+    "stop_name": "Hospital",
+    "latitude": 19.789902,
+    "longitude": -90.619589,
+    "routes": [
+      "Koox 22 Lerma - Tec",
+      "Koox 23 Kila - Marañón"
+    ]
+  },
+  {
+    "id": 438,
+    "stop_name": "Tec. De Lerma",
+    "latitude": 19.791902,
+    "longitude": -90.619037,
+    "routes": [
+      "Koox 22 Lerma - Tec",
+      "Koox 23 Kila - Marañón"
+    ]
+  },
+  {
+    "id": 439,
+    "stop_name": "Tec De Campeche 2",
+    "latitude": 19.794274,
+    "longitude": -90.617175,
+    "routes": [
+      "Koox 22 Lerma - Tec",
+      "Koox 23 Kila - Marañón"
+    ]
+  },
+  {
+    "id": 440,
+    "stop_name": "468 Caleta 2",
+    "latitude": 19.797698,
+    "longitude": -90.612528,
+    "routes": [
+      "Koox 22 Lerma - Tec",
+      "Koox 23 Kila - Marañón"
+    ]
+  },
+  {
+    "id": 441,
+    "stop_name": "Tec. De Lerma 2",
+    "latitude": 19.791219,
+    "longitude": -90.619935,
+    "routes": [
+      "Koox 22 Lerma - Tec",
+      "Koox 23 Kila - Marañón"
+    ]
+  },
+  {
+    "id": 442,
+    "stop_name": "San José",
+    "latitude": 19.850376,
+    "longitude": -90.520254,
+    "routes": [
+      "Koox 08 Carmelo-Esperanza",
+      "Koox 28 Troncal Eje Oriente",
+      "Koox 29 Troncal Eje Norte"
+    ]
+  },
+  {
+    "id": 443,
+    "stop_name": "Mercadito Lerma",
+    "latitude": 19.801107,
+    "longitude": -90.60886,
+    "routes": [
+      "Koox 22 Lerma - Tec",
+      "Koox 23 Kila - Marañón"
+    ]
+  },
+  {
+    "id": 444,
+    "stop_name": "La Libertad Norte",
+    "latitude": 19.802693,
+    "longitude": -90.606378,
+    "routes": [
+      "Koox 22 Lerma - Tec",
+      "Koox 23 Kila - Marañón"
+    ]
+  },
+  {
+    "id": 445,
+    "stop_name": "Técnica 8",
+    "latitude": 19.804653,
+    "longitude": -90.60346,
+    "routes": [
+      "Koox 22 Lerma - Tec",
+      "Koox 23 Kila - Marañón"
+    ]
+  },
+  {
+    "id": 446,
+    "stop_name": "Parque De Lerma Sur",
+    "latitude": 19.806263,
+    "longitude": -90.601237,
+    "routes": [
+      "Koox 22 Lerma - Tec",
+      "Koox 23 Kila - Marañón"
+    ]
+  },
+  {
+    "id": 447,
+    "stop_name": "Parque De Lerma Norte",
+    "latitude": 19.806307,
+    "longitude": -90.60131,
+    "routes": [
+      "Koox 22 Lerma - Tec",
+      "Koox 23 Kila - Marañón"
+    ]
+  },
+  {
+    "id": 448,
+    "stop_name": "Cocalitos Sur",
+    "latitude": 19.808293,
+    "longitude": -90.598092,
+    "routes": [
+      "Koox 22 Lerma - Tec",
+      "Koox 23 Kila - Marañón"
+    ]
+  },
+  {
+    "id": 449,
+    "stop_name": "Andador Bajada De Los Mayas Norte",
+    "latitude": 19.808097,
+    "longitude": -90.598538,
+    "routes": [
+      "Koox 22 Lerma - Tec",
+      "Koox 23 Kila - Marañón"
+    ]
+  },
+  {
+    "id": 450,
+    "stop_name": "Muelle De Lerma Sur",
+    "latitude": 19.810913,
+    "longitude": -90.594005,
+    "routes": [
+      "Koox 22 Lerma - Tec",
+      "Koox 23 Kila - Marañón"
+    ]
+  },
+  {
+    "id": 451,
+    "stop_name": "Marina Sur",
+    "latitude": 19.812666,
+    "longitude": -90.591212,
+    "routes": [
+      "Koox 22 Lerma - Tec",
+      "Koox 23 Kila - Marañón"
+    ]
+  },
+  {
+    "id": 452,
+    "stop_name": "Pemex Sur",
+    "latitude": 19.815853,
+    "longitude": -90.586451,
+    "routes": [
+      "Koox 22 Lerma - Tec",
+      "Koox 23 Kila - Marañón"
+    ]
+  },
+  {
+    "id": 453,
+    "stop_name": "Parque Álvaro Obregón",
+    "latitude": 19.846758,
+    "longitude": -90.515983,
+    "routes": [
+      "Koox 08 Carmelo-Esperanza",
+      "Koox 09 Bellavista-San José el Alto",
+      "Koox 10 Morelos Minas",
+      "Koox 18 San Francisco"
+    ]
+  },
+  {
+    "id": 454,
+    "stop_name": "Refaccionaria Sur",
+    "latitude": 19.822178,
+    "longitude": -90.575977,
+    "routes": [
+      "Koox 22 Lerma - Tec",
+      "Koox 23 Kila - Marañón"
+    ]
+  },
+  {
+    "id": 455,
+    "stop_name": "Resurgimiento Sur",
+    "latitude": 19.82491,
+    "longitude": -90.570675,
+    "routes": [
+      "Koox 22 Lerma - Tec",
+      "Koox 23 Kila - Marañón"
+    ]
+  },
+  {
+    "id": 456,
+    "stop_name": "Escénica Sur",
+    "latitude": 19.826779,
+    "longitude": -90.567332,
+    "routes": [
+      "Koox 22 Lerma - Tec",
+      "Koox 23 Kila - Marañón"
+    ]
+  },
+  {
+    "id": 457,
+    "stop_name": "Calle 4 Con Dolores",
+    "latitude": 19.853587,
+    "longitude": -90.501938,
+    "routes": [
+      "Koox 06 Amp. Bellavista - Revolución Circ. 1",
+      "Koox 07 Amp. Bellavista - Revolución Circ. 2"
+    ]
+  },
+  {
+    "id": 458,
+    "stop_name": "Calle Abelardo Carrillo Zavala",
+    "latitude": 19.854862,
+    "longitude": -90.501328,
+    "routes": [
+      "Koox 06 Amp. Bellavista - Revolución Circ. 1",
+      "Koox 07 Amp. Bellavista - Revolución Circ. 2",
+      "Koox 10 Morelos Minas"
+    ]
+  },
+  {
+    "id": 459,
+    "stop_name": "Técnica 8 Norte",
+    "latitude": 19.804644,
+    "longitude": -90.603552,
+    "routes": [
+      "Koox 22 Lerma - Tec",
+      "Koox 23 Kila - Marañón"
+    ]
+  },
+  {
+    "id": 460,
+    "stop_name": "La Capilla",
+    "latitude": 19.762262,
+    "longitude": -90.490318,
+    "routes": [
+      "Koox 20 Chiná"
+    ]
+  },
+  {
+    "id": 461,
+    "stop_name": "Cuchilla",
+    "latitude": 19.763548,
+    "longitude": -90.492382,
+    "routes": [
+      "Koox 20 Chiná"
+    ]
+  },
+  {
+    "id": 462,
+    "stop_name": "Calle 23 Con Calle 22",
+    "latitude": 19.763412,
+    "longitude": -90.494252,
+    "routes": [
+      "Koox 20 Chiná"
+    ]
+  },
+  {
+    "id": 463,
+    "stop_name": "Las Vías",
+    "latitude": 19.764472,
+    "longitude": -90.496265,
+    "routes": [
+      "Koox 20 Chiná"
+    ]
+  },
+  {
+    "id": 464,
+    "stop_name": "Calle 110 Norte",
+    "latitude": 19.845526,
+    "longitude": -90.512702,
+    "routes": [
+      "Koox 08 Carmelo-Esperanza",
+      "Koox 10 Morelos Minas"
+    ]
+  },
+  {
+    "id": 465,
+    "stop_name": "Calle 24 Por 19",
+    "latitude": 19.766913,
+    "longitude": -90.495673,
+    "routes": [
+      "Koox 20 Chiná"
+    ]
+  },
+  {
+    "id": 466,
+    "stop_name": "Parque Chiná",
+    "latitude": 19.769188,
+    "longitude": -90.494997,
+    "routes": [
+      "Koox 20 Chiná"
+    ]
+  },
+  {
+    "id": 467,
+    "stop_name": "Kinder",
+    "latitude": 19.769758,
+    "longitude": -90.495279,
+    "routes": [
+      "Koox 20 Chiná"
+    ]
+  },
+  {
+    "id": 468,
+    "stop_name": "Calle 22 Con Calle 9",
+    "latitude": 19.771705,
+    "longitude": -90.49606,
+    "routes": [
+      "Koox 20 Chiná"
+    ]
+  },
+  {
+    "id": 469,
+    "stop_name": "Calle 22 Con Calle 7 Sur",
+    "latitude": 19.773523,
+    "longitude": -90.496292,
+    "routes": [
+      "Koox 20 Chiná"
+    ]
+  },
+  {
+    "id": 470,
+    "stop_name": "Centro De Usos Múltiples Sur",
+    "latitude": 19.776623,
+    "longitude": -90.497373,
+    "routes": [
+      "Koox 20 Chiná"
+    ]
+  },
+  {
+    "id": 471,
+    "stop_name": "Centro De Usos Múltiples Norte",
+    "latitude": 19.776753,
+    "longitude": -90.497223,
+    "routes": [
+      "Koox 20 Chiná"
+    ]
+  },
+  {
+    "id": 472,
+    "stop_name": "Casa Hogar Norte",
+    "latitude": 19.780008,
+    "longitude": -90.498073,
+    "routes": [
+      "Koox 20 Chiná"
+    ]
+  },
+  {
+    "id": 473,
+    "stop_name": "Lienzo Charro Sur",
+    "latitude": 19.78127,
+    "longitude": -90.498678,
+    "routes": [
+      "Koox 20 Chiná"
+    ]
+  },
+  {
+    "id": 474,
+    "stop_name": "Ocosingo",
+    "latitude": 19.848053,
+    "longitude": -90.489461,
+    "routes": [
+      "Koox 02 Colonial Campeche - Exhacienda Kala",
+      "Koox 03 Exhacienda Kala - Colonial Campeche"
+    ]
+  },
+  {
+    "id": 475,
+    "stop_name": "Calle 116 Sur",
+    "latitude": 19.844755,
+    "longitude": -90.508223,
+    "routes": [
+      "Koox 06 Amp. Bellavista - Revolución Circ. 1",
+      "Koox 08 Carmelo-Esperanza",
+      "Koox 10 Morelos Minas"
+    ]
+  },
+  {
+    "id": 476,
+    "stop_name": "Lienzo Charro Norte",
+    "latitude": 19.782032,
+    "longitude": -90.498523,
+    "routes": [
+      "Koox 20 Chiná"
+    ]
+  },
+  {
+    "id": 477,
+    "stop_name": "Periférico Norte",
+    "latitude": 19.792088,
+    "longitude": -90.502058,
+    "routes": [
+      "Koox 20 Chiná"
+    ]
+  },
+  {
+    "id": 478,
+    "stop_name": "Campus Vi Norte",
+    "latitude": 19.803533,
+    "longitude": -90.504128,
+    "routes": [
+      "Koox 20 Chiná"
+    ]
+  },
+  {
+    "id": 479,
+    "stop_name": "Aeropuerto Sur",
+    "latitude": 19.813907,
+    "longitude": -90.50781,
+    "routes": [
+      "Koox 20 Chiná"
+    ]
+  },
+  {
+    "id": 480,
+    "stop_name": "Aeropuerto Norte",
+    "latitude": 19.814058,
+    "longitude": -90.507942,
+    "routes": [
+      "Koox 20 Chiná"
+    ]
+  },
+  {
+    "id": 481,
+    "stop_name": "Policía Sur",
+    "latitude": 19.814107,
+    "longitude": -90.521578,
+    "routes": [
+      "Koox 20 Chiná",
+      "Koox 26 Troncal Eje Hospitales"
+    ]
+  },
+  {
+    "id": 482,
+    "stop_name": "Akumal",
+    "latitude": 19.846342,
+    "longitude": -90.488453,
+    "routes": [
+      "Koox 02 Colonial Campeche - Exhacienda Kala",
+      "Koox 03 Exhacienda Kala - Colonial Campeche",
+      "Koox 14 Kalá"
+    ]
+  },
+  {
+    "id": 483,
+    "stop_name": "Décima Octava",
+    "latitude": 19.804792,
+    "longitude": -90.490108,
+    "routes": [
+      "Koox 12 Siglo XXI"
+    ]
+  },
+  {
+    "id": 484,
+    "stop_name": "Especialidades Caseta 3 Sur",
+    "latitude": 19.814446,
+    "longitude": -90.5246,
+    "routes": [
+      "Koox 20 Chiná",
+      "Koox 26 Troncal Eje Hospitales"
+    ]
+  },
+  {
+    "id": 485,
+    "stop_name": "Refresquera Sur",
+    "latitude": 19.814535,
+    "longitude": -90.527928,
+    "routes": [
+      "Koox 20 Chiná",
+      "Koox 24 Miguel hidalgo",
+      "Koox 26 Troncal Eje Hospitales",
+      "Koox 27 Troncal Eje Central"
+    ]
+  },
+  {
+    "id": 486,
+    "stop_name": "Av. Aviación - Parroquia San José Obrero",
+    "latitude": 19.841,
+    "longitude": -90.507348,
+    "routes": [
+      "Koox 01 Troncal Eje Principal",
+      "Koox 06 Amp. Bellavista - Revolución Circ. 1",
+      "Koox 08 Carmelo-Esperanza"
+    ]
+  },
+  {
+    "id": 487,
+    "stop_name": "Bancos Patricio Trueba Sur",
+    "latitude": 19.821927,
+    "longitude": -90.531908,
+    "routes": [
+      "Koox 27 Troncal Eje Central"
+    ]
+  },
+  {
+    "id": 488,
+    "stop_name": "Chichén Itzá",
+    "latitude": 19.853566,
+    "longitude": -90.493594,
+    "routes": [
+      "Koox 04 Tula - Presidentes - Plan Chac",
+      "Koox 05 Plan Chac - Presidentes - Tula"
+    ]
+  },
+  {
+    "id": 489,
+    "stop_name": "Av. Ctm Norte",
+    "latitude": 19.856147,
+    "longitude": -90.492862,
+    "routes": [
+      "Koox 04 Tula - Presidentes - Plan Chac",
+      "Koox 05 Plan Chac - Presidentes - Tula",
+      "Koox 11 Fidel Velazquez"
+    ]
+  },
+  {
+    "id": 490,
+    "stop_name": "Cam. Presidentes Norte",
+    "latitude": 19.857595,
+    "longitude": -90.489362,
+    "routes": [
+      "Koox 04 Tula - Presidentes - Plan Chac",
+      "Koox 05 Plan Chac - Presidentes - Tula"
+    ]
+  },
+  {
+    "id": 491,
+    "stop_name": "Prolongación Av. Benito Juarez",
+    "latitude": 19.862741,
+    "longitude": -90.486345,
+    "routes": [
+      "Koox 05 Plan Chac - Presidentes - Tula"
+    ]
+  },
+  {
+    "id": 492,
+    "stop_name": "Parque San Antonio Sur",
+    "latitude": 19.853513,
+    "longitude": -90.485467,
+    "routes": [
+      "Koox 04 Tula - Presidentes - Plan Chac",
+      "Koox 05 Plan Chac - Presidentes - Tula"
+    ]
+  },
+  {
+    "id": 493,
+    "stop_name": "Jardín De Niños Círculo Infantil",
+    "latitude": 19.848803,
+    "longitude": -90.497398,
+    "routes": [
+      "Koox 04 Tula - Presidentes - Plan Chac",
+      "Koox 05 Plan Chac - Presidentes - Tula",
+      "Koox 06 Amp. Bellavista - Revolución Circ. 1",
+      "Koox 07 Amp. Bellavista - Revolución Circ. 2"
+    ]
+  },
+  {
+    "id": 494,
+    "stop_name": "Calle 20 Con Calle 19 Norte",
+    "latitude": 19.81868,
+    "longitude": -90.554436,
+    "routes": [
+      "Koox 21 Kanisté - Samula - Zaragoza",
+      "Koox 25 Samulá - Zaragoza - Kanisté"
+    ]
+  },
+  {
+    "id": 495,
+    "stop_name": "Mercadito Lerma 2",
+    "latitude": 19.801151,
+    "longitude": -90.609039,
+    "routes": [
+      "Koox 22 Lerma - Tec",
+      "Koox 23 Kila - Marañón"
+    ]
+  },
+  {
+    "id": 496,
+    "stop_name": "Calle Tumbo Con Calle Nance",
+    "latitude": 19.858478,
+    "longitude": -90.504782,
+    "routes": [
+      "Koox 06 Amp. Bellavista - Revolución Circ. 1",
+      "Koox 07 Amp. Bellavista - Revolución Circ. 2"
+    ]
+  },
+  {
+    "id": 497,
+    "stop_name": "Calle 5 Con Calle 6",
+    "latitude": 19.838735,
+    "longitude": -90.504523,
+    "routes": [
+      "Koox 08 Carmelo-Esperanza"
+    ]
+  },
+  {
+    "id": 498,
+    "stop_name": "Calle 12 Con Gabriel Macín",
+    "latitude": 19.854012,
+    "longitude": -90.507532,
+    "routes": [
+      "Koox 06 Amp. Bellavista - Revolución Circ. 1",
+      "Koox 07 Amp. Bellavista - Revolución Circ. 2"
+    ]
+  },
+  {
+    "id": 499,
+    "stop_name": "Calle 104 Sur",
+    "latitude": 19.857347,
+    "longitude": -90.512103,
+    "routes": [
+      "Koox 06 Amp. Bellavista - Revolución Circ. 1",
+      "Koox 07 Amp. Bellavista - Revolución Circ. 2",
+      "Koox 09 Bellavista-San José el Alto"
+    ]
+  },
+  {
+    "id": 500,
+    "stop_name": "Calle 104 Cancha",
+    "latitude": 19.859094,
+    "longitude": -90.51018,
+    "routes": [
+      "Koox 06 Amp. Bellavista - Revolución Circ. 1",
+      "Koox 07 Amp. Bellavista - Revolución Circ. 2",
+      "Koox 09 Bellavista-San José el Alto"
+    ]
+  },
+  {
+    "id": 501,
+    "stop_name": "Calle Solidaridad",
+    "latitude": 19.85767,
+    "longitude": -90.509155,
+    "routes": [
+      "Koox 06 Amp. Bellavista - Revolución Circ. 1",
+      "Koox 07 Amp. Bellavista - Revolución Circ. 2",
+      "Koox 09 Bellavista-San José el Alto"
+    ]
+  },
+  {
+    "id": 502,
+    "stop_name": "Mirador",
+    "latitude": 19.858022,
+    "longitude": -90.507158,
+    "routes": [
+      "Koox 06 Amp. Bellavista - Revolución Circ. 1",
+      "Koox 07 Amp. Bellavista - Revolución Circ. 2",
+      "Koox 09 Bellavista-San José el Alto"
+    ]
+  },
+  {
+    "id": 503,
+    "stop_name": "Lázaro Cárdenas Por Gral Martin Carrera",
+    "latitude": 19.863079,
+    "longitude": -90.49037,
+    "routes": [
+      "Koox 04 Tula - Presidentes - Plan Chac",
+      "Koox 05 Plan Chac - Presidentes - Tula",
+      "Koox 11 Fidel Velazquez"
+    ]
+  },
+  {
+    "id": 504,
+    "stop_name": "Lazaro Cárdenas Por Gral Rómulo Díaz De La Vega",
+    "latitude": 19.863609,
+    "longitude": -90.490824,
+    "routes": [
+      "Koox 04 Tula - Presidentes - Plan Chac",
+      "Koox 05 Plan Chac - Presidentes - Tula",
+      "Koox 11 Fidel Velazquez"
+    ]
+  },
+  {
+    "id": 505,
+    "stop_name": "Cdum Uacam",
+    "latitude": 19.830426,
+    "longitude": -90.558718,
+    "routes": [
+      "Koox 01 Troncal Eje Principal",
+      "Koox 22 Lerma - Tec",
+      "Koox 23 Kila - Marañón",
+      "Koox 26 Troncal Eje Hospitales"
+    ]
+  },
+  {
+    "id": 506,
+    "stop_name": "Av Ctm Por Supermercado",
+    "latitude": 19.860749,
+    "longitude": -90.492913,
+    "routes": [
+      "Koox 10 Morelos Minas",
+      "Koox 11 Fidel Velazquez"
+    ]
+  },
+  {
+    "id": 507,
+    "stop_name": "Calle Zafiro Con Av Ctm",
+    "latitude": 19.86085,
+    "longitude": -90.493086,
+    "routes": [
+      "Koox 10 Morelos Minas",
+      "Koox 11 Fidel Velazquez"
+    ]
+  },
+  {
+    "id": 508,
+    "stop_name": "Parque Justo Sierra Méndez",
+    "latitude": 19.837845,
+    "longitude": -90.502024,
+    "routes": [
+      "Koox 08 Carmelo-Esperanza"
+    ]
+  },
+  {
+    "id": 509,
+    "stop_name": "Calle 6 Por Pedro Moreno",
+    "latitude": 19.823315,
+    "longitude": -90.533931,
+    "routes": [
+      "Koox 19 San Antonio - Sascalum",
+      "Koox 26 Troncal Eje Hospitales",
+      "Koox 27 Troncal Eje Central"
+    ]
+  },
+  {
+    "id": 510,
+    "stop_name": "Av Ruiz Cortinez Por Hotel",
+    "latitude": 19.849048,
+    "longitude": -90.533981,
+    "routes": [
+      "Koox 18 San Francisco",
+      "Koox 28 Troncal Eje Oriente",
+      "Koox 29 Troncal Eje Norte"
+    ]
+  },
+  {
+    "id": 511,
+    "stop_name": "Av Cuauhtemoc Con Calle Río Palizada",
+    "latitude": 19.843521,
+    "longitude": -90.516974,
+    "routes": [
+      "Koox 01 Troncal Eje Principal",
+      "Koox 09 Bellavista-San José el Alto",
+      "Koox 28 Troncal Eje Oriente"
+    ]
+  },
+  {
+    "id": 512,
+    "stop_name": "Calle 1 Campeche Con Cancha Fidel Velazquez",
+    "latitude": 19.872514,
+    "longitude": -90.49172,
+    "routes": [
+      "Koox 11 Fidel Velazquez"
+    ]
+  },
+  {
+    "id": 513,
+    "stop_name": "Jardin De Niños El Huerto",
+    "latitude": 19.871377,
+    "longitude": -90.490256,
+    "routes": [
+      "Koox 11 Fidel Velazquez"
+    ]
+  },
+  {
+    "id": 514,
+    "stop_name": "General Lombardi",
+    "latitude": 19.863299,
+    "longitude": -90.488836,
+    "routes": [
+      "Koox 04 Tula - Presidentes - Plan Chac",
+      "Koox 05 Plan Chac - Presidentes - Tula"
+    ]
+  },
+  {
+    "id": 515,
+    "stop_name": "Álvaro Obregón Por Calle 14",
+    "latitude": 19.848993,
+    "longitude": -90.518789,
+    "routes": [
+      "Koox 08 Carmelo-Esperanza",
+      "Koox 10 Morelos Minas",
+      "Koox 18 San Francisco",
+      "Koox 28 Troncal Eje Oriente"
+    ]
+  },
+  {
+    "id": 516,
+    "stop_name": "Tanque De Agua Colonia Jardines",
+    "latitude": 19.833512,
+    "longitude": -90.515989,
+    "routes": [
+      "Koox 15 Jardines"
+    ]
+  },
+  {
+    "id": 517,
+    "stop_name": "Parroquia Del Sagrado Corazón 2",
+    "latitude": 19.834381,
+    "longitude": -90.519385,
+    "routes": [
+      "Koox 15 Jardines"
+    ]
+  },
+  {
+    "id": 518,
+    "stop_name": "Calle Jalisco Por Av Colosio",
+    "latitude": 19.835815,
+    "longitude": -90.52174,
+    "routes": [
+      "KO'OX 17 Leovigildo Gómez - Solidaridad Urbana",
+      "Koox 15 Jardines",
+      "Koox 16 Polvorín - Paso de las Águilas"
+    ]
+  },
+  {
+    "id": 519,
+    "stop_name": "Cancha Solidaridad",
+    "latitude": 19.83924,
+    "longitude": -90.500105,
+    "routes": [
+      "Koox 08 Carmelo-Esperanza"
+    ]
+  },
+  {
+    "id": 520,
+    "stop_name": "Estación De Autobuses",
+    "latitude": 19.823671,
+    "longitude": -90.532085,
+    "routes": [
+      "Koox 19 San Antonio - Sascalum",
+      "Koox 26 Troncal Eje Hospitales",
+      "Koox 27 Troncal Eje Central"
+    ]
+  },
+  {
+    "id": 521,
+    "stop_name": "Boleros Mercado",
+    "latitude": 19.842655,
+    "longitude": -90.532744,
+    "routes": [
+      "Koox 01 Troncal Eje Principal",
+      "Koox 15 Jardines",
+      "Koox 16 Polvorín - Paso de las Águilas",
+      "Koox 18 San Francisco",
+      "Koox 27 Troncal Eje Central",
+      "Koox 28 Troncal Eje Oriente",
+      "Koox 29 Troncal Eje Norte"
+    ]
+  },
+  {
+    "id": 522,
+    "stop_name": "Mercado Oriente",
+    "latitude": 19.842691,
+    "longitude": -90.533579,
+    "routes": [
+      "Koox 01 Troncal Eje Principal",
+      "Koox 15 Jardines",
+      "Koox 16 Polvorín - Paso de las Águilas",
+      "Koox 18 San Francisco",
+      "Koox 27 Troncal Eje Central",
+      "Koox 28 Troncal Eje Oriente",
+      "Koox 29 Troncal Eje Norte"
+    ]
+  },
+  {
+    "id": 523,
+    "stop_name": "Av Ctm Estación De Servicio",
+    "latitude": 19.856807,
+    "longitude": -90.492631,
+    "routes": [
+      "Koox 04 Tula - Presidentes - Plan Chac",
+      "Koox 05 Plan Chac - Presidentes - Tula",
+      "Koox 11 Fidel Velazquez"
+    ]
+  },
+  {
+    "id": 524,
+    "stop_name": "Glorieta Del Infinito Norte",
+    "latitude": 19.815009,
+    "longitude": -90.529219,
+    "routes": [
+      "Koox 20 Chiná",
+      "Koox 24 Miguel hidalgo",
+      "Koox 26 Troncal Eje Hospitales",
+      "Koox 27 Troncal Eje Central"
+    ]
+  },
+  {
+    "id": 525,
+    "stop_name": "Glorieta Del Infinito Sur",
+    "latitude": 19.815022,
+    "longitude": -90.529592,
+    "routes": [
+      "Koox 20 Chiná",
+      "Koox 24 Miguel hidalgo",
+      "Koox 26 Troncal Eje Hospitales",
+      "Koox 27 Troncal Eje Central"
+    ]
+  },
+  {
+    "id": 526,
+    "stop_name": "Solidaridad",
+    "latitude": 19.837444,
+    "longitude": -90.498429,
+    "routes": [
+      "Koox 08 Carmelo-Esperanza"
+    ]
+  },
+  {
+    "id": 527,
+    "stop_name": "Calle 18 Con Calle 11",
+    "latitude": 19.839885,
+    "longitude": -90.497495,
+    "routes": [
+      "Koox 08 Carmelo-Esperanza"
+    ]
+  },
+  {
+    "id": 528,
+    "stop_name": "Cancha Esperanza",
+    "latitude": 19.842,
+    "longitude": -90.497,
+    "routes": [
+      "Koox 08 Carmelo-Esperanza"
+    ]
+  },
+  {
+    "id": 529,
+    "stop_name": "Papaya",
+    "latitude": 19.843572,
+    "longitude": -90.495023,
+    "routes": [
+      "Koox 08 Carmelo-Esperanza"
+    ]
+  },
+  {
+    "id": 530,
+    "stop_name": "Calle Zarco",
+    "latitude": 19.847802,
+    "longitude": -90.52305,
+    "routes": [
+      "Koox 18 San Francisco"
+    ]
+  },
+  {
+    "id": 531,
+    "stop_name": "Av. Ramón Espinola Blanco Sur",
+    "latitude": 19.845597,
+    "longitude": -90.486808,
+    "routes": [
+      "Koox 02 Colonial Campeche - Exhacienda Kala",
+      "Koox 03 Exhacienda Kala - Colonial Campeche",
+      "Koox 14 Kalá"
+    ]
+  },
+  {
+    "id": 532,
+    "stop_name": "Hospital Naval",
+    "latitude": 19.844662,
+    "longitude": -90.492473,
+    "routes": [
+      "Koox 08 Carmelo-Esperanza"
+    ]
+  },
+  {
+    "id": 533,
+    "stop_name": "Caimito",
+    "latitude": 19.845657,
+    "longitude": -90.493728,
+    "routes": [
+      "Koox 08 Carmelo-Esperanza"
+    ]
+  },
+  {
+    "id": 534,
+    "stop_name": "Tamarindo",
+    "latitude": 19.845976,
+    "longitude": -90.497125,
+    "routes": [
+      "Koox 02 Colonial Campeche - Exhacienda Kala",
+      "Koox 03 Exhacienda Kala - Colonial Campeche",
+      "Koox 04 Tula - Presidentes - Plan Chac",
+      "Koox 05 Plan Chac - Presidentes - Tula",
+      "Koox 06 Amp. Bellavista - Revolución Circ. 1",
+      "Koox 07 Amp. Bellavista - Revolución Circ. 2",
+      "Koox 08 Carmelo-Esperanza"
+    ]
+  },
+  {
+    "id": 535,
+    "stop_name": "Álvaro Obregón 1",
+    "latitude": 19.843817,
+    "longitude": -90.504168,
+    "routes": [
+      "Koox 01 Troncal Eje Principal",
+      "Koox 02 Colonial Campeche - Exhacienda Kala",
+      "Koox 03 Exhacienda Kala - Colonial Campeche",
+      "Koox 04 Tula - Presidentes - Plan Chac",
+      "Koox 05 Plan Chac - Presidentes - Tula",
+      "Koox 06 Amp. Bellavista - Revolución Circ. 1",
+      "Koox 07 Amp. Bellavista - Revolución Circ. 2",
+      "Koox 08 Carmelo-Esperanza"
+    ]
+  },
+  {
+    "id": 536,
+    "stop_name": "Calle 116 Norte",
+    "latitude": 19.844798,
+    "longitude": -90.508221,
+    "routes": [
+      "Koox 06 Amp. Bellavista - Revolución Circ. 1",
+      "Koox 08 Carmelo-Esperanza",
+      "Koox 10 Morelos Minas"
+    ]
+  },
+  {
+    "id": 537,
+    "stop_name": "Calle 110 Sur",
+    "latitude": 19.845478,
+    "longitude": -90.512576,
+    "routes": [
+      "Koox 08 Carmelo-Esperanza",
+      "Koox 10 Morelos Minas"
+    ]
+  },
+  {
+    "id": 538,
+    "stop_name": "Calle 16 Con Cuauhtémoc",
+    "latitude": 19.846963,
+    "longitude": -90.515992,
+    "routes": [
+      "Koox 08 Carmelo-Esperanza",
+      "Koox 09 Bellavista-San José el Alto",
+      "Koox 10 Morelos Minas",
+      "Koox 18 San Francisco"
+    ]
+  },
+  {
+    "id": 539,
+    "stop_name": "Álvaro Obregón (Cuchilla)",
+    "latitude": 19.848621,
+    "longitude": -90.518076,
+    "routes": [
+      "Koox 08 Carmelo-Esperanza",
+      "Koox 10 Morelos Minas",
+      "Koox 18 San Francisco",
+      "Koox 28 Troncal Eje Oriente"
+    ]
+  },
+  {
+    "id": 540,
+    "stop_name": "Puente De La Ría",
+    "latitude": 19.850526,
+    "longitude": -90.52076,
+    "routes": [
+      "Koox 08 Carmelo-Esperanza",
+      "Koox 28 Troncal Eje Oriente",
+      "Koox 29 Troncal Eje Norte"
+    ]
+  },
+  {
+    "id": 541,
+    "stop_name": "7 De Agosto",
+    "latitude": 19.853819,
+    "longitude": -90.522617,
+    "routes": [
+      "Koox 28 Troncal Eje Oriente",
+      "Koox 29 Troncal Eje Norte"
+    ]
+  },
+  {
+    "id": 542,
+    "stop_name": "Abarrotes Ramón Espinola Blanco Sur",
+    "latitude": 19.842788,
+    "longitude": -90.482987,
+    "routes": [
+      "Koox 02 Colonial Campeche - Exhacienda Kala",
+      "Koox 03 Exhacienda Kala - Colonial Campeche"
+    ]
+  },
+  {
+    "id": 543,
+    "stop_name": "Imss Novia Del Mar",
+    "latitude": 19.854252,
+    "longitude": -90.526807,
+    "routes": [
+      "Koox 28 Troncal Eje Oriente"
+    ]
+  },
+  {
+    "id": 544,
+    "stop_name": "Supermercado Ah-Kim-Pech Norte",
+    "latitude": 19.853132,
+    "longitude": -90.529794,
+    "routes": [
+      "Koox 28 Troncal Eje Oriente"
+    ]
+  },
+  {
+    "id": 545,
+    "stop_name": "Román Piña Chán Sur",
+    "latitude": 19.850622,
+    "longitude": -90.532101,
+    "routes": [
+      "Koox 28 Troncal Eje Oriente",
+      "Koox 29 Troncal Eje Norte"
+    ]
+  },
+  {
+    "id": 546,
+    "stop_name": "San Martín",
+    "latitude": 19.846718,
+    "longitude": -90.533867,
+    "routes": [
+      "Koox 18 San Francisco",
+      "Koox 28 Troncal Eje Oriente",
+      "Koox 29 Troncal Eje Norte"
+    ]
+  },
+  {
+    "id": 547,
+    "stop_name": "Plaza San Pedro",
+    "latitude": 19.843864,
+    "longitude": -90.53226,
+    "routes": [
+      "Koox 01 Troncal Eje Principal",
+      "Koox 15 Jardines",
+      "Koox 16 Polvorín - Paso de las Águilas",
+      "Koox 18 San Francisco",
+      "Koox 28 Troncal Eje Oriente",
+      "Koox 29 Troncal Eje Norte"
+    ]
+  },
+  {
+    "id": 548,
+    "stop_name": "Deportivo 20 De Noviembre",
+    "latitude": 19.847247,
+    "longitude": -90.537115,
+    "routes": [
+      "Koox 18 San Francisco",
+      "Koox 28 Troncal Eje Oriente",
+      "Koox 29 Troncal Eje Norte"
+    ]
+  },
+  {
+    "id": 549,
+    "stop_name": "Concha Acústica Sur",
+    "latitude": 19.84315,
+    "longitude": -90.540696,
+    "routes": [
+      "Koox 28 Troncal Eje Oriente",
+      "Koox 29 Troncal Eje Norte"
+    ]
+  },
+  {
+    "id": 550,
+    "stop_name": "Calle 16 Con Calle 114",
+    "latitude": 19.845962,
+    "longitude": -90.509233,
+    "routes": [
+      "Koox 08 Carmelo-Esperanza",
+      "Koox 10 Morelos Minas"
+    ]
+  },
+  {
+    "id": 551,
+    "stop_name": "Villas De Kalá Sur",
+    "latitude": 19.840617,
+    "longitude": -90.482325,
+    "routes": [
+      "Koox 02 Colonial Campeche - Exhacienda Kala",
+      "Koox 03 Exhacienda Kala - Colonial Campeche"
+    ]
+  },
+  {
+    "id": 552,
+    "stop_name": "Glorieta Pablo García Norte",
+    "latitude": 19.844008,
+    "longitude": -90.502673,
+    "routes": [
+      "Koox 01 Troncal Eje Principal",
+      "Koox 02 Colonial Campeche - Exhacienda Kala",
+      "Koox 03 Exhacienda Kala - Colonial Campeche",
+      "Koox 04 Tula - Presidentes - Plan Chac",
+      "Koox 05 Plan Chac - Presidentes - Tula",
+      "Koox 06 Amp. Bellavista - Revolución Circ. 1",
+      "Koox 07 Amp. Bellavista - Revolución Circ. 2",
+      "Koox 08 Carmelo-Esperanza"
+    ]
+  },
+  {
+    "id": 553,
+    "stop_name": "Ordaz Por 10B Sur",
+    "latitude": 19.856889,
+    "longitude": -90.519613,
+    "routes": [
+      "Koox 29 Troncal Eje Norte"
+    ]
+  },
+  {
+    "id": 554,
+    "stop_name": "Diaz Ordaz Por 10B Norte",
+    "latitude": 19.856998,
+    "longitude": -90.519198,
+    "routes": [
+      "Koox 29 Troncal Eje Norte"
+    ]
+  },
+  {
+    "id": 555,
+    "stop_name": "Hijos De Trabajadores Sur",
+    "latitude": 19.826851,
+    "longitude": -90.534921,
+    "routes": [
+      "Koox 19 San Antonio - Sascalum",
+      "Koox 27 Troncal Eje Central"
+    ]
+  },
+  {
+    "id": 556,
+    "stop_name": "Prol. Allende Con C. Vicente Guerrero",
+    "latitude": 19.827092,
+    "longitude": -90.538656,
+    "routes": [
+      "Koox 19 San Antonio - Sascalum"
+    ]
+  },
+  {
+    "id": 557,
+    "stop_name": "Prol. Allende Con C. 6 De Mayo",
+    "latitude": 19.823722,
+    "longitude": -90.537978,
+    "routes": [
+      "Koox 19 San Antonio - Sascalum"
+    ]
+  },
+  {
+    "id": 558,
+    "stop_name": "Calle Lezmar por Prol. Bravo",
+    "latitude": 19.821019,
+    "longitude": -90.536353,
+    "routes": [
+      "Koox 19 San Antonio - Sascalum"
+    ]
+  },
+  {
+    "id": 559,
+    "stop_name": "Calle Guadalupana por Mirador",
+    "latitude": 19.819482,
+    "longitude": -90.535478,
+    "routes": [
+      "Koox 19 San Antonio - Sascalum"
+    ]
+  },
+  {
+    "id": 560,
+    "stop_name": "Tepeyac Por Perpetuo Socorro",
+    "latitude": 19.817956,
+    "longitude": -90.533957,
+    "routes": [
+      "Koox 19 San Antonio - Sascalum"
+    ]
+  },
+  {
+    "id": 561,
+    "stop_name": "Supermercado Concordia",
+    "latitude": 19.831187,
+    "longitude": -90.49746,
+    "routes": [
+      "Koox 12 Siglo XXI",
+      "Koox 13 Ampliación Concordia",
+      "Koox 14 Kalá",
+      "Koox 28 Troncal Eje Oriente"
+    ]
+  },
+  {
+    "id": 562,
+    "stop_name": "Trigésima Tercera Sur",
+    "latitude": 19.838788,
+    "longitude": -90.482347,
+    "routes": [
+      "Koox 02 Colonial Campeche - Exhacienda Kala",
+      "Koox 03 Exhacienda Kala - Colonial Campeche"
+    ]
+  },
+  {
+    "id": 563,
+    "stop_name": "Ic Turismo Norte",
+    "latitude": 19.817387,
+    "longitude": -90.537562,
+    "routes": [
+      "Koox 19 San Antonio - Sascalum",
+      "Koox 24 Miguel hidalgo",
+      "Koox 26 Troncal Eje Hospitales"
+    ]
+  },
+  {
+    "id": 564,
+    "stop_name": "Lopez Portillo Con Calle 6",
+    "latitude": 19.821855,
+    "longitude": -90.541478,
+    "routes": [
+      "Koox 19 San Antonio - Sascalum",
+      "Koox 21 Kanisté - Samula - Zaragoza",
+      "Koox 25 Samulá - Zaragoza - Kanisté",
+      "Koox 26 Troncal Eje Hospitales"
+    ]
+  },
+  {
+    "id": 565,
+    "stop_name": "Calle 6 Con Prol. Allende",
+    "latitude": 19.822564,
+    "longitude": -90.537535,
+    "routes": [
+      "Koox 19 San Antonio - Sascalum"
+    ]
+  },
+  {
+    "id": 566,
+    "stop_name": "Hijos De Trabajadores Norte",
+    "latitude": 19.826061,
+    "longitude": -90.534816,
+    "routes": [
+      "Koox 19 San Antonio - Sascalum",
+      "Koox 27 Troncal Eje Central"
+    ]
+  },
+  {
+    "id": 567,
+    "stop_name": "Parque Siglo Xxi",
+    "latitude": 19.805994,
+    "longitude": -90.492328,
+    "routes": [
+      "Koox 12 Siglo XXI"
+    ]
+  },
+  {
+    "id": 568,
+    "stop_name": "Cendi Av. Central",
+    "latitude": 19.831201,
+    "longitude": -90.534801,
+    "routes": [
+      "Koox 27 Troncal Eje Central"
+    ]
+  },
+  {
+    "id": 569,
+    "stop_name": "Pescadería El Ángel Norte",
+    "latitude": 19.833923,
+    "longitude": -90.534716,
+    "routes": [
+      "Koox 27 Troncal Eje Central"
+    ]
+  },
+  {
+    "id": 570,
+    "stop_name": "Supermercado Central Norte",
+    "latitude": 19.837438,
+    "longitude": -90.535269,
+    "routes": [
+      "Koox 27 Troncal Eje Central"
     ]
   }
 ]

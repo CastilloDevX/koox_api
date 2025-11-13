@@ -159,6 +159,17 @@ footer {
   padding: 20px 0;
   margin-top: 40px;
 }
-p, li, ul, ol {
-  font-size: 1.15rem;
+p, li, ul, ol, a, span, div, button, pre, code{
+  font-size: 1.2rem !important;
+}
+
+.accordion-header code {
+  padding-left: 10px;
+  padding-top: 3px;
+}
+
+pre {
+  background-color: #e6e6e6;
+  padding: 15px;
+  border-radius: 10px;
 }
