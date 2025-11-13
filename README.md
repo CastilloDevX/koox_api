@@ -1,5 +1,8 @@
 # Ko'ox API
 
+## ADVERTENCIA
+**Esta API NO ES OFICIAL y NO TIENE NINGUNA RELACIÓN con el gobierno de Campeche.** Es un proyecto experimental en fase BETA, y está sujeto a errores imprevistos o a la información no precisa. Por lo tanto, el creador de esta API, Jose Manuel Castillo Queh, no se hace responsable de problemas gubernamentales ni de ningún otro inconveniente. ¡Uso bajo su propio riesgo!
+
 ## Página Interactiva
 
 La **Ko'ox API** es una API pública de código abierto que se encuentra disponible para su uso a través de una interfaz web interactiva. Puedes acceder a la documentación de la API y explorar sus endpoints desde el siguiente enlace:
