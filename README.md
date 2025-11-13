@@ -1,31 +1,58 @@
 # Koox Stops Routes API
 
-API REST desarrollada con Flask para gestionar paradas de transporte público y encontrar la parada más cercana a una ubicación específica.
+API REST desarrollada con **Flask** para gestionar paradas de transporte público y encontrar la parada más cercana a una ubicación específica.
 
 ## Requisitos
 
-- Python 3.7+
-- Flask
+- **Python 3.7+**
+- **Flask**
+- **python-dotenv** (para manejar variables de entorno)
 
 ## Instalación
 
-1. Clona el repositorio o descarga los archivos
+### 1. Clona el repositorio o descarga los archivos
+Puedes clonar el repositorio usando el siguiente comando:
 
-2. Instala las dependencias:
 ```bash
-# EL proyecto posee el venv por lo tanto solo activamos venv
-venv\Scripts\activate
-# Instalamos las dependencias
-&& pip install -r requirements.txt
+git clone https://github.com/CastilloDevX/koox_api.git
 ```
 
-3. Inicia el servidor:
+### 2. Instala las dependencias
+
+Este proyecto utiliza un entorno virtual (`venv`). Para instalar las dependencias, sigue estos pasos:
+
+1. Activa el entorno virtual:
+   - En Windows:
+     ```bash
+     venv\Scripts\activate
+     ```
+   - En Linux/macOS:
+     ```bash
+     source venv/bin/activate
+     ```
+
+2. Instala las dependencias necesarias:
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+### 3. Inicia el servidor localmente
+
+Para ejecutar la API en tu máquina local, usa el siguiente comando:
+
 ```bash
 python app.py
 ```
-El servidor estará disponible en `http://localhost:5000`
+
+El servidor estará disponible en `http://localhost:5000`.
+
+### 4. Despliegue en Vercel
+Si prefieres acceder a la API desde Vercel, puedes utilizar el siguiente enlace para acceder al servidor desplegado:
+
+[https://koox-api.vercel.app/](https://koox-api.vercel.app/)
 
 ## Estructura de Datos
+
 Cada parada debe tener la siguiente estructura:
 
 ```json
@@ -38,9 +65,10 @@ Cada parada debe tener la siguiente estructura:
 ```
 
 ## Endpoints
+
 ### 1. Obtener todas las paradas
 **GET** `/stops`
-Retorna la lista completa de paradas.
+- Retorna la lista completa de paradas.
 
 **Respuesta exitosa:**
 ```json
@@ -60,14 +88,14 @@ Retorna la lista completa de paradas.
 
 **Ejemplo con curl:**
 ```bash
-curl http://localhost:5000/stops
+curl https://koox-api.vercel.app/stops
 ```
 
 ---
 
 ### 2. Obtener una parada específica
 **GET** `/stops/<stop_name>`
-Retorna los detalles de una parada específica por nombre.
+- Retorna los detalles de una parada específica por nombre.
 
 **Parámetros:**
 - `stop_name` (string): Nombre de la parada (no sensible a mayúsculas/minúsculas)
@@ -96,14 +124,15 @@ Retorna los detalles de una parada específica por nombre.
 
 **Ejemplo con curl:**
 ```bash
-curl http://localhost:5000/stops/Parada%20Central
+curl https://koox-api.vercel.app/stops/Parada%20Central
 ```
 
 ---
 
 ### 3. Crear una nueva parada
 **POST** `/stops`
-Crea una nueva parada en el sistema.
+- Crea una nueva parada en el sistema.
+
 **Body (JSON):**
 ```json
 {
@@ -135,13 +164,11 @@ Crea una nueva parada en el sistema.
   "code_http": 400
 }
 ```
-*La parada ya existe en el sistema*
+*La parada ya existe en el sistema.*
 
 **Ejemplo con curl:**
 ```bash
-curl -X POST http://localhost:5000/stops \
-  -H "Content-Type: application/json" \
-  -d '{
+curl -X POST https://koox-api.vercel.app/stops   -H "Content-Type: application/json"   -d '{
     "Stop_Name": "Nueva Parada",
     "Latitude": 18.6500,
     "Longitude": -91.8300,
@@ -153,9 +180,11 @@ curl -X POST http://localhost:5000/stops \
 
 ### 4. Actualizar una parada
 **PUT** `/stops/<stop_name>`
-Actualiza la información de una parada existente.
+- Actualiza la información de una parada existente.
+
 **Parámetros:**
 - `stop_name` (string): Nombre de la parada a actualizar
+
 **Body (JSON):**
 ```json
 {
@@ -164,6 +193,7 @@ Actualiza la información de una parada existente.
   "Routes": ["Ruta 1", "Ruta 4"]
 }
 ```
+
 **Respuesta exitosa:**
 ```json
 {
@@ -188,9 +218,7 @@ Actualiza la información de una parada existente.
 
 **Ejemplo con curl:**
 ```bash
-curl -X PUT http://localhost:5000/stops/Parada%20Central \
-  -H "Content-Type: application/json" \
-  -d '{
+curl -X PUT https://koox-api.vercel.app/stops/Parada%20Central   -H "Content-Type: application/json"   -d '{
     "Latitude": 18.6550,
     "Longitude": -91.8350,
     "Routes": ["Ruta 1", "Ruta 4"]
@@ -200,10 +228,8 @@ curl -X PUT http://localhost:5000/stops/Parada%20Central \
 ---
 
 ### 5. Eliminar una parada
-
 **DELETE** `/stops/<stop_name>`
-
-Elimina una parada del sistema.
+- Elimina una parada del sistema.
 
 **Parámetros:**
 - `stop_name` (string): Nombre de la parada a eliminar
@@ -232,16 +258,14 @@ Elimina una parada del sistema.
 
 **Ejemplo con curl:**
 ```bash
-curl -X DELETE http://localhost:5000/stops/Parada%20Central
+curl -X DELETE https://koox-api.vercel.app/stops/Parada%20Central
 ```
 
 ---
 
 ### 6. Encontrar la parada más cercana
-
 **GET** `/stops/closest`
-
-Encuentra la parada más cercana a una ubicación geográfica específica utilizando el cálculo de distancia Haversine.
+- Encuentra la parada más cercana a una ubicación geográfica específica utilizando el cálculo de distancia Haversine.
 
 **Query Parameters:**
 - `latitude` (float): Latitud de la ubicación
@@ -271,32 +295,32 @@ Encuentra la parada más cercana a una ubicación geográfica específica utiliz
 
 **Ejemplo con curl:**
 ```bash
-curl "http://localhost:5000/stops/closest?latitude=18.6470&longitude=-91.8240"
+curl "https://koox-api.vercel.app/stops/closest?latitude=18.6470&longitude=-91.8240"
 ```
 
 ## Notas Importantes
 
-- La API busca paradas por nombre sin distinguir mayúsculas y minúsculas
-- Los datos se almacenan en memoria durante la ejecución del servidor
-- Las modificaciones no se persisten en el archivo JSON original
-- La distancia se calcula en kilómetros usando la fórmula Haversine
-- El servidor corre en modo debug por defecto (desactivar en producción)
+- La API busca paradas por nombre sin distinguir mayúsculas y minúsculas.
+- Los datos se almacenan en memoria durante la ejecución del servidor.
+- Las modificaciones no se persisten en el archivo JSON original.
+- La distancia se calcula en kilómetros usando la fórmula Haversine.
+- El servidor corre en modo **debug** por defecto (desactivar en producción).
 
 ## Códigos de Estado HTTP
 
-- `200`: Operación exitosa
-- `400`: Solicitud incorrecta (ej: parada duplicada)
-- `404`: Recurso no encontrado
+- `200`: Operación exitosa.
+- `400`: Solicitud incorrecta (ej: parada duplicada).
+- `404`: Recurso no encontrado.
 
 ## Mejoras Futuras Sugeridas
 
-- Implementar persistencia de datos en el archivo JSON
-- Añadir autenticación y autorización
-- Implementar paginación para el endpoint de todas las paradas
-- Agregar validación de datos de entrada
-- Implementar búsqueda por ruta
-- Añadir límite de distancia para la búsqueda de paradas cercanas
+- Implementar persistencia de datos en el archivo JSON.
+- Añadir autenticación y autorización.
+- Implementar paginación para el endpoint de todas las paradas.
+- Agregar validación de datos de entrada.
+- Implementar búsqueda por ruta.
+- Añadir límite de distancia para la búsqueda de paradas cercanas.
 
 ## Licencia
 
-Este proyecto es de código abierto y está disponible bajo la licencia MIT.
+Este proyecto es de código abierto y está disponible bajo la licencia **MIT**.
