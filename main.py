@@ -26,10 +26,10 @@ def calculate_distance(lat1, lon1, lat2, lon2):
 def get_stops():
     return jsonify({"ok": True, "code_http": 200, "body": stops_data})
 
-# Endpoint para obtener una parada específica por nombre
-@app.route("/stops/<stop_name>", methods=["GET"])
-def get_stop(stop_name):
-    stop = next((s for s in stops_data if s["Stop_Name"].lower() == stop_name.lower()), None)
+# Endpoint para obtener una parada específica por ID
+@app.route("/stops/<int:id>", methods=["GET"])
+def get_stop(id):
+    stop = next((s for s in stops_data if s["id"] == id), None)
     if not stop:
         return jsonify({"ok": False, "code_http": 404}), 404
     return jsonify({"ok": True, "code_http": 200, "body": stop})
@@ -39,7 +39,7 @@ def get_stop(stop_name):
 def create_stop():
     stop = request.get_json()
     # Verificar si la parada ya existe
-    if any(s["Stop_Name"].lower() == stop["Stop_Name"].lower() for s in stops_data):
+    if any(s["stop_name"].lower() == stop["stop_name"].lower() for s in stops_data):
         return jsonify({"ok": False, "code_http": 400}), 400
     
     # Agregar la nueva parada
@@ -47,11 +47,11 @@ def create_stop():
     return jsonify({"ok": True, "code_http": 200, "body": stop})
 
 # Endpoint para actualizar una parada
-@app.route("/stops/<stop_name>", methods=["PUT"])
-def update_stop(stop_name):
+@app.route("/stops/<int:id>", methods=["PUT"])
+def update_stop(id):
     stop = request.get_json()
     # Buscar la parada a actualizar
-    existing_stop = next((s for s in stops_data if s["Stop_Name"].lower() == stop_name.lower()), None)
+    existing_stop = next((s for s in stops_data if s["id"] == id), None)
     if not existing_stop:
         return jsonify({"ok": False, "code_http": 404}), 404
     
@@ -60,10 +60,10 @@ def update_stop(stop_name):
     return jsonify({"ok": True, "code_http": 200, "body": existing_stop})
 
 # Endpoint para eliminar una parada
-@app.route("/stops/<stop_name>", methods=["DELETE"])
-def delete_stop(stop_name):
+@app.route("/stops/<int:id>", methods=["DELETE"])
+def delete_stop(id):
     # Buscar la parada a eliminar
-    stop_to_delete = next((s for s in stops_data if s["Stop_Name"].lower() == stop_name.lower()), None)
+    stop_to_delete = next((s for s in stops_data if s["id"] == id), None)
     if not stop_to_delete:
         return jsonify({"ok": False, "code_http": 404}), 404
     
@@ -81,7 +81,7 @@ def get_closest_stop():
     min_distance = float('inf')
 
     for stop in stops_data:
-        dist = calculate_distance(latitude, longitude, stop['Latitude'], stop['Longitude'])
+        dist = calculate_distance(latitude, longitude, stop['latitude'], stop['longitude'])
         if dist < min_distance:
             closest_stop = stop
             min_distance = dist
@@ -91,11 +91,10 @@ def get_closest_stop():
     
     return jsonify({"ok": True, "code_http": 200, "body": closest_stop})
 
-
-# Paginas
+# Página principal
 @app.route('/')
 def index():
-    """Renderiza la página principal con la documentación."""
+    # Renderiza la página principal con la documentación
     current_year = datetime.now().year
     return render_template('index.html', year=current_year)
 
