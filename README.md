@@ -13,23 +13,19 @@ API REST desarrollada con Flask para gestionar paradas de transporte público y 
 
 2. Instala las dependencias:
 ```bash
-pip install flask
+# EL proyecto posee el venv por lo tanto solo activamos venv
+venv\Scripts\activate
+# Instalamos las dependencias
+&& pip install -r requirements.txt
 ```
 
-3. Asegúrate de tener el archivo de datos en la ruta correcta:
-```
-db/koox_stops_routes.json
-```
-
-4. Inicia el servidor:
+3. Inicia el servidor:
 ```bash
 python app.py
 ```
-
 El servidor estará disponible en `http://localhost:5000`
 
 ## Estructura de Datos
-
 Cada parada debe tener la siguiente estructura:
 
 ```json
@@ -42,11 +38,8 @@ Cada parada debe tener la siguiente estructura:
 ```
 
 ## Endpoints
-
 ### 1. Obtener todas las paradas
-
 **GET** `/stops`
-
 Retorna la lista completa de paradas.
 
 **Respuesta exitosa:**
@@ -73,9 +66,7 @@ curl http://localhost:5000/stops
 ---
 
 ### 2. Obtener una parada específica
-
 **GET** `/stops/<stop_name>`
-
 Retorna los detalles de una parada específica por nombre.
 
 **Parámetros:**
@@ -111,11 +102,8 @@ curl http://localhost:5000/stops/Parada%20Central
 ---
 
 ### 3. Crear una nueva parada
-
 **POST** `/stops`
-
 Crea una nueva parada en el sistema.
-
 **Body (JSON):**
 ```json
 {
@@ -164,14 +152,10 @@ curl -X POST http://localhost:5000/stops \
 ---
 
 ### 4. Actualizar una parada
-
 **PUT** `/stops/<stop_name>`
-
 Actualiza la información de una parada existente.
-
 **Parámetros:**
 - `stop_name` (string): Nombre de la parada a actualizar
-
 **Body (JSON):**
 ```json
 {
@@ -180,7 +164,6 @@ Actualiza la información de una parada existente.
   "Routes": ["Ruta 1", "Ruta 4"]
 }
 ```
-
 **Respuesta exitosa:**
 ```json
 {
