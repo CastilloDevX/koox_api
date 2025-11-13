@@ -63,9 +63,17 @@
     <main class="container">
       <section id="about">
         <h1 class="display-4 fw-bold mb-2 text-koox">Ko'ox API (Open source)</h1>
+        
         <p class="fst-italic">
           Nuevo transporte público de Campeche - consulta, administra y explora las paradas y rutas.
         </p>
+
+        <!-- Warning Message -->
+        <div class="alert alert-warning" role="alert">
+          <p class="fw-bold">¡Advertencia!</p>
+          <strong>Esta API NO ES OFICIAL y NO TIENE NINGUNA RELACIÓN con el gobierno de Campeche.</strong> Es un proyecto experimental en fase BETA, y está sujeto a errores imprevistos o a la información no precisa. Por lo tanto, el creador de esta API, Jose Manuel Castillo Queh, no se hace responsable de problemas gubernamentales ni de ningún otro inconveniente. ¡Uso bajo su propio riesgo!
+        </div>
+
         <h2 class="section-title">Descripción del Proyecto</h2>
         <p>
           Ko'ox API es una solución innovadora y de código abierto desarrollada con **Flask** para gestionar las paradas de transporte público de la ciudad de Campeche. Esta API permite consultar y administrar las paradas y rutas de los autobuses de Ko'ox de forma sencilla y accesible, proporcionando datos como la ubicación de las paradas, las rutas asociadas y la posibilidad de encontrar la parada más cercana a una ubicación geográfica específica.
@@ -283,6 +291,7 @@
           <li>La API busca paradas por nombre sin distinguir mayúsculas y minúsculas.</li>
           <li>Los datos se almacenan en memoria durante la ejecución del servidor, y no se persisten en el archivo JSON original.</li>
           <li>La distancia se calcula en kilómetros usando la fórmula de Haversine.</li>
+          <li><strong>Importante:</strong> Este proyecto está en fase de desarrollo. Los datos pueden no ser 100% precisos y pueden estar sujetos a cambios. Actualmente, la API está en pruebas y se encuentra en constante evolución.</li>
         </ul>
       </section>
 
