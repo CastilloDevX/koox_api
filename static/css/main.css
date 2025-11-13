@@ -1,0 +1,164 @@
+@font-face {
+  font-family: "Prompt";
+  src: url('https://fonts.googleapis.com/css2?family=Prompt:wght@100&display=swap');
+  font-weight: 100;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Prompt";
+  src: url('https://fonts.googleapis.com/css2?family=Prompt:wght@200&display=swap');
+  font-weight: 200;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Prompt";
+  src: url('https://fonts.googleapis.com/css2?family=Prompt:wght@300&display=swap');
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Prompt";
+  src: url('https://fonts.googleapis.com/css2?family=Prompt:wght@400&display=swap');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Prompt";
+  src: url('https://fonts.googleapis.com/css2?family=Prompt:wght@500&display=swap');
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Prompt";
+  src: url('https://fonts.googleapis.com/css2?family=Prompt:wght@600&display=swap');
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Prompt";
+  src: url('https://fonts.googleapis.com/css2?family=Prompt:wght@700&display=swap');
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Prompt";
+  src: url('https://fonts.googleapis.com/css2?family=Prompt:wght@800&display=swap');
+  font-weight: 800;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Prompt";
+  src: url('https://fonts.googleapis.com/css2?family=Prompt:wght@900&display=swap');
+  font-weight: 900;
+  font-style: normal;
+}
+
+/* Fuentes en Itálica */
+@font-face {
+  font-family: "Prompt";
+  src: url('https://fonts.googleapis.com/css2?family=Prompt:wght@100&display=swap');
+  font-weight: 100;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Prompt";
+  src: url('https://fonts.googleapis.com/css2?family=Prompt:wght@200&display=swap');
+  font-weight: 200;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Prompt";
+  src: url('https://fonts.googleapis.com/css2?family=Prompt:wght@300&display=swap');
+  font-weight: 300;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Prompt";
+  src: url('https://fonts.googleapis.com/css2?family=Prompt:wght@400&display=swap');
+  font-weight: 400;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Prompt";
+  src: url('https://fonts.googleapis.com/css2?family=Prompt:wght@500&display=swap');
+  font-weight: 500;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Prompt";
+  src: url('https://fonts.googleapis.com/css2?family=Prompt:wght@600&display=swap');
+  font-weight: 600;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Prompt";
+  src: url('https://fonts.googleapis.com/css2?family=Prompt:wght@700&display=swap');
+  font-weight: 700;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Prompt";
+  src: url('https://fonts.googleapis.com/css2?family=Prompt:wght@800&display=swap');
+  font-weight: 800;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Prompt";
+  src: url('https://fonts.googleapis.com/css2?family=Prompt:wght@900&display=swap');
+  font-weight: 900;
+  font-style: italic;
+}
+
+.bg-koox {
+  background-color: #6e0333 !important;
+  color: white !important;
+}
+.text-koox, h1, h2, h3, h4, h5, h6 {
+  color: #6e0333 !important;
+}
+
+body {
+  font-family: 'Prompt', sans-serif;
+  background-color: #f9f9f9;
+  color: #333;
+}
+.hero {
+  background-image: url("{{ url_for('static', filename='koox-hero.jpg') }}");
+  background-size: cover;
+  background-position: center;
+  color: white;
+  text-align: center;
+  margin-bottom: 50px;
+}
+.hero-overlay {
+  background-color: rgba(0, 0, 0, 0.55);
+  padding: 50px 0;
+}
+.section-title {
+  margin-top: 40px;
+  margin-bottom: 20px;
+}
+footer {
+  background-color: #e6e6e6;
+  padding: 20px 0;
+  margin-top: 40px;
+}
+p, li, ul, ol {
+  font-size: 1.15rem;
+}

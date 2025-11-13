@@ -1,4 +1,6 @@
 from flask import Flask, request, jsonify
+from datetime import datetime
+from flask import render_template
 import json
 import os
 import math
@@ -88,6 +90,14 @@ def get_closest_stop():
         return jsonify({"ok": False, "code_http": 404}), 404
     
     return jsonify({"ok": True, "code_http": 200, "body": closest_stop})
+
+
+# Paginas
+@app.route('/')
+def index():
+    """Renderiza la página principal con la documentación."""
+    current_year = datetime.now().year
+    return render_template('index.html', year=current_year)
 
 # Iniciar el servidor Flask
 if __name__ == "__main__":
