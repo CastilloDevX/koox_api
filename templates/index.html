@@ -65,6 +65,45 @@
         otro inconveniente. ¡Uso bajo su propio riesgo!
       </div>
 
+      <!-- SECCIÓN UNIFICADA: WEB + APK -->
+      <section class="py-5 bg-light border-bottom" id="live-version">
+        <div class="container text-center">
+          <div class="p-4 rounded-4 shadow-sm" style="background: white;">
+            <h2 class="fw-bold text-koox mb-3" style="font-size: 2rem;">
+              Accede a las Herramientas Oficiales de Ko'ox
+            </h2>
+
+            <p class="lead mb-4">
+              Explora la web oficial o descarga la aplicación móvil oficial
+            </p>
+
+            <p class="mb-4 fw-bold fs-3">
+              V1.0.0 Beginner's Release
+            </p>
+            <!-- Botones lado a lado -->
+            <div class="d-flex justify-content-center gap-3 flex-wrap">
+
+              <!-- BOTÓN WEB -->
+              <a href="http://kooxweb.vercel.app/" target="_blank" class="btn btn-primary btn-lg px-4 py-3 shadow-sm"
+                style="border-radius: 12px;">
+                🌐 Ir al Sitio Oficial
+              </a>
+
+              <!-- BOTÓN APK -->
+              <a href="{{ url_for('static', filename='apk/koox_app_v1_0_0.apk') }}" download
+                class="btn btn-success btn-lg px-4 py-3 shadow-sm" style="border-radius: 12px;">
+                📱 Descargar APK
+              </a>
+
+            </div>
+
+            <p class="mt-3 text-muted">
+              La app está en fase beta. Disponible solo para Android.
+            </p>
+          </div>
+        </div>
+      </section>
+
       <h2 class="section-title">Descripción del Proyecto</h2>
       <p>
         Ko'ox API es una solución innovadora y de código abierto desarrollada con <strong>Flask</strong> para
